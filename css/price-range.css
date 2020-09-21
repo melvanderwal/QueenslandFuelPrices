@@ -1,0 +1,143 @@
+#priceRangeControlContainer {
+    pointer-events: none;
+}
+
+#rangeContainer {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 280px;
+    width: 60px;
+    /*outline: 1px dashed white;*/
+}
+
+#priceRangeThumbIcon {
+    position: absolute;
+    z-index: 999;
+    left: 6px;
+}
+
+#pricesPopupContainer {
+    display: flex;
+    align-items: top;
+    position: absolute;
+    left: 30px;
+    top: 50px;
+    height: 180px;
+    width: 200px;
+    /*outline: 1px dashed white;*/
+}
+
+.pricesPopupText {
+    position: relative;
+    left: 0px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    letter-spacing: -0.4px;
+    word-spacing: 2px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.pricesPopupSiteName {
+    font-size: 12px;
+    font-weight: 600;
+    color: gold;
+}
+
+.pricesPopupTextSelected {
+    font-size: 12px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.bottomRangeLabel {
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: -0.4px;
+    word-spacing: 2px;
+    color: rgb(50, 255, 50);
+    font-weight: 400;
+}
+
+.topRangeLabel {
+    position: absolute;
+    top: 17px;
+    right: 0px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: -0.4px;
+    word-spacing: 2px;
+    color: rgb(255, 50, 50);
+    font-weight: 400;
+}
+
+.valueLabel[data-value]:after {
+    content: attr(data-value);
+}
+
+.topSiteLabel {
+    top: 0px;
+    color: rgb(255, 50, 50);
+}
+
+.bottomSiteLabel {
+    bottom: 0px;
+    color: rgb(50, 255, 50);
+}
+
+.siteLabel {
+    white-space: nowrap;
+    position: absolute;
+    left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: -0.4px;
+    word-spacing: 2px;
+    font-weight: 600;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.priceRange {
+    transform: rotate(-90deg) translate(-130px, -115px);
+    -webkit-appearance: none;
+    appearance: none;
+    outline: none;
+    width: 250px;
+}
+
+.priceRange::-webkit-slider-runnable-track {
+    -webkit-appearance: none;
+    appearance: none;
+    background: linear-gradient(to right, rgb(50, 255, 50) 0%, rgb(255, 50, 50) 100%);
+    height: 10px;
+    border-radius: 50%;
+}
+
+.priceRange::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 25px;
+    width: 25px;
+    top: -75%;
+    position: relative;
+    border-radius: 50%;
+}
+
+.priceRange.noRangeThumb::-webkit-slider-thumb {
+    display: none;
+}
+
+.priceRange.rangeThumb::-webkit-slider-thumb {
+    display: block;
+}

@@ -2,19 +2,151 @@
 <html>
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- CSS -->
-    <link href="index.css" rel="stylesheet" />
+  <title>Queensland Fuel Prices</title>  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta charset="utf-8" />
+
+
+  <!-- External Javascript -->
+  <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js"></script> <!-- Mapbox -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.10.2/Sortable.min.js"></script> <!-- SortableJS -->
+
+  <!-- CSS -->
+  <link href="css/mapbox.css" rel="stylesheet" />
+  <link href="css/settings.css" rel="stylesheet" />
+  <link href="css/price-range.css" rel="stylesheet" />
+
+  <!-- External CSS -->
+  <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet" />
 </head>
 
 <body>
+  <!-- Main display -->
+  <div id="map"></div>
 
-    <div id="outer">
-        <div id="inner_title">Queensland Fuel Prices</div>
-        <iframe id="inner_map" frameborder="0" allowfullscreen allow="fullscreen; geolocation" scrolling="no"
-            src="https://script.google.com/macros/s/AKfycbw9_v0jAMeLUb3o7OvHv6LytmPDXjoUnb-B6uWM_qgyqNgClDxK/exec"></iframe>
+  <!-- Transparent fading border around edge, turned on by url parameter: fade=true -->
+  <div id="borderFade"></div>
+
+  <div id="titleBar">
+    <span id="pageTitle">Queensland Fuel Prices</span>
+  </div>
+
+  <!-- Startup Spinner -->
+  <div id="kickstart">
+    <span class="fa-stack fa-2x">
+      <i class="kickstartIcon fas fa-gas-pump fa-stack-1x"></i>
+      <i class="kickstartSurround fas fa-circle-notch fa-stack-2x"></i>
+    </span>
+  </div>
+
+  <!-- Divs holding the symbology for markers -->
+  <template id="symbology">
+    <div id="cheapest"><i class="fas fa-gas-pump fa-lg animated flip infinite" style="cursor: pointer"></i></div>
+    <div id="cheap"> <i class="fas fa-gas-pump fa-lg animated rubberBand infinite" style="cursor: pointer"></i></div>
+    <div id="average"><i class="fas fa-gas-pump fa-lg animated tada infinite" style="cursor: pointer"></i></div>
+    <div id="expensive"><i class="fas fa-gas-pump fa-lg animated swing infinite" style="cursor: pointer"></i></div>
+    <div id="mostExpensive"><i class="fas fa-gas-pump fa-lg animated animate pulse infinite"
+        style="cursor: pointer"></i></div>
+    <div id="notCarried"><i class="fas fa-gas-pump" style="color:darkgrey; cursor: pointer"></i></div>
+  </template>
+
+  <!-- Range Control -->
+  <template id="priceRangeControl">
+    <div id="priceRangeControlContainer">
+      <i id="priceRangeThumbIcon"></i>
+      <div id="rangeContainer">
+        <input id="priceRangeSlider" class="priceRange noRangeThumb" type="range" min="0" max="1" value="0.5"
+          step="0.01" disabled />
+        <span class="siteLabel topSiteLabel valueLabel" data-value=""></span>
+        <span class="siteLabel bottomSiteLabel valueLabel" data-value=""></span>
+        <div class="topRangeLabel">
+          <span id="topRangePrice" class="valueLabel" data-value=""></span><sup id="topRangeDecimal" class="valueLabel"
+            data-value=""></sup>
+        </div>
+        <div class="bottomRangeLabel">
+          <span id="bottomRangePrice" class="valueLabel" data-value=""></span><sup id="bottomRangeDecimal"
+            class="valueLabel" data-value=""></sup>
+        </div>
+      </div>
+
+      <div id="pricesPopupContainer" class="pricesPopupText">
+        <div>
+          <span id="pricesPopupSiteName" class="valueLabel pricesPopupSiteName" data-value=""></span><br>
+          <span id="pricesPopupLastUpdated" class="valueLabel pricesPopupSiteName" style="font-size: 10px;"
+            data-value=""></span><br>
+          <div id="pricesPopupComparedLines" class="pricesPopupTextSelected"></div>
+          <div id="pricesPopupDisplayedLines"></div>
+        </div>
+      </div>
+
+      <template id="pricePopupLineTemplate">
+        <div><span class="valueLabel" data-value=""></span><sup class="valueLabel" data-value=""></sup>&nbsp;<span
+            class="valueLabel" data-value=""></span><br></div>
+      </template>
+    </div>
     </div>
 
+    <template id="pricePopupLineTemplate">
+      <div><span class="valueLabel" data-value=""></span><sup class="valueLabel" data-value=""></sup>&nbsp;<span
+          class="valueLabel" data-value=""></span><br></div>
+    </template>
+    </div>
+  </template>
+
+  <!-- Settings Control -->
+  <template id="settingsControl">
+    <div id="openSettingsButton" class="openSettingsBtn"><i class="fas fa-cog animated jello infinite"></i></div>
+  </template>
+
+  <!-- Settings Popup -->
+  <div id="modalSettingsMain" class="custom-model-main" ;>
+    <div class="custom-model-inner">
+      <div id="modalSettingsCloseBtn" class="close-btn">×</div>
+      <div class="custom-model-wrap">
+        <div class="pop-up-content-wrap">
+
+          <span style="font-size: 14px;"><em><b>Drag fuels to organise how you will see them.</b></em></span>
+          <div class="listBg">
+            <p class="descText">The fuels in this group will be compared on the map across petrol stations.
+              You may compare one or more fuel types; for example, if you wish to see the least expensive premium
+              unleaded and you are indifferent to whether it is 95 or 98, drag both here.</p>
+            <ul class="fuelList" id="compared"></ul>
+          </div>
+          <hr>
+
+          <div class="listBg">
+            <p class="descText">These fuel prices will be displayed when you select a petrol station.
+              If you don't wish to see a fuel type, drag it to the bottom group.</p>
+            <ul class="fuelList" id="displayed"></ul>
+          </div>
+          <hr>
+
+          <div class="listBg">
+            <p class="descText">You won't see these fuel types, but you can drag them to the groups above if you wish
+              to see or compare them.</p>
+            <ul class="fuelList" id="hidden"></ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <div id="modalSettingsBg" class="bg-overlay"></div>
+  </div>
+
+  <template id="fuelItemTemplate">
+    <li id="fuelItem" class="fuelListItem"><i class="fas fa-gas-pump"></i>&nbsp;<span class="fuelId"></span>
+    </li>
+  </template>
+  </div>
+
+  <script src="js/cookie-manager.js"></script>
+  <script src="data/prices.js"></script>
+  <script src="js/mapbox-controls.js"></script>
+  <script src="js/mapbox.js"></script>
+  <script src="js/settings.js"></script>
 </body>
 
 </html>

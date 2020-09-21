@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #2e2e2e;
+  overflow: hidden;
+}
+
+#map {
+  position: absolute;
+  margin-top: 50px;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+#titleBar {
+  display: block;
+  position: absolute;
+  pointer-events: none;
+  top: 0;
+  height: 70px;
+  width: 100%;
+  color: rgb(143, 143, 143);
+  font-family: Roboto, Charcoal, sans-serif;
+  font-size: 24px;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.7) 70%, rgba(0, 0, 0, 0) 100%);
+}
+
+#pageTitle {
+  position: absolute;
+  left: 20px;
+  top: 10px;
+}
+
+#borderFade {
+  display: block;
+  position: absolute;
+  pointer-events: none;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(to bottom, rgba(46, 46, 46, 1) 0%, rgba(46, 46, 46, 0) 10%), linear-gradient(to top, rgba(46, 46, 46, 1) 0%, rgba(46, 46, 46, 0) 10%), linear-gradient(to right, rgba(46, 46, 46, 1) 0%, rgba(46, 46, 46, 0) 10%), linear-gradient(to left, rgba(46, 46, 46, 1) 0%, rgba(46, 46, 46, 0) 10%);
+  padding: 0px;
+}
+
+/* Startup animation */
+
+#kickstart {
+  display: block;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  color: #32ff32;
+}
+
+.kickstartIcon {
+  animation: kickstartIcon 1.5s infinite;
+}
+
+.kickstartSurround {
+  animation: kickstartSurround 1.5s infinite;
+}
+
+@keyframes kickstartIcon {
+  0% {
+    transform: rotate(0deg);
+    opacity: 0.5;
+  }
+  40% {
+    opacity: 1;
+  }
+  70% {
+    transform: rotate(360deg);
+    opacity: 0.2;
+  }
+  100% {
+    transform: rotate(360deg);
+    opacity: 0.1;
+  }
+}
+
+@keyframes kickstartSurround {
+  0% {
+    transform: rotate(-30deg);
+    opacity: 1;
+  }
+  50% {
+    transform: rotate(150deg);
+    opacity: 1;
+  }
+  80% {
+    transform: rotate(-30deg);
+    opacity: 0.1;
+  }
+  100% {
+    transform: rotate(-30deg);
+    opacity: 1;
+  }
+}
