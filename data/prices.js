@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:04:03 am",
-	"priceTime": "23/09/2020, 8:46:13 am",
+	"priceTime": "23/09/2020, 8:51:14 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -5644,7 +5644,7 @@ var data={
 				"Suburb": "Booval",
 				"Name": "Caltex Booval",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-22T14:01:00",
+				"LastUpdatedUtc": "2020-09-22T22:44:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -5653,7 +5653,7 @@ var data={
 					"Unleaded": 110.9,
 					"Premium Unleaded 95": 126.9,
 					"Premium Unleaded 98": 135.9,
-					"e10": 108.9,
+					"e10": 107.5,
 					"Premium Diesel": 115.9
 				}
 			}
