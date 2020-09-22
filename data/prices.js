@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:04:03 am",
-	"priceTime": "23/09/2020, 8:31:13 am",
+	"priceTime": "23/09/2020, 8:36:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2723,17 +2723,17 @@ var data={
 				"Suburb": "Perth",
 				"Name": "7-Eleven Strathpine",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-22T22:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.9,
+					"Unleaded": 115.7,
 					"LPG": 78.9,
-					"Premium Unleaded 95": 127.9,
-					"Premium Unleaded 98": 133.9,
-					"e10": 113.9,
+					"Premium Unleaded 95": 127.7,
+					"Premium Unleaded 98": 133.7,
+					"e10": 113.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -2810,16 +2810,16 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "7-Eleven Bald Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-22T22:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.9,
-					"Premium Unleaded 95": 127.9,
-					"Premium Unleaded 98": 133.9,
-					"e10": 113.9,
+					"Unleaded": 115.7,
+					"Premium Unleaded 95": 127.7,
+					"Premium Unleaded 98": 133.7,
+					"e10": 113.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -14545,16 +14545,16 @@ var data={
 				"Suburb": "Heritage Park",
 				"Name": "7-Eleven Heritage Park",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-22T22:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 116.9,
+					"Unleaded": 114.9,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 134.9,
-					"e10": 114.9,
+					"Premium Unleaded 98": 132.9,
+					"e10": 112.9,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -16701,15 +16701,15 @@ var data={
 				"Suburb": "Riverhills",
 				"Name": "7-Eleven River Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-22T22:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
-					"Premium Unleaded 98": 127.9,
-					"e10": 107.9,
+					"Unleaded": 109.4,
+					"Premium Unleaded 98": 127.4,
+					"e10": 107.4,
 					"Premium Diesel": 118.9
 				}
 			}
@@ -23457,15 +23457,15 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "7-Eleven Labrador",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-22T22:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
-					"Premium Unleaded 98": 129.9,
-					"e10": 109.9,
+					"Unleaded": 111.7,
+					"Premium Unleaded 98": 129.7,
+					"e10": 109.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -36494,16 +36494,16 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "7-Eleven Virginia",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T21:59:00",
+				"LastUpdatedUtc": "2020-09-22T22:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.3,
-					"Premium Unleaded 95": 127.3,
-					"Premium Unleaded 98": 133.3,
-					"e10": 113.3,
+					"Unleaded": 114.9,
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 132.9,
+					"e10": 112.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -38699,16 +38699,16 @@ var data={
 				"Suburb": "Logan Reserve",
 				"Name": "7-Eleven Logan Reserve",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-22T22:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
-					"Premium Unleaded 95": 122.7,
-					"Premium Unleaded 98": 128.7,
-					"e10": 108.7,
+					"Unleaded": 110.5,
+					"Premium Unleaded 95": 122.5,
+					"Premium Unleaded 98": 128.5,
+					"e10": 108.5,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -42250,16 +42250,16 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "7-Eleven Hillcrest",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-22T22:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 116.9,
-					"Premium Unleaded 95": 128.9,
-					"Premium Unleaded 98": 134.9,
-					"e10": 114.9,
+					"Unleaded": 114.9,
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 132.9,
+					"e10": 112.9,
 					"Premium Diesel": 114.9
 				}
 			}
