@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 9:46:13 am",
+	"priceTime": "23/09/2020, 9:51:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -446,15 +446,15 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Puma Southport",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-22T20:44:04",
+				"LastUpdatedUtc": "2020-09-22T23:44:51",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
+					"Unleaded": 110.7,
 					"Diesel": 114.9,
-					"Premium Unleaded 95": 124.9
+					"Premium Unleaded 95": 123.7
 				}
 			}
 		},
@@ -2839,14 +2839,14 @@ var data={
 				"Suburb": "Geraldton",
 				"Name": "Caltex Bracken Ridge",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-22T14:01:00",
+				"LastUpdatedUtc": "2020-09-22T23:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 116.9,
-					"e10": 114.9,
+					"Unleaded": 116.5,
+					"e10": 114.5,
 					"Premium Diesel": 117.9
 				}
 			}
@@ -6873,15 +6873,15 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "Puma Labrador",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-21T22:57:26.81",
+				"LastUpdatedUtc": "2020-09-22T23:48:10.1",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 112.7,
-					"Premium Unleaded 98": 133.7,
-					"e10": 110.7,
+					"Unleaded": 110.7,
+					"Premium Unleaded 98": 131.7,
+					"e10": 108.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -11202,15 +11202,15 @@ var data={
 				"Suburb": "Keith",
 				"Name": "Caltex Lawnton",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-22T14:01:00",
+				"LastUpdatedUtc": "2020-09-22T23:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 117.9,
-					"Premium Unleaded 95": 130.9,
-					"Premium Unleaded 98": 138.9,
+					"Unleaded": 116.9,
+					"Premium Unleaded 95": 129.9,
+					"Premium Unleaded 98": 137.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -23537,15 +23537,15 @@ var data={
 				"Suburb": "Kawana Waters",
 				"Name": "Caltex Kawana Waters Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-22T14:01:00",
+				"LastUpdatedUtc": "2020-09-22T23:42:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.7,
+					"Unleaded": 113.9,
 					"Diesel": 114.9,
-					"Premium Unleaded 98": 136.7
+					"Premium Unleaded 98": 134.9
 				}
 			}
 		},
@@ -36552,16 +36552,16 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "Puma Archerfield (Beaudesert Rd)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-22T22:26:43.28",
+				"LastUpdatedUtc": "2020-09-22T23:47:27.333",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 112.7,
 					"Diesel": 114.9,
-					"Premium Unleaded 98": 134.9,
-					"e10": 111.9,
+					"Premium Unleaded 98": 133.7,
+					"e10": 110.7,
 					"Premium Diesel": 116.9
 				}
 			}
