@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 8:16:14 pm",
+	"priceTime": "23/09/2020, 8:21:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -15284,7 +15284,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T08:43:00",
+				"LastUpdatedUtc": "2020-09-23T09:40:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33078,7 +33078,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T08:51:00",
+				"LastUpdatedUtc": "2020-09-23T09:31:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
