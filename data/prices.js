@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 10:16:14 am",
+	"priceTime": "23/09/2020, 10:21:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -729,7 +729,7 @@ var data={
 				"Suburb": "Surfers Paradise",
 				"Name": "7-Eleven Surfers Paradise",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-23T00:07:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -737,7 +737,7 @@ var data={
 				"Prices": {
 					"Unleaded": 110.9,
 					"Premium Unleaded 95": 122.9,
-					"Premium Unleaded 98": 128.9,
+					"Premium Unleaded 98": 128.7,
 					"e10": 108.9,
 					"Premium Diesel": 118.9
 				}
@@ -846,15 +846,15 @@ var data={
 				"Suburb": "Ashmore",
 				"Name": "Caltex Ashmore",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-22T14:01:00",
+				"LastUpdatedUtc": "2020-09-23T00:02:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
-					"Premium Unleaded 98": 129.9,
-					"e10": 106.9,
+					"Unleaded": 108.5,
+					"Premium Unleaded 98": 129.5,
+					"e10": 106.5,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -11373,7 +11373,7 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "United Bald Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T00:06:54.8",
+				"LastUpdatedUtc": "2020-09-23T00:18:52.263",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14633,16 +14633,16 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "7-Eleven Pinelands Road",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-23T00:07:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.7,
+					"Unleaded": 113.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 132.7,
-					"e10": 112.7,
+					"Premium Unleaded 98": 131.9,
+					"e10": 111.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -17258,7 +17258,7 @@ var data={
 				"Suburb": "Maryborough",
 				"Name": "United Tinana",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T00:07:00.817",
+				"LastUpdatedUtc": "2020-09-23T00:18:56.367",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19246,7 +19246,7 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "United Park Ridge",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T00:06:57.83",
+				"LastUpdatedUtc": "2020-09-23T00:18:53.617",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19441,7 +19441,7 @@ var data={
 				"Suburb": "South Rockhampton",
 				"Name": "United South Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T00:06:50.667",
+				"LastUpdatedUtc": "2020-09-23T00:18:49.423",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21707,7 +21707,7 @@ var data={
 				"Suburb": "Nanango",
 				"Name": "United Nanango",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T00:06:59.37",
+				"LastUpdatedUtc": "2020-09-23T00:18:54.923",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22826,7 +22826,7 @@ var data={
 				"Suburb": "Tiaro ",
 				"Name": "United Tiaro",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T00:06:47.567",
+				"LastUpdatedUtc": "2020-09-23T00:18:48.05",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23457,15 +23457,15 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "7-Eleven Labrador",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T22:19:00",
+				"LastUpdatedUtc": "2020-09-23T00:07:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.7,
-					"Premium Unleaded 98": 129.7,
-					"e10": 109.7,
+					"Unleaded": 110.7,
+					"Premium Unleaded 98": 128.7,
+					"e10": 108.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -32066,14 +32066,14 @@ var data={
 				"Suburb": "Barcaldine",
 				"Name": "Choice Barcaldine",
 				"Brand": "Choice",
-				"LastUpdatedUtc": "2020-09-09T04:24:50.813",
+				"LastUpdatedUtc": "2020-09-23T00:15:24.487",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 129.7,
-					"Diesel": 128.7,
+					"Diesel": 127.7,
 					"Premium Unleaded 95": 140.7
 				}
 			}
@@ -33214,7 +33214,7 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah Mills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T00:07:04.253",
+				"LastUpdatedUtc": "2020-09-23T00:18:59.097",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33570,7 +33570,7 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T00:07:02.707",
+				"LastUpdatedUtc": "2020-09-23T00:18:57.73",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36967,15 +36967,15 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "7-Eleven Greenbank",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-23T00:07:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 115.7,
-					"Premium Unleaded 95": 127.7,
-					"Premium Unleaded 98": 133.7,
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 132.9,
 					"e10": 111.7,
 					"Premium Diesel": 114.9
 				}
@@ -37533,16 +37533,16 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "7-Eleven Noosaville",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-23T00:07:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 118.7,
-					"Premium Unleaded 95": 130.7,
-					"Premium Unleaded 98": 136.7,
-					"e10": 116.7,
+					"Unleaded": 117.9,
+					"Premium Unleaded 95": 129.9,
+					"Premium Unleaded 98": 135.9,
+					"e10": 115.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -39380,16 +39380,16 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "7-Eleven Flagstone Central",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-23T00:07:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.7,
-					"Premium Unleaded 95": 127.7,
-					"Premium Unleaded 98": 133.7,
-					"e10": 113.7,
+					"Unleaded": 114.9,
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 132.9,
+					"e10": 112.9,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -39409,7 +39409,7 @@ var data={
 				"Suburb": "Archerfield",
 				"Name": "United Archerfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T00:06:52.443",
+				"LastUpdatedUtc": "2020-09-23T00:18:50.807",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39616,7 +39616,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "United Roma",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T00:07:05.673",
+				"LastUpdatedUtc": "2020-09-23T00:19:00.427",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
