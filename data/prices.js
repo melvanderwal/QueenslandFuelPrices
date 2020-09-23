@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 5:01:14 pm",
+	"priceTime": "23/09/2020, 5:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -26442,7 +26442,7 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "Puma Loganlea",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-23T03:48:29",
+				"LastUpdatedUtc": "2020-09-23T06:52:52",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26450,9 +26450,9 @@ var data={
 				"Prices": {
 					"Unleaded": 110.9,
 					"LPG": 83.9,
-					"Premium Unleaded 95": 123.9,
-					"Premium Unleaded 98": 131.9,
-					"e10": 108.9,
+					"Premium Unleaded 95": 123.7,
+					"Premium Unleaded 98": 131.7,
+					"e10": 108.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -34647,7 +34647,7 @@ var data={
 				"Suburb": "Windaroo",
 				"Name": "United Windaroo",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T06:47:37.32",
+				"LastUpdatedUtc": "2020-09-23T07:00:02.22",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35156,7 +35156,7 @@ var data={
 				"Suburb": "Wandoan",
 				"Name": "United Wandoan Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T06:46:19.207",
+				"LastUpdatedUtc": "2020-09-23T06:59:20.317",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39422,8 +39422,8 @@ var data={
 				"Prices": {
 					"Unleaded": 112.9,
 					"Diesel": 114.9,
-					"Premium Unleaded 95": 126.7,
-					"Premium Unleaded 98": 134.7,
+					"Premium Unleaded 95": 125.9,
+					"Premium Unleaded 98": 133.9,
 					"e10": 110.9,
 					"e85": 169.9
 				}
@@ -40110,7 +40110,7 @@ var data={
 				"Suburb": "Wondai",
 				"Name": "United Wondai Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T06:46:20.777",
+				"LastUpdatedUtc": "2020-09-23T06:59:21.57",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41298,7 +41298,7 @@ var data={
 				"Suburb": "Wellcamp",
 				"Name": "United Toowoomba Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T06:46:14.753",
+				"LastUpdatedUtc": "2020-09-23T06:59:16.377",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41781,7 +41781,7 @@ var data={
 				"Suburb": "Moonie",
 				"Name": "United Moonie Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T06:46:17.697",
+				"LastUpdatedUtc": "2020-09-23T06:59:19.003",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44094,16 +44094,16 @@ var data={
 				"Suburb": "Bokarina",
 				"Name": "Liberty Bokarina",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2020-09-21T04:10:11.653",
+				"LastUpdatedUtc": "2020-09-23T07:03:44.703",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 106.9,
 					"Diesel": 113.9,
-					"Premium Unleaded 98": 133.9,
-					"e10": 109.9,
+					"Premium Unleaded 98": 126.9,
+					"e10": 102.9,
 					"Premium Diesel": 115.9
 				}
 			}
