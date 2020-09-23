@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 6:12:36 am",
+	"priceTime": "24/09/2020, 6:13:33 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -3525,7 +3525,7 @@ var data={
 				"Prices": {
 					"Unleaded": 113.9,
 					"Premium Unleaded 98": 134.7,
-					"e10": 111.9,
+					"e10": 111.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -18216,7 +18216,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "Caltex/Woolworths Warwick",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2020-09-23T19:45:00",
+				"LastUpdatedUtc": "2020-09-23T20:00:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
