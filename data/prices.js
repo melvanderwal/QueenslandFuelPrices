@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 6:31:12 am",
+	"priceTime": "24/09/2020, 6:36:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -10948,15 +10948,15 @@ var data={
 				"Suburb": "Currumbin",
 				"Name": "Puma Currumbin",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-22T05:51:57",
+				"LastUpdatedUtc": "2020-09-23T20:33:36",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 116.7,
+					"Unleaded": 110.7,
 					"Diesel": 115.7,
-					"Premium Unleaded 98": 137.7
+					"Premium Unleaded 98": 131.7
 				}
 			}
 		},
@@ -18972,7 +18972,7 @@ var data={
 				"Suburb": "Miami",
 				"Name": "Metro Petroleum Miami",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-23T03:32:35.33",
+				"LastUpdatedUtc": "2020-09-23T20:32:40.977",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18981,7 +18981,7 @@ var data={
 					"Unleaded": 110.9,
 					"Premium Unleaded 98": 127.9,
 					"e10": 109.9,
-					"Premium Diesel": 114.9
+					"Premium Diesel": 109.9
 				}
 			}
 		},
@@ -34751,15 +34751,15 @@ var data={
 				"Suburb": "Tivoli",
 				"Name": "BP Foodworks Tivoli",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-20T19:08:24.043",
+				"LastUpdatedUtc": "2020-09-23T20:29:18.133",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.9,
+					"Unleaded": 112.9,
 					"Diesel": 116.9,
-					"Premium Unleaded 98": 135.9
+					"Premium Unleaded 98": 133.9
 				}
 			}
 		},
