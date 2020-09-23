@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 1:46:14 pm",
+	"priceTime": "23/09/2020, 1:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3517,15 +3517,15 @@ var data={
 				"Suburb": "Katanning",
 				"Name": "Puma Everton Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-22T20:18:47",
+				"LastUpdatedUtc": "2020-09-23T03:46:42.987",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.5,
-					"Premium Unleaded 98": 136.5,
-					"e10": 113.5,
+					"Unleaded": 114.9,
+					"Premium Unleaded 98": 135.9,
+					"e10": 112.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -3601,17 +3601,17 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "7-Eleven Newmarket",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-23T03:34:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.7,
+					"Unleaded": 114.7,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 127.7,
-					"Premium Unleaded 98": 133.7,
-					"e10": 113.7,
+					"Premium Unleaded 95": 126.7,
+					"Premium Unleaded 98": 132.7,
+					"e10": 112.7,
 					"Premium Diesel": 115.7
 				}
 			}
@@ -9243,18 +9243,18 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Freedom Fuels Rocklea Granard Rd",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-21T23:12:04.437",
+				"LastUpdatedUtc": "2020-09-23T03:45:56.763",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.9,
+					"Unleaded": 113.9,
 					"Diesel": 116.9,
 					"LPG": 82.9,
-					"Premium Unleaded 95": 127.9,
-					"Premium Unleaded 98": 134.9,
-					"e10": 112.9
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 133.9,
+					"e10": 111.9
 				}
 			}
 		},
@@ -15731,16 +15731,16 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "7-Eleven Boronia Heights",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-23T00:43:00",
+				"LastUpdatedUtc": "2020-09-23T03:34:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.5,
-					"Premium Unleaded 95": 125.5,
-					"Premium Unleaded 98": 131.5,
-					"e10": 111.5,
+					"Unleaded": 112.9,
+					"Premium Unleaded 95": 124.9,
+					"Premium Unleaded 98": 130.9,
+					"e10": 110.9,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -38982,15 +38982,15 @@ var data={
 				"Suburb": "Gaythorne",
 				"Name": "7-Eleven Gaythorne",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-23T03:34:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 115.7,
-					"Premium Unleaded 95": 127.7,
-					"Premium Unleaded 98": 133.7,
+					"Premium Unleaded 95": 126.7,
+					"Premium Unleaded 98": 132.7,
 					"e10": 113.7,
 					"Premium Diesel": 115.7
 				}
