@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 1:31:13 pm",
+	"priceTime": "23/09/2020, 1:36:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -7791,7 +7791,7 @@ var data={
 				"Prices": {
 					"Unleaded": 109.7,
 					"Diesel": 112.5,
-					"Premium Unleaded 95": 120.7
+					"Premium Unleaded 95": 119.7
 				}
 			}
 		},
@@ -18555,9 +18555,9 @@ var data={
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 118.7,
-					"Diesel": 119.5,
-					"Premium Unleaded 98": 139.9,
-					"e10": 116.9
+					"Diesel": 118.5,
+					"Premium Unleaded 98": 139.7,
+					"e10": 116.7
 				}
 			}
 		},
@@ -18972,15 +18972,15 @@ var data={
 				"Suburb": "Miami",
 				"Name": "Metro Petroleum Miami",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-21T07:28:02.147",
+				"LastUpdatedUtc": "2020-09-23T03:32:35.33",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.9,
-					"Premium Unleaded 98": 131.9,
-					"e10": 113.9,
+					"Unleaded": 110.9,
+					"Premium Unleaded 98": 127.9,
+					"e10": 109.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -43644,14 +43644,14 @@ var data={
 				"Suburb": "Rural View",
 				"Name": "BP Northern Beaches",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-17T06:00:45.993",
+				"LastUpdatedUtc": "2020-09-23T03:34:23.2",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 115.9,
-					"Premium Unleaded 98": 136.9,
+					"Premium Unleaded 98": 139.9,
 					"e10": 113.9,
 					"Premium Diesel": 118.9
 				}
