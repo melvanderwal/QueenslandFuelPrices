@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 2:31:13 pm",
+	"priceTime": "23/09/2020, 2:36:14 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -5329,16 +5329,16 @@ var data={
 				"Suburb": "Kuraby",
 				"Name": "Freedom Fuels Kuraby",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-21T21:06:45.777",
+				"LastUpdatedUtc": "2020-09-23T04:32:12.58",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.9,
+					"Unleaded": 113.9,
 					"Diesel": 116.9,
-					"Premium Unleaded 98": 134.9,
-					"e10": 112.9
+					"Premium Unleaded 98": 133.9,
+					"e10": 111.9
 				}
 			}
 		},
