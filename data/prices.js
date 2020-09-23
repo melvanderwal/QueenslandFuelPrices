@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 9:16:12 pm",
+	"priceTime": "23/09/2020, 9:21:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -14514,18 +14514,18 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "United Virginia",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T11:12:43.39",
+				"LastUpdatedUtc": "2020-09-23T11:17:13.51",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.7,
+					"Unleaded": 113.9,
 					"Diesel": 114.7,
 					"LPG": 74.9,
-					"Premium Unleaded 95": 127.7,
-					"Premium Unleaded 98": 135.7,
-					"e10": 112.7,
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 134.9,
+					"e10": 111.9,
 					"e85": 169.9
 				}
 			}
@@ -15284,7 +15284,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T09:40:00",
+				"LastUpdatedUtc": "2020-09-23T10:36:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17509,7 +17509,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T10:09:00",
+				"LastUpdatedUtc": "2020-09-23T10:29:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35582,17 +35582,17 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "United Labrador",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T11:12:28.523",
+				"LastUpdatedUtc": "2020-09-23T11:17:10.307",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.5,
+					"Unleaded": 109.9,
 					"Diesel": 114.9,
-					"Premium Unleaded 95": 123.5,
-					"Premium Unleaded 98": 131.5,
-					"e10": 108.5
+					"Premium Unleaded 95": 122.9,
+					"Premium Unleaded 98": 130.9,
+					"e10": 107.9
 				}
 			}
 		},
