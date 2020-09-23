@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 11:16:13 am",
+	"priceTime": "23/09/2020, 11:21:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2130,15 +2130,15 @@ var data={
 				"Suburb": "Leongatha",
 				"Name": "7-Eleven Fairfield Gardens",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-23T00:16:00",
+				"LastUpdatedUtc": "2020-09-23T01:08:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
-					"Premium Unleaded 98": 131.9,
-					"e10": 111.9,
+					"Unleaded": 113.7,
+					"Premium Unleaded 98": 131.7,
+					"e10": 111.7,
 					"Premium Diesel": 117.7
 				}
 			}
@@ -24176,7 +24176,7 @@ var data={
 				"Suburb": "Cannonvale",
 				"Name": "United Cannonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T01:10:48.383",
+				"LastUpdatedUtc": "2020-09-23T01:15:49.333",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33794,7 +33794,7 @@ var data={
 				"Suburb": "Hermit Park",
 				"Name": "United Hermit Park",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T01:09:24.703",
+				"LastUpdatedUtc": "2020-09-23T01:15:54.513",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34642,7 +34642,7 @@ var data={
 				"Suburb": "Windaroo",
 				"Name": "United Windaroo",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T01:10:39.327",
+				"LastUpdatedUtc": "2020-09-23T01:15:47.893",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -40105,7 +40105,7 @@ var data={
 				"Suburb": "Wondai",
 				"Name": "United Wondai Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T01:08:48.103",
+				"LastUpdatedUtc": "2020-09-23T01:15:51.033",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42829,7 +42829,7 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "United Sunnybank Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-23T01:10:37.927",
+				"LastUpdatedUtc": "2020-09-23T01:15:46.427",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
