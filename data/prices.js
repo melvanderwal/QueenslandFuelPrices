@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 9:31:12 pm",
+	"priceTime": "23/09/2020, 9:36:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -14349,8 +14349,8 @@ var data={
 				"Prices": {
 					"Unleaded": 113.7,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 125.9,
-					"Premium Unleaded 98": 131.9,
+					"Premium Unleaded 95": 125.7,
+					"Premium Unleaded 98": 131.7,
 					"e10": 111.7,
 					"Premium Diesel": 115.9
 				}
@@ -16701,14 +16701,14 @@ var data={
 				"Suburb": "Riverhills",
 				"Name": "7-Eleven River Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-23T09:28:00",
+				"LastUpdatedUtc": "2020-09-23T11:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 108.4,
-					"Premium Unleaded 98": 126.4,
+					"Premium Unleaded 98": 125.9,
 					"e10": 106.4,
 					"Premium Diesel": 118.9
 				}
@@ -17939,7 +17939,7 @@ var data={
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 108.4,
-					"Premium Unleaded 98": 126.9,
+					"Premium Unleaded 98": 126.4,
 					"e10": 106.4,
 					"Premium Diesel": 118.9
 				}
@@ -38363,8 +38363,8 @@ var data={
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 110.3,
-					"Premium Unleaded 95": 122.5,
-					"Premium Unleaded 98": 128.5,
+					"Premium Unleaded 95": 122.3,
+					"Premium Unleaded 98": 128.3,
 					"e10": 108.3,
 					"Premium Diesel": 117.7
 				}
@@ -39657,8 +39657,8 @@ var data={
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 110.3,
-					"Premium Unleaded 95": 122.5,
-					"Premium Unleaded 98": 128.5,
+					"Premium Unleaded 95": 122.3,
+					"Premium Unleaded 98": 128.3,
 					"e10": 108.3,
 					"Premium Diesel": 117.7
 				}
