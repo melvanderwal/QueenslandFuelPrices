@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 8:46:13 am",
+	"priceTime": "24/09/2020, 8:51:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -6193,16 +6193,16 @@ var data={
 				"Suburb": "Tailem Bend",
 				"Name": "7-Eleven Kensington Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-23T19:23:00",
+				"LastUpdatedUtc": "2020-09-23T22:36:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.7,
+					"Unleaded": 113.9,
 					"LPG": 80.8,
-					"Premium Unleaded 98": 132.7,
-					"e10": 112.7,
+					"Premium Unleaded 98": 131.9,
+					"e10": 111.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -6538,7 +6538,7 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.9,
+					"Unleaded": 111.9,
 					"Diesel": 116.9,
 					"Premium Unleaded 95": 124.9,
 					"Premium Unleaded 98": 131.9,
@@ -15036,7 +15036,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T21:44:00",
+				"LastUpdatedUtc": "2020-09-23T22:14:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15284,7 +15284,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T21:41:00",
+				"LastUpdatedUtc": "2020-09-23T22:12:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15424,7 +15424,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-23T21:37:00",
+				"LastUpdatedUtc": "2020-09-23T22:10:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15538,7 +15538,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T21:27:00",
+				"LastUpdatedUtc": "2020-09-23T22:10:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17509,7 +17509,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T21:40:00",
+				"LastUpdatedUtc": "2020-09-23T22:10:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24010,7 +24010,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T21:41:00",
+				"LastUpdatedUtc": "2020-09-23T21:51:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33074,7 +33074,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T21:44:00",
+				"LastUpdatedUtc": "2020-09-23T22:14:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36671,10 +36671,10 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
+					"Unleaded": 110.5,
 					"Premium Unleaded 95": 122.5,
 					"Premium Unleaded 98": 128.5,
-					"e10": 108.7,
+					"e10": 108.5,
 					"Premium Diesel": 114.7
 				}
 			}
@@ -36887,10 +36887,10 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.5,
+					"Unleaded": 110.3,
 					"Premium Unleaded 95": 122.3,
 					"Premium Unleaded 98": 128.3,
-					"e10": 108.5,
+					"e10": 108.3,
 					"Premium Diesel": 117.9
 				}
 			}
