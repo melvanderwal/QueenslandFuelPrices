@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 12:31:13 pm",
+	"priceTime": "23/09/2020, 12:36:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -4678,7 +4678,7 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Coles Express Granard Rd",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T02:28:11.387",
+				"LastUpdatedUtc": "2020-09-23T02:34:09.31",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4878,16 +4878,16 @@ var data={
 				"Suburb": "Acacia Ridge",
 				"Name": "7-Eleven Acacia Ridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-23T01:19:00",
+				"LastUpdatedUtc": "2020-09-23T02:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
-					"Premium Unleaded 95": 122.7,
-					"Premium Unleaded 98": 128.7,
-					"e10": 108.7,
+					"Unleaded": 109.7,
+					"Premium Unleaded 95": 121.7,
+					"Premium Unleaded 98": 127.7,
+					"e10": 107.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -14633,16 +14633,16 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "7-Eleven Pinelands Road",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-23T00:07:00",
+				"LastUpdatedUtc": "2020-09-23T02:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 113.7,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 131.9,
-					"e10": 111.9,
+					"Premium Unleaded 98": 131.7,
+					"e10": 111.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -23462,15 +23462,15 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "7-Eleven Labrador",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-23T00:07:00",
+				"LastUpdatedUtc": "2020-09-23T02:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
-					"Premium Unleaded 98": 128.7,
-					"e10": 108.7,
+					"Unleaded": 110.5,
+					"Premium Unleaded 98": 128.5,
+					"e10": 108.5,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -29289,7 +29289,7 @@ var data={
 				"Suburb": "Stanthorpe",
 				"Name": "Metro Petroleum Stanthorpe",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-08-31T10:05:30",
+				"LastUpdatedUtc": "2020-09-23T02:34:47",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -29297,7 +29297,7 @@ var data={
 				"Prices": {
 					"Unleaded": 119.9,
 					"Premium Unleaded 98": 139.9,
-					"Premium Diesel": 121.9
+					"Premium Diesel": 115.9
 				}
 			}
 		},
@@ -36750,16 +36750,16 @@ var data={
 				"Suburb": "Carrara",
 				"Name": "7-Eleven Carrara South",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T20:49:00",
+				"LastUpdatedUtc": "2020-09-23T02:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 117.9,
-					"Premium Unleaded 95": 129.9,
-					"Premium Unleaded 98": 135.9,
-					"e10": 115.9,
+					"Unleaded": 115.9,
+					"Premium Unleaded 95": 127.9,
+					"Premium Unleaded 98": 133.9,
+					"e10": 113.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -38048,16 +38048,16 @@ var data={
 				"Suburb": "Little Mountain",
 				"Name": "7-Eleven Little Mountain",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-22T19:24:00",
+				"LastUpdatedUtc": "2020-09-23T02:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.5,
-					"Premium Unleaded 95": 125.5,
-					"Premium Unleaded 98": 131.5,
-					"e10": 111.5,
+					"Unleaded": 112.5,
+					"Premium Unleaded 95": 124.5,
+					"Premium Unleaded 98": 130.5,
+					"e10": 110.5,
 					"Premium Diesel": 115.9
 				}
 			}
