@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 6:46:13 am",
+	"priceTime": "24/09/2020, 6:51:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15284,7 +15284,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T19:43:00",
+				"LastUpdatedUtc": "2020-09-23T20:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15424,7 +15424,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-23T19:29:00",
+				"LastUpdatedUtc": "2020-09-23T19:59:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15703,7 +15703,7 @@ var data={
 				"Suburb": "Berserker",
 				"Name": "Lakes Creek Servo",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2020-09-23T06:48:46.737",
+				"LastUpdatedUtc": "2020-09-23T20:44:36.74",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15711,7 +15711,7 @@ var data={
 				"Prices": {
 					"Unleaded": 110.9,
 					"Diesel": 109.9,
-					"Premium Unleaded 95": 124.9,
+					"Premium Unleaded 95": 123.9,
 					"e10": 109.5
 				}
 			}
@@ -17509,7 +17509,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T14:01:00",
+				"LastUpdatedUtc": "2020-09-23T20:00:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24010,7 +24010,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T18:37:00",
+				"LastUpdatedUtc": "2020-09-23T20:07:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33074,7 +33074,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T19:16:00",
+				"LastUpdatedUtc": "2020-09-23T20:06:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36551,16 +36551,16 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "Puma Archerfield (Beaudesert Rd)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-23T01:54:52.04",
+				"LastUpdatedUtc": "2020-09-23T20:48:56.69",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.7,
+					"Unleaded": 109.5,
 					"Diesel": 114.9,
-					"Premium Unleaded 98": 130.7,
-					"e10": 107.7,
+					"Premium Unleaded 98": 130.5,
+					"e10": 107.5,
 					"Premium Diesel": 116.9
 				}
 			}
@@ -42311,10 +42311,10 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 118.9,
+					"Unleaded": 117.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 95": 131.9,
-					"Premium Unleaded 98": 138.9,
+					"Premium Unleaded 95": 130.9,
+					"Premium Unleaded 98": 137.9,
 					"e10": 115.9
 				}
 			}
