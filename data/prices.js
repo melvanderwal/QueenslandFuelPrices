@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 7:01:13 pm",
+	"priceTime": "23/09/2020, 7:06:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -8035,15 +8035,15 @@ var data={
 				"Suburb": "Adelaide",
 				"Name": "Moorooka Servo",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2020-09-21T06:04:09.28",
+				"LastUpdatedUtc": "2020-09-23T09:03:20.933",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.7,
+					"Unleaded": 109.7,
 					"Diesel": 114.9,
-					"Premium Unleaded 98": 128.7
+					"Premium Unleaded 98": 124.7
 				}
 			}
 		},
