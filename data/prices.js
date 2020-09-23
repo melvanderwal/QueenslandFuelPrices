@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 2:46:16 pm",
+	"priceTime": "23/09/2020, 2:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2753,15 +2753,15 @@ var data={
 				"Suburb": "Perth",
 				"Name": "Puma Strathpine",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-23T00:36:32",
+				"LastUpdatedUtc": "2020-09-23T04:42:53",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.7,
-					"Premium Unleaded 95": 128.7,
-					"e10": 113.7,
+					"Unleaded": 114.7,
+					"Premium Unleaded 95": 127.7,
+					"e10": 112.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -3773,15 +3773,15 @@ var data={
 				"Suburb": "New Norfolk",
 				"Name": "Puma Clayfield",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-23T00:58:48.597",
+				"LastUpdatedUtc": "2020-09-23T04:47:40.457",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.3,
-					"Premium Unleaded 98": 136.3,
-					"e10": 113.3,
+					"Unleaded": 114.7,
+					"Premium Unleaded 98": 135.7,
+					"e10": 112.7,
 					"Premium Diesel": 119.7
 				}
 			}
@@ -8202,16 +8202,16 @@ var data={
 				"Suburb": "Victoria Point",
 				"Name": "Freedom Fuels Victoria Point",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-22T21:20:00.727",
+				"LastUpdatedUtc": "2020-09-23T04:47:43.83",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 120.9,
+					"Unleaded": 119.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 133.9,
-					"e10": 118.9
+					"Premium Unleaded 95": 132.9,
+					"e10": 117.9
 				}
 			}
 		},
@@ -40162,15 +40162,15 @@ var data={
 				"Suburb": "Gympie",
 				"Name": "The Victory Store",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2020-08-18T03:22:02.07",
+				"LastUpdatedUtc": "2020-09-23T04:48:00.14",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 118.9,
-					"Diesel": 118.9,
-					"Premium Unleaded 95": 128.9
+					"Unleaded": 115.9,
+					"Diesel": 110.9,
+					"Premium Unleaded 95": 124.9
 				}
 			}
 		},
