@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "23/09/2020, 8:01:12 pm",
+	"priceTime": "23/09/2020, 8:06:16 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -43084,7 +43084,7 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "Metro Petroleum Greenbank",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-23T03:16:36.25",
+				"LastUpdatedUtc": "2020-09-23T10:02:13.87",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43093,8 +43093,8 @@ var data={
 					"Unleaded": 112.9,
 					"Premium Unleaded 95": 122.9,
 					"Premium Unleaded 98": 130.9,
-					"e10": 110.9,
-					"Premium Diesel": 109.9
+					"e10": 105.9,
+					"Premium Diesel": 104.9
 				}
 			}
 		},
