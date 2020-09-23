@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 1:01:13 am",
+	"priceTime": "24/09/2020, 1:06:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -615,7 +615,7 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Coles Express Southport",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T14:59:16.363",
+				"LastUpdatedUtc": "2020-09-23T15:04:14.73",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
