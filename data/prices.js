@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 8:01:13 am",
+	"priceTime": "24/09/2020, 8:06:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -5528,16 +5528,16 @@ var data={
 				"Suburb": "Redland Bay",
 				"Name": "BP Redland Bay",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-23T05:46:35.987",
+				"LastUpdatedUtc": "2020-09-23T22:00:33.8",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 119.9,
-					"Premium Unleaded 95": 132.9,
-					"Premium Unleaded 98": 138.9,
-					"e10": 117.9,
+					"Unleaded": 118.9,
+					"Premium Unleaded 95": 131.9,
+					"Premium Unleaded 98": 137.9,
+					"e10": 116.9,
 					"Premium Diesel": 119.9
 				}
 			}
