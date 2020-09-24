@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 5:31:15 pm",
+	"priceTime": "24/09/2020, 5:36:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3829,14 +3829,14 @@ var data={
 				"Suburb": "Launceston",
 				"Name": "Puma Grange",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T04:29:22.6",
+				"LastUpdatedUtc": "2020-09-24T07:30:57.59",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 112.7,
-					"Premium Unleaded 98": 133.7,
+					"Unleaded": 111.7,
+					"Premium Unleaded 98": 132.7,
 					"Premium Diesel": 115.7
 				}
 			}
@@ -5477,9 +5477,9 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.7,
+					"Unleaded": 111.4,
 					"Premium Unleaded 98": 129.4,
-					"e10": 109.7,
+					"e10": 109.4,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -14724,11 +14724,11 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.5,
+					"Unleaded": 113,
 					"LPG": 80.8,
 					"Premium Unleaded 95": 125,
 					"Premium Unleaded 98": 131,
-					"e10": 111.5,
+					"e10": 111,
 					"Premium Diesel": 118.9
 				}
 			}
