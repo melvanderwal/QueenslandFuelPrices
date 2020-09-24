@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 6:16:13 am",
+	"priceTime": "25/09/2020, 6:21:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15283,7 +15283,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T18:43:00",
+				"LastUpdatedUtc": "2020-09-24T19:37:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36074,7 +36074,7 @@ var data={
 				"Suburb": "Biggera Waters",
 				"Name": "Coles Express Biggera Waters",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T20:14:13.84",
+				"LastUpdatedUtc": "2020-09-24T20:18:15.447",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
