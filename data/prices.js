@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 1:46:13 pm",
+	"priceTime": "24/09/2020, 1:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -4907,14 +4907,14 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "Puma Coopers Plains",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-23T22:22:00.313",
+				"LastUpdatedUtc": "2020-09-24T03:47:09.5",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.3,
-					"Premium Unleaded 98": 130.3,
+					"Unleaded": 108.7,
+					"Premium Unleaded 98": 129.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -13835,15 +13835,15 @@ var data={
 				"Suburb": "Benaraby",
 				"Name": "Caltex Boyne River Benaraby",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T14:01:00",
+				"LastUpdatedUtc": "2020-09-24T03:37:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.5,
+					"Unleaded": 114.3,
 					"Diesel": 117.9,
-					"Premium Unleaded 98": 135.5,
+					"Premium Unleaded 98": 135.3,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -15035,7 +15035,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T01:45:00",
+				"LastUpdatedUtc": "2020-09-24T03:07:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15283,7 +15283,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T02:28:00",
+				"LastUpdatedUtc": "2020-09-24T03:13:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17508,7 +17508,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T02:36:00",
+				"LastUpdatedUtc": "2020-09-24T02:53:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24012,7 +24012,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T02:39:00",
+				"LastUpdatedUtc": "2020-09-24T02:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -27531,13 +27531,14 @@ var data={
 				"Suburb": "Bowen",
 				"Name": "Coles Express Delta Bruce Hwy",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T19:21:19.403",
+				"LastUpdatedUtc": "2020-09-24T03:47:17.303",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 115.9,
+					"Diesel": 117.9,
 					"Premium Unleaded 95": 132.9,
 					"Premium Unleaded 98": 138.9
 				}
@@ -28560,18 +28561,18 @@ var data={
 				"Suburb": "Ayr",
 				"Name": "Shell Ayr",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2020-09-17T01:39:34.113",
+				"LastUpdatedUtc": "2020-09-24T03:47:36.723",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 106.9,
-					"Diesel": 106.9,
+					"Unleaded": 108.9,
+					"Diesel": 107.9,
 					"LPG": 99.9,
-					"Premium Unleaded 98": 130.7,
-					"e10": 106.9,
-					"Premium Diesel": 106.9
+					"Premium Unleaded 98": 131.9,
+					"e10": 108.4,
+					"Premium Diesel": 107.9
 				}
 			}
 		},
@@ -33074,7 +33075,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T02:42:00",
+				"LastUpdatedUtc": "2020-09-24T02:55:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33083,7 +33084,7 @@ var data={
 					"Unleaded": 101.5,
 					"Diesel": 111.9,
 					"Premium Unleaded 98": 122.5,
-					"e10": 99.4
+					"e10": 99.5
 				}
 			}
 		},
@@ -38271,9 +38272,9 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.3,
-					"Premium Unleaded 95": 122.3,
-					"Premium Unleaded 98": 128.3,
+					"Unleaded": 109.9,
+					"Premium Unleaded 95": 121.9,
+					"Premium Unleaded 98": 127.9,
 					"e10": 107.9,
 					"Premium Diesel": 117.9
 				}
