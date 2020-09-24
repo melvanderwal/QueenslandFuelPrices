@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 7:46:12 pm",
+	"priceTime": "24/09/2020, 7:51:14 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -40085,7 +40085,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "United Dalby Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-24T09:30:14.793",
+				"LastUpdatedUtc": "2020-09-24T09:44:15.903",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
