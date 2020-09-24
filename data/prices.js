@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 6:01:13 am",
+	"priceTime": "25/09/2020, 6:06:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -4304,13 +4304,13 @@ var data={
 				"Suburb": "Ulverstone",
 				"Name": "BP Ashgrove (Waterworks Rd)",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-24T00:25:17.71",
+				"LastUpdatedUtc": "2020-09-24T19:59:16.563",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 112.9,
 					"Premium Unleaded 95": 129.9,
 					"Premium Unleaded 98": 135.9,
 					"Premium Diesel": 119.9
@@ -31621,17 +31621,17 @@ var data={
 				"Suburb": "Calliope",
 				"Name": "Puma Calliope Service Centre",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-22T00:36:03",
+				"LastUpdatedUtc": "2020-09-24T19:56:55",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.3,
+					"Unleaded": 113.9,
 					"Diesel": 117.7,
-					"Premium Unleaded 95": 127.3,
-					"Premium Unleaded 98": 135.3,
-					"e10": 112.3,
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 134.9,
+					"e10": 111.9,
 					"Premium Diesel": 119.7
 				}
 			}
