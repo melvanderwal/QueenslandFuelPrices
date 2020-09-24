@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 12:16:13 pm",
+	"priceTime": "24/09/2020, 12:21:14 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -615,16 +615,16 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Coles Express Southport",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T19:23:40.853",
+				"LastUpdatedUtc": "2020-09-24T02:19:04.363",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.9,
+					"Unleaded": 109.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 123.9,
-					"Premium Unleaded 98": 133.9
+					"Premium Unleaded 95": 122.9,
+					"Premium Unleaded 98": 132.9
 				}
 			}
 		},
@@ -4821,16 +4821,16 @@ var data={
 				"Suburb": "Sunnybank",
 				"Name": "Coles Express Sunnybank",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T19:22:34.99",
+				"LastUpdatedUtc": "2020-09-24T02:19:04.75",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.7,
+					"Unleaded": 113.5,
 					"Diesel": 117.9,
-					"Premium Unleaded 95": 131.7,
-					"Premium Unleaded 98": 137.7
+					"Premium Unleaded 95": 130.5,
+					"Premium Unleaded 98": 136.5
 				}
 			}
 		},
@@ -5042,16 +5042,16 @@ var data={
 				"Suburb": "Mount Gambier",
 				"Name": "Coles Express Kessels Rd",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T23:14:21.227",
+				"LastUpdatedUtc": "2020-09-24T02:19:03.923",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 118.9,
+					"Unleaded": 116.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 95": 135.9,
-					"Premium Unleaded 98": 141.9
+					"Premium Unleaded 95": 133.9,
+					"Premium Unleaded 98": 139.9
 				}
 			}
 		},
@@ -5443,7 +5443,7 @@ var data={
 				"Suburb": "Daisy Hill",
 				"Name": "Coles Express Daisy Hill",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T02:14:17.413",
+				"LastUpdatedUtc": "2020-09-24T02:19:03.507",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6560,7 +6560,7 @@ var data={
 				"Suburb": "Marsden",
 				"Name": "Coles Express Marsden",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T02:14:17.04",
+				"LastUpdatedUtc": "2020-09-24T02:16:03.547",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12420,14 +12420,14 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "Puma Greenbank",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-23T21:07:43.03",
+				"LastUpdatedUtc": "2020-09-24T02:16:02.933",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 112.9,
-					"Premium Unleaded 98": 133.9,
+					"Unleaded": 112.7,
+					"Premium Unleaded 98": 133.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -12535,16 +12535,16 @@ var data={
 				"Suburb": "Burnie",
 				"Name": "Coles Express Windsor (Qld)",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T23:14:19.377",
+				"LastUpdatedUtc": "2020-09-24T02:19:05.113",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 112.7,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 130.9,
-					"Premium Unleaded 98": 136.9
+					"Premium Unleaded 95": 129.7,
+					"Premium Unleaded 98": 135.7
 				}
 			}
 		},
@@ -15034,7 +15034,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T01:12:00",
+				"LastUpdatedUtc": "2020-09-24T01:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15282,7 +15282,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T01:08:00",
+				"LastUpdatedUtc": "2020-09-24T01:39:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15422,7 +15422,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-24T01:02:00",
+				"LastUpdatedUtc": "2020-09-24T01:40:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15536,7 +15536,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T01:04:00",
+				"LastUpdatedUtc": "2020-09-24T01:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17507,7 +17507,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T00:48:00",
+				"LastUpdatedUtc": "2020-09-24T01:42:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24011,7 +24011,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T00:48:00",
+				"LastUpdatedUtc": "2020-09-24T01:42:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33073,7 +33073,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T00:52:00",
+				"LastUpdatedUtc": "2020-09-24T01:39:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33082,7 +33082,7 @@ var data={
 					"Unleaded": 101.5,
 					"Diesel": 111.9,
 					"Premium Unleaded 98": 122.5,
-					"e10": 99.6
+					"e10": 99.5
 				}
 			}
 		},
