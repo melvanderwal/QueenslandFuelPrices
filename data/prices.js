@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 7:31:13 am",
+	"priceTime": "25/09/2020, 7:36:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -3631,16 +3631,16 @@ var data={
 				"Suburb": "Smithton",
 				"Name": "Shell Kelvin Grove",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2020-09-24T07:11:40",
+				"LastUpdatedUtc": "2020-09-24T21:33:34",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 112.7,
+					"Unleaded": 111.7,
 					"Diesel": 115.7,
-					"Premium Unleaded 98": 128.7,
-					"e10": 110.7,
+					"Premium Unleaded 98": 127.7,
+					"e10": 109.7,
 					"Premium Diesel": 125.7
 				}
 			}
@@ -7917,17 +7917,17 @@ var data={
 				"Suburb": "Purga",
 				"Name": "Liberty Yamanto",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2020-09-24T20:45:56.043",
+				"LastUpdatedUtc": "2020-09-24T21:33:04.673",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
+					"Unleaded": 106.9,
 					"Diesel": 110.7,
-					"Premium Unleaded 95": 120.9,
-					"Premium Unleaded 98": 126.9,
-					"e10": 106.9,
+					"Premium Unleaded 95": 118.9,
+					"Premium Unleaded 98": 124.9,
+					"e10": 104.9,
 					"Premium Diesel": 112.7
 				}
 			}
