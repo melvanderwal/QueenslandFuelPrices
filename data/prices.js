@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 7:01:13 pm",
+	"priceTime": "24/09/2020, 7:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -4108,15 +4108,15 @@ var data={
 				"Suburb": "Wynnum West",
 				"Name": "Puma Wynnum West",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-22T23:30:50.293",
+				"LastUpdatedUtc": "2020-09-24T09:01:11.953",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.7,
-					"Premium Unleaded 98": 134.7,
-					"e10": 111.7,
+					"Unleaded": 111.7,
+					"Premium Unleaded 98": 132.7,
+					"e10": 109.7,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -5252,7 +5252,7 @@ var data={
 				"Prices": {
 					"Unleaded": 111.9,
 					"Premium Unleaded 98": 129.9,
-					"e10": 110.4,
+					"e10": 109.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -6476,14 +6476,14 @@ var data={
 				"Suburb": "Kalinga",
 				"Name": "Puma Kalinga",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T04:38:17",
+				"LastUpdatedUtc": "2020-09-24T09:01:21",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.7,
-					"Premium Unleaded 98": 132.7,
+					"Unleaded": 111.3,
+					"Premium Unleaded 98": 132.3,
 					"Premium Diesel": 119.7
 				}
 			}
@@ -15005,7 +15005,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "United Bundaberg",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-24T08:54:13.1",
+				"LastUpdatedUtc": "2020-09-24T09:04:58.223",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19936,7 +19936,7 @@ var data={
 				"Suburb": "Colinton",
 				"Name": "United Colinton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-24T08:54:14.51",
+				"LastUpdatedUtc": "2020-09-24T09:04:59.54",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
