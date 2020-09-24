@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 12:46:13 am",
+	"priceTime": "25/09/2020, 12:51:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -615,7 +615,7 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Coles Express Southport",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T02:44:16.573",
+				"LastUpdatedUtc": "2020-09-24T14:48:18.307",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2071,7 +2071,7 @@ var data={
 				"Suburb": "Lakes Entrance",
 				"Name": "United Sherwood",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-24T14:30:13.313",
+				"LastUpdatedUtc": "2020-09-24T14:44:07.18",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
