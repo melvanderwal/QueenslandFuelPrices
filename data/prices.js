@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 8:31:13 am",
+	"priceTime": "25/09/2020, 8:36:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2527,16 +2527,16 @@ var data={
 				"Suburb": "Kadina",
 				"Name": "Metro Clontarf",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-23T01:52:54",
+				"LastUpdatedUtc": "2020-09-24T22:32:58",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
+					"Unleaded": 108.9,
 					"LPG": 78.9,
-					"e10": 107.9,
-					"Premium Diesel": 110.9
+					"e10": 102.9,
+					"Premium Diesel": 109.7
 				}
 			}
 		},
