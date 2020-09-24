@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 8:16:13 pm",
+	"priceTime": "24/09/2020, 8:21:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -1587,16 +1587,16 @@ var data={
 				"Suburb": "Moe",
 				"Name": "BP Cannon Hill",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-22T00:14:32.617",
+				"LastUpdatedUtc": "2020-09-24T10:17:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
-					"Premium Unleaded 95": 126.9,
-					"Premium Unleaded 98": 134.9,
-					"e10": 111.9,
+					"Unleaded": 109.9,
+					"Premium Unleaded 95": 122.9,
+					"Premium Unleaded 98": 130.9,
+					"e10": 107.9,
 					"Premium Diesel": 118.9
 				}
 			}
@@ -15283,7 +15283,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T08:28:00",
+				"LastUpdatedUtc": "2020-09-24T09:38:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15537,7 +15537,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T07:07:00",
+				"LastUpdatedUtc": "2020-09-24T09:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17508,7 +17508,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T07:51:00",
+				"LastUpdatedUtc": "2020-09-24T09:17:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
