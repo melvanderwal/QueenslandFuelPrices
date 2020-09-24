@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 2:46:13 pm",
+	"priceTime": "24/09/2020, 2:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3920,7 +3920,7 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.5,
+					"Unleaded": 112.5,
 					"Premium Unleaded 98": 133.5,
 					"Premium Diesel": 119.7
 				}
@@ -15035,7 +15035,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T03:17:00",
+				"LastUpdatedUtc": "2020-09-24T04:14:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15283,7 +15283,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T03:44:00",
+				"LastUpdatedUtc": "2020-09-24T04:03:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15423,14 +15423,14 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-24T03:27:00",
+				"LastUpdatedUtc": "2020-09-24T04:04:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 109.9,
-					"Diesel": 116.9,
+					"Diesel": 117,
 					"Premium Unleaded 95": 122.9
 				}
 			}
@@ -15537,7 +15537,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T03:44:00",
+				"LastUpdatedUtc": "2020-09-24T04:13:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17508,7 +17508,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T03:35:00",
+				"LastUpdatedUtc": "2020-09-24T04:12:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24012,7 +24012,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T03:44:00",
+				"LastUpdatedUtc": "2020-09-24T04:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33079,7 +33079,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T03:32:00",
+				"LastUpdatedUtc": "2020-09-24T04:10:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
