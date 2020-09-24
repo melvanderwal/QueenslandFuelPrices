@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 5:46:13 am",
+	"priceTime": "25/09/2020, 5:51:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15035,7 +15035,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T17:49:00",
+				"LastUpdatedUtc": "2020-09-24T19:08:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33077,7 +33077,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T14:01:00",
+				"LastUpdatedUtc": "2020-09-24T19:03:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
