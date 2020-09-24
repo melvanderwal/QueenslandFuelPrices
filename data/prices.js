@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 10:30:58 am",
+	"priceTime": "24/09/2020, 10:32:52 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -16447,9 +16447,9 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 102.9,
+					"Unleaded": 101.9,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 120.9,
+					"Premium Unleaded 98": 119.9,
 					"e10": 99.9,
 					"Premium Diesel": 119.9
 				}
@@ -31143,14 +31143,14 @@ var data={
 				"Suburb": "Drayton",
 				"Name": "BP Drayton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-22T05:13:08",
+				"LastUpdatedUtc": "2020-09-24T00:29:04",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 118.7,
-					"Diesel": 107.7,
+					"Unleaded": 117.7,
+					"Diesel": 106.7,
 					"Premium Unleaded 98": 148.9
 				}
 			}
@@ -43417,9 +43417,9 @@ var data={
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 120.7,
-					"Premium Unleaded 95": 132.7,
+					"Premium Unleaded 95": 131.9,
 					"Premium Unleaded 98": 137.9,
-					"e10": 118.7,
+					"e10": 117.9,
 					"Premium Diesel": 119.9
 				}
 			}
