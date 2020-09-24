@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 8:01:12 pm",
+	"priceTime": "24/09/2020, 8:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -11976,17 +11976,17 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "Metro Petroleum Hillcrest",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-23T18:57:28.817",
+				"LastUpdatedUtc": "2020-09-24T10:02:40.8",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 112.9,
-					"Premium Unleaded 95": 122.9,
-					"Premium Unleaded 98": 130.9,
-					"e10": 110.9,
-					"Premium Diesel": 109.9
+					"Unleaded": 111.9,
+					"Premium Unleaded 95": 121.9,
+					"Premium Unleaded 98": 129.9,
+					"e10": 104.9,
+					"Premium Diesel": 104.9
 				}
 			}
 		},
@@ -43095,8 +43095,8 @@ var data={
 					"Unleaded": 112.9,
 					"Premium Unleaded 95": 122.9,
 					"Premium Unleaded 98": 130.9,
-					"e10": 110.9,
-					"Premium Diesel": 109.9
+					"e10": 105.9,
+					"Premium Diesel": 104.9
 				}
 			}
 		},
