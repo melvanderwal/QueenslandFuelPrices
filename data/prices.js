@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 3:01:13 pm",
+	"priceTime": "24/09/2020, 3:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3914,14 +3914,14 @@ var data={
 				"Suburb": "Campbell Town",
 				"Name": "Puma Albion",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T04:23:11",
+				"LastUpdatedUtc": "2020-09-24T05:04:54",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 112.5,
-					"Premium Unleaded 98": 133.5,
+					"Premium Unleaded 98": 132.7,
 					"Premium Diesel": 119.7
 				}
 			}
@@ -6700,16 +6700,16 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "Puma Mango Hill",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T03:52:50.837",
+				"LastUpdatedUtc": "2020-09-24T05:02:51.827",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.7,
+					"Unleaded": 109.4,
 					"LPG": 81.9,
-					"Premium Unleaded 98": 130.7,
-					"e10": 107.7,
+					"Premium Unleaded 98": 130.4,
+					"e10": 107.4,
 					"Premium Diesel": 117.7
 				}
 			}
@@ -41187,16 +41187,16 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "7-Eleven Mango Hill",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-24T04:41:00",
+				"LastUpdatedUtc": "2020-09-24T04:46:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.4,
-					"Premium Unleaded 95": 121.4,
-					"Premium Unleaded 98": 127.4,
-					"e10": 107.4,
+					"Unleaded": 109.7,
+					"Premium Unleaded 95": 121.7,
+					"Premium Unleaded 98": 127.7,
+					"e10": 107.7,
 					"Premium Diesel": 117.9
 				}
 			}
