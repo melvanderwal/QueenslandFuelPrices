@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 6:46:13 pm",
+	"priceTime": "24/09/2020, 6:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3290,14 +3290,14 @@ var data={
 				"Suburb": "Collie",
 				"Name": "Puma Nundah",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T01:55:43",
+				"LastUpdatedUtc": "2020-09-24T08:33:44",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.7,
-					"Premium Unleaded 98": 132.7,
+					"Unleaded": 111.3,
+					"Premium Unleaded 98": 132.3,
 					"Premium Diesel": 117.7
 				}
 			}
@@ -13472,16 +13472,16 @@ var data={
 				"Suburb": "Sarina",
 				"Name": "Caltex Sarina Star",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-23T23:33:59",
+				"LastUpdatedUtc": "2020-09-24T08:46:24",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 101.9,
-					"Diesel": 109.9,
+					"Unleaded": 97.9,
+					"Diesel": 107.9,
 					"Premium Unleaded 98": 129.9,
-					"Premium Diesel": 113.9
+					"Premium Diesel": 110.9
 				}
 			}
 		},
@@ -15283,7 +15283,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T07:41:00",
+				"LastUpdatedUtc": "2020-09-24T07:51:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17508,7 +17508,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T07:38:00",
+				"LastUpdatedUtc": "2020-09-24T07:51:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24012,7 +24012,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T07:33:00",
+				"LastUpdatedUtc": "2020-09-24T07:55:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
