@@ -1,5 +1,5 @@
 {
-	"siteTime": "24/09/2020, 8:56:45 am",
+	"siteTime": "25/09/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -21175,29 +21175,6 @@
 				"Address": "49 Resource Street",
 				"Suburb": "Parkinson",
 				"Name": "Caltex Parkinson Diesel Stop",
-				"Brand": "Caltex",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402874,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.859532,
-					-27.544782
-				]
-			},
-			"properties": {
-				"Address": "Lot 7 Heinemann Road",
-				"Suburb": "Charlton",
-				"Name": "Caltex Charlton Diesel Stop",
 				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
