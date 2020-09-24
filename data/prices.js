@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 4:46:14 am",
+	"priceTime": "25/09/2020, 4:51:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -568,7 +568,7 @@ var data={
 				"Prices": {
 					"Unleaded": 107.9,
 					"Diesel": 107.9,
-					"Premium Unleaded 98": 121,
+					"Premium Unleaded 98": 123.9,
 					"Premium Diesel": 113.9
 				}
 			}
@@ -8209,7 +8209,7 @@ var data={
 				"Prices": {
 					"Unleaded": 116.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 130.9,
+					"Premium Unleaded 95": 129.9,
 					"e10": 114.9
 				}
 			}
@@ -15035,7 +15035,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T14:01:00",
+				"LastUpdatedUtc": "2020-09-24T17:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24012,7 +24012,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T14:01:00",
+				"LastUpdatedUtc": "2020-09-24T17:51:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
