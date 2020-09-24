@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "24/09/2020, 12:01:12 pm",
+	"priceTime": "24/09/2020, 12:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2640,16 +2640,16 @@ var data={
 				"Suburb": "Kadina",
 				"Name": "Coles Express Clontarf",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T19:21:52.047",
+				"LastUpdatedUtc": "2020-09-24T02:04:07.43",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
+					"Unleaded": 109.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 128.9,
-					"Premium Unleaded 98": 134.9
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 132.9
 				}
 			}
 		},
@@ -3206,15 +3206,15 @@ var data={
 				"Suburb": "Broome",
 				"Name": "Coles Express Geebung",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T23:13:08.2",
+				"LastUpdatedUtc": "2020-09-24T02:04:06.613",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 112.7,
 					"Diesel": 115.9,
-					"Premium Unleaded 98": 136.9
+					"Premium Unleaded 98": 135.7
 				}
 			}
 		},
@@ -3517,15 +3517,15 @@ var data={
 				"Suburb": "Katanning",
 				"Name": "Puma Everton Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-23T20:11:52",
+				"LastUpdatedUtc": "2020-09-24T02:00:13",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.7,
-					"Premium Unleaded 98": 134.7,
-					"e10": 111.7,
+					"Unleaded": 112.7,
+					"Premium Unleaded 98": 133.7,
+					"e10": 110.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -5901,7 +5901,7 @@ var data={
 				"Suburb": "Port Augusta",
 				"Name": "Coles Express Loganholme",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T01:58:16.987",
+				"LastUpdatedUtc": "2020-09-24T02:04:03.757",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6132,18 +6132,18 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "Coles Express Virginia",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T23:26:34.07",
+				"LastUpdatedUtc": "2020-09-24T02:04:09.043",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 111.9,
 					"Diesel": 116.9,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 126.9,
-					"Premium Unleaded 98": 136.9,
-					"e10": 112.9
+					"Premium Unleaded 95": 124.9,
+					"Premium Unleaded 98": 134.9,
+					"e10": 110.9
 				}
 			}
 		},
@@ -6419,7 +6419,7 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "Puma Woodridge",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-20T06:55:20.97",
+				"LastUpdatedUtc": "2020-09-24T02:04:43.3",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6428,7 +6428,7 @@ var data={
 					"Unleaded": 111.5,
 					"Premium Unleaded 98": 132.5,
 					"e10": 109.5,
-					"Premium Diesel": 114.9
+					"Premium Diesel": 112.9
 				}
 			}
 		},
@@ -6503,7 +6503,7 @@ var data={
 				"Suburb": "Kippa-Ring",
 				"Name": "Coles Express Kippa-Ring",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T01:58:19.16",
+				"LastUpdatedUtc": "2020-09-24T02:04:05.023",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6560,16 +6560,16 @@ var data={
 				"Suburb": "Marsden",
 				"Name": "Coles Express Marsden",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T01:10:11.293",
+				"LastUpdatedUtc": "2020-09-24T02:04:10.823",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.9,
+					"Unleaded": 113.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 98": 137.9,
-					"e10": 113.9
+					"Premium Unleaded 98": 136.9,
+					"e10": 112.9
 				}
 			}
 		},
@@ -8433,7 +8433,7 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "Coles Express Kallangur",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T01:58:19.66",
+				"LastUpdatedUtc": "2020-09-24T02:04:05.393",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8895,16 +8895,16 @@ var data={
 				"Suburb": "Colac",
 				"Name": "Coles Express Birkdale",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T19:23:00.573",
+				"LastUpdatedUtc": "2020-09-24T02:04:09.867",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.9,
+					"Unleaded": 113.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 132.9,
-					"Premium Unleaded 98": 138.9
+					"Premium Unleaded 95": 130.9,
+					"Premium Unleaded 98": 136.9
 				}
 			}
 		},
@@ -9067,7 +9067,7 @@ var data={
 				"Suburb": "Elanora",
 				"Name": "Coles Express Elanora",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T01:58:17.533",
+				"LastUpdatedUtc": "2020-09-24T02:04:04.187",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11259,17 +11259,17 @@ var data={
 				"Suburb": "Runaway Bay",
 				"Name": "Coles Express Runaway Bay",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T23:14:18.393",
+				"LastUpdatedUtc": "2020-09-24T02:04:08.23",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
+					"Unleaded": 110.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 124.9,
-					"Premium Unleaded 98": 134.9,
-					"e10": 110.9
+					"Premium Unleaded 95": 123.9,
+					"Premium Unleaded 98": 133.9,
+					"e10": 109.9
 				}
 			}
 		},
@@ -12255,7 +12255,7 @@ var data={
 				"Suburb": "Tenterfield",
 				"Name": "Coles Express Bundall",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T01:58:18.337",
+				"LastUpdatedUtc": "2020-09-24T02:04:04.613",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12313,15 +12313,15 @@ var data={
 				"Suburb": "Waterford West",
 				"Name": "Coles Express Marsden Park",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T19:23:24.157",
+				"LastUpdatedUtc": "2020-09-24T02:04:07.067",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
+					"Unleaded": 110.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 98": 134.9
+					"Premium Unleaded 98": 133.9
 				}
 			}
 		},
@@ -25236,17 +25236,17 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "Coles Express Mango Hill",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T19:23:27.307",
+				"LastUpdatedUtc": "2020-09-24T02:04:07.79",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.9,
+					"Unleaded": 109.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 127.9,
-					"Premium Unleaded 98": 133.9,
-					"e10": 109.9
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 132.9,
+					"e10": 108.9
 				}
 			}
 		},
@@ -28204,17 +28204,17 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "Coles Express Jimboomba",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T19:22:50.363",
+				"LastUpdatedUtc": "2020-09-24T02:04:08.667",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.9,
+					"Unleaded": 113.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 95": 128.9,
-					"Premium Unleaded 98": 138.9,
-					"e10": 114.9
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 136.9,
+					"e10": 112.9
 				}
 			}
 		},
@@ -28371,15 +28371,15 @@ var data={
 				"Suburb": "Harristown",
 				"Name": "Puma Harristown (Anzac Ave)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-19T02:28:21.907",
+				"LastUpdatedUtc": "2020-09-24T02:02:09.67",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.9,
-					"Premium Unleaded 98": 151.9,
-					"e10": 129.9,
+					"Unleaded": 127.9,
+					"Premium Unleaded 98": 147.9,
+					"e10": 125.9,
 					"Premium Diesel": 117.7
 				}
 			}
@@ -36067,16 +36067,16 @@ var data={
 				"Suburb": "Biggera Waters",
 				"Name": "Coles Express Biggera Waters",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T19:23:47.007",
+				"LastUpdatedUtc": "2020-09-24T02:04:06.21",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
+					"Unleaded": 109.9,
 					"Diesel": 117.9,
-					"Premium Unleaded 98": 134.9,
-					"e10": 110.9
+					"Premium Unleaded 98": 132.9,
+					"e10": 108.9
 				}
 			}
 		},
@@ -38292,16 +38292,16 @@ var data={
 				"Suburb": "Busselton",
 				"Name": "Coles Express Kedron",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T23:15:21.42",
+				"LastUpdatedUtc": "2020-09-24T02:04:09.467",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 112.8,
 					"Diesel": 117.9,
-					"Premium Unleaded 98": 136.9,
-					"e10": 112.9
+					"Premium Unleaded 98": 135.8,
+					"e10": 111.8
 				}
 			}
 		},
@@ -38320,7 +38320,7 @@ var data={
 				"Suburb": "Booval",
 				"Name": "Coles Express Booval",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T01:58:16.067",
+				"LastUpdatedUtc": "2020-09-24T02:04:03.3",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39288,16 +39288,16 @@ var data={
 				"Suburb": "Coomera",
 				"Name": "Coles Express Coomera Pacific Hwy",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T19:23:58.163",
+				"LastUpdatedUtc": "2020-09-24T02:04:10.327",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.9,
+					"Unleaded": 106.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 98": 130.9,
-					"e10": 106.9,
+					"Premium Unleaded 98": 129.9,
+					"e10": 105.9,
 					"Premium Diesel": 124.9
 				}
 			}
@@ -39672,17 +39672,17 @@ var data={
 				"Suburb": "Busselton",
 				"Name": "Coles Express Kedron Inbound",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-23T23:30:34.047",
+				"LastUpdatedUtc": "2020-09-24T02:04:05.793",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 112.8,
 					"Diesel": 117.9,
-					"Premium Unleaded 95": 130.9,
-					"Premium Unleaded 98": 136.9,
-					"e10": 112.9,
+					"Premium Unleaded 95": 129.8,
+					"Premium Unleaded 98": 135.8,
+					"e10": 111.8,
 					"Premium Diesel": 126.9
 				}
 			}
