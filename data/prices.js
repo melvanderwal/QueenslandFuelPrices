@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "24/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 12:06:13 am",
+	"priceTime": "25/09/2020, 12:13:32 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -18830,7 +18830,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T03:15:00",
+				"LastUpdatedUtc": "2020-09-24T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
