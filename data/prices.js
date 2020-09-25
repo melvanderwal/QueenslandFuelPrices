@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 8:46:14 am",
+	"priceTime": "26/09/2020, 8:51:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1388,7 +1388,7 @@ var data={
 				"Suburb": "Orbost",
 				"Name": "BP Stanley Street East",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-25T08:10:31",
+				"LastUpdatedUtc": "2020-09-25T22:46:40",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4907,14 +4907,14 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "Puma Coopers Plains",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-25T02:00:20.73",
+				"LastUpdatedUtc": "2020-09-25T22:46:39.46",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
-					"Premium Unleaded 98": 128.7,
+					"Unleaded": 107.5,
+					"Premium Unleaded 98": 128.5,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -15419,7 +15419,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-25T19:41:00",
+				"LastUpdatedUtc": "2020-09-25T21:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17504,7 +17504,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T21:29:00",
+				"LastUpdatedUtc": "2020-09-25T22:02:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33052,7 +33052,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T21:16:00",
+				"LastUpdatedUtc": "2020-09-25T22:12:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43645,17 +43645,17 @@ var data={
 				"Suburb": "Wacol",
 				"Name": "Caltex Wacol",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-21T10:28:52.62",
+				"LastUpdatedUtc": "2020-09-25T22:45:35.7",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.9,
+					"Unleaded": 108.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 95": 124.9,
-					"Premium Unleaded 98": 131.9,
-					"e10": 108.9,
+					"Premium Unleaded 95": 122.9,
+					"Premium Unleaded 98": 129.9,
+					"e10": 107.9,
 					"Premium Diesel": 117.9
 				}
 			}
