@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 10:46:13 pm",
+	"priceTime": "25/09/2020, 10:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T10:45:00",
+				"LastUpdatedUtc": "2020-09-25T12:05:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T09:33:00",
+				"LastUpdatedUtc": "2020-09-25T12:04:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -29949,14 +29949,14 @@ var data={
 				"Suburb": "Nanango",
 				"Name": "Caltex Nanango",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-06T08:19:17.653",
+				"LastUpdatedUtc": "2020-09-25T12:49:00.173",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
-					"Diesel": 114.9,
+					"Unleaded": 112.9,
+					"Diesel": 112.9,
 					"Premium Unleaded 98": 128.9
 				}
 			}
