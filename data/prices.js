@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 11:46:13 pm",
+	"priceTime": "25/09/2020, 11:51:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -17504,7 +17504,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T08:39:00",
+				"LastUpdatedUtc": "2020-09-25T12:47:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
