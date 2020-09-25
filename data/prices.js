@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 7:31:12 pm",
+	"priceTime": "25/09/2020, 7:36:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -6908,8 +6908,8 @@ var data={
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 109.9,
-					"Premium Unleaded 95": 126.9,
-					"Premium Unleaded 98": 133.9,
+					"Premium Unleaded 95": 123.9,
+					"Premium Unleaded 98": 130.9,
 					"e10": 107.9,
 					"Premium Diesel": 119.9
 				}
@@ -36134,16 +36134,16 @@ var data={
 				"Suburb": "Eagleby",
 				"Name": "7-Eleven Eagleby",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T06:49:00",
+				"LastUpdatedUtc": "2020-09-25T09:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.5,
-					"Premium Unleaded 95": 121.5,
-					"Premium Unleaded 98": 127.5,
-					"e10": 107.5,
+					"Unleaded": 109.3,
+					"Premium Unleaded 95": 121.3,
+					"Premium Unleaded 98": 127.3,
+					"e10": 107.3,
 					"Premium Diesel": 116.9
 				}
 			}
