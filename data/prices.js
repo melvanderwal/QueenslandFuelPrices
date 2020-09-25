@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 6:31:13 am",
+	"priceTime": "26/09/2020, 6:36:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2416,13 +2416,13 @@ var data={
 				"Suburb": "Clare",
 				"Name": "Liberty Deception Bay",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2020-09-25T06:31:39.903",
+				"LastUpdatedUtc": "2020-09-25T20:30:30.85",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
+					"Unleaded": 108.7,
 					"Diesel": 109.9,
 					"Premium Unleaded 98": 125.9
 				}
