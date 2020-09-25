@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 12:46:12 pm",
+	"priceTime": "25/09/2020, 12:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3517,15 +3517,15 @@ var data={
 				"Suburb": "Katanning",
 				"Name": "Puma Everton Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T07:24:04",
+				"LastUpdatedUtc": "2020-09-25T02:47:12",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.5,
-					"Premium Unleaded 98": 132.5,
-					"e10": 109.5,
+					"Unleaded": 110.9,
+					"Premium Unleaded 98": 131.9,
+					"e10": 108.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -5421,8 +5421,8 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
-					"Premium Unleaded 95": 122.7,
+					"Unleaded": 109.7,
+					"Premium Unleaded 95": 121.7,
 					"Premium Unleaded 98": 127.7,
 					"e10": 107.7,
 					"Premium Diesel": 112.9
@@ -6250,17 +6250,17 @@ var data={
 				"Suburb": "Mount Gravatt East",
 				"Name": "Freedom Fuels Mt Gravatt",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-25T00:02:56.967",
+				"LastUpdatedUtc": "2020-09-25T02:47:41.29",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
+					"Unleaded": 109.9,
 					"Diesel": 117.9,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 125.9,
-					"e10": 109.9
+					"Premium Unleaded 95": 123.9,
+					"e10": 107.9
 				}
 			}
 		},
@@ -6307,16 +6307,16 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Kingston",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-24T23:29:00",
+				"LastUpdatedUtc": "2020-09-25T02:33:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
+					"Unleaded": 109.7,
 					"LPG": 79.9,
 					"Premium Unleaded 98": 128.7,
-					"e10": 108.7,
+					"e10": 107.7,
 					"Premium Diesel": 112.9
 				}
 			}
@@ -7135,9 +7135,9 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
+					"Unleaded": 109.7,
 					"LPG": 87.9,
-					"Premium Unleaded 95": 122.7,
+					"Premium Unleaded 95": 121.7,
 					"Premium Unleaded 98": 127.7,
 					"e10": 107.7,
 					"Premium Diesel": 112.9
@@ -7586,15 +7586,15 @@ var data={
 				"Suburb": "Seymour",
 				"Name": "Puma Graceville",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-22T07:48:17.243",
+				"LastUpdatedUtc": "2020-09-25T02:45:31.023",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.7,
-					"Premium Unleaded 98": 132.7,
-					"e10": 109.7,
+					"Unleaded": 110.7,
+					"Premium Unleaded 98": 131.7,
+					"e10": 108.7,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -15031,7 +15031,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T01:24:00",
+				"LastUpdatedUtc": "2020-09-25T02:00:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15279,13 +15279,13 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T01:43:00",
+				"LastUpdatedUtc": "2020-09-25T02:14:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.9,
+					"Unleaded": 140,
 					"Diesel": 116.9,
 					"LPG": 76.9,
 					"Premium Unleaded 98": 160.9,
@@ -17504,7 +17504,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T01:42:00",
+				"LastUpdatedUtc": "2020-09-25T02:14:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19357,15 +19357,15 @@ var data={
 				"Suburb": "Mermaid Waters",
 				"Name": "7-Eleven Mermaid Waters",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T00:07:00",
+				"LastUpdatedUtc": "2020-09-25T02:33:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
-					"Premium Unleaded 98": 126.9,
-					"e10": 106.9,
+					"Unleaded": 107.9,
+					"Premium Unleaded 98": 125.9,
+					"e10": 105.9,
 					"Premium Diesel": 117.9
 				}
 			}
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T01:34:00",
+				"LastUpdatedUtc": "2020-09-25T02:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33052,7 +33052,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T01:34:00",
+				"LastUpdatedUtc": "2020-09-25T02:02:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35586,16 +35586,16 @@ var data={
 				"Suburb": "Kingston",
 				"Name": "7-Eleven Kingston South",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-24T22:25:00",
+				"LastUpdatedUtc": "2020-09-25T02:36:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.9,
-					"Premium Unleaded 95": 122.9,
-					"Premium Unleaded 98": 128.9,
-					"e10": 108.9,
+					"Unleaded": 110.7,
+					"Premium Unleaded 95": 122.7,
+					"Premium Unleaded 98": 128.7,
+					"e10": 108.7,
 					"Premium Diesel": 114.9
 				}
 			}
