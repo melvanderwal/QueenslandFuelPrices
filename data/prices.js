@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 4:46:13 pm",
+	"priceTime": "25/09/2020, 4:51:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2894,14 +2894,14 @@ var data={
 				"Suburb": "Port Hedland",
 				"Name": "7-Eleven Sandgate",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T03:28:00",
+				"LastUpdatedUtc": "2020-09-25T06:33:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
-					"Premium Unleaded 98": 128.7,
+					"Unleaded": 110.5,
+					"Premium Unleaded 98": 128.5,
 					"Premium Diesel": 113.9
 				}
 			}
@@ -14628,7 +14628,7 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "7-Eleven Pinelands Road",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T05:28:00",
+				"LastUpdatedUtc": "2020-09-25T06:33:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14637,7 +14637,7 @@ var data={
 					"Unleaded": 109.9,
 					"LPG": 89.9,
 					"Premium Unleaded 98": 127.9,
-					"e10": 108.5,
+					"e10": 107.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -15031,7 +15031,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T05:33:00",
+				"LastUpdatedUtc": "2020-09-25T06:14:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T05:40:00",
+				"LastUpdatedUtc": "2020-09-25T06:14:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T04:23:00",
+				"LastUpdatedUtc": "2020-09-25T06:13:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15784,15 +15784,15 @@ var data={
 				"Suburb": "Geraldton",
 				"Name": "7-Eleven Bracken Ridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T03:28:00",
+				"LastUpdatedUtc": "2020-09-25T06:33:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
-					"Premium Unleaded 98": 128.7,
-					"e10": 108.7,
+					"Unleaded": 110.5,
+					"Premium Unleaded 98": 128.5,
+					"e10": 108.5,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -17504,7 +17504,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T05:19:00",
+				"LastUpdatedUtc": "2020-09-25T05:47:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18376,15 +18376,15 @@ var data={
 				"Suburb": "Mandurah",
 				"Name": "7-Eleven Deagon",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T03:29:00",
+				"LastUpdatedUtc": "2020-09-25T06:34:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
-					"Premium Unleaded 98": 128.7,
-					"e10": 108.7,
+					"Unleaded": 110.5,
+					"Premium Unleaded 98": 128.5,
+					"e10": 108.5,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -20444,7 +20444,7 @@ var data={
 				"Suburb": "Gympie",
 				"Name": "Gympie West Service Station",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-25T04:50:51.597",
+				"LastUpdatedUtc": "2020-09-25T06:47:18.127",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -20452,7 +20452,7 @@ var data={
 				"Prices": {
 					"Unleaded": 120.9,
 					"Diesel": 116.9,
-					"Premium Unleaded 98": 138.9
+					"Premium Unleaded 98": 139.9
 				}
 			}
 		},
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T05:40:00",
+				"LastUpdatedUtc": "2020-09-25T05:55:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33052,7 +33052,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T05:37:00",
+				"LastUpdatedUtc": "2020-09-25T06:06:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38331,16 +38331,16 @@ var data={
 				"Suburb": "Griffin",
 				"Name": "7-Eleven Griffin",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T02:14:00",
+				"LastUpdatedUtc": "2020-09-25T06:33:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
-					"Premium Unleaded 95": 120.9,
-					"Premium Unleaded 98": 126.9,
-					"e10": 106.9,
+					"Unleaded": 108.7,
+					"Premium Unleaded 95": 120.7,
+					"Premium Unleaded 98": 126.7,
+					"e10": 106.7,
 					"Premium Diesel": 117.7
 				}
 			}
@@ -39625,16 +39625,16 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "7-Eleven Kallangur",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T02:14:00",
+				"LastUpdatedUtc": "2020-09-25T06:34:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
-					"Premium Unleaded 95": 120.9,
-					"Premium Unleaded 98": 126.9,
-					"e10": 106.9,
+					"Unleaded": 108.7,
+					"Premium Unleaded 95": 120.7,
+					"Premium Unleaded 98": 126.7,
+					"e10": 106.7,
 					"Premium Diesel": 117.7
 				}
 			}
