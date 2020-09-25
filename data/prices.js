@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 1:46:13 pm",
+	"priceTime": "25/09/2020, 1:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -15031,7 +15031,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T02:43:00",
+				"LastUpdatedUtc": "2020-09-25T03:13:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15279,13 +15279,13 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T02:24:00",
+				"LastUpdatedUtc": "2020-09-25T03:13:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 140,
+					"Unleaded": 139.9,
 					"Diesel": 116.9,
 					"LPG": 76.9,
 					"Premium Unleaded 98": 160.9,
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T02:36:00",
+				"LastUpdatedUtc": "2020-09-25T02:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T02:33:00",
+				"LastUpdatedUtc": "2020-09-25T03:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33052,7 +33052,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T02:41:00",
+				"LastUpdatedUtc": "2020-09-25T03:06:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34507,7 +34507,7 @@ var data={
 				"Suburb": "North Lakes",
 				"Name": "7-Eleven North Lakes",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-24T19:23:00",
+				"LastUpdatedUtc": "2020-09-25T03:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34515,7 +34515,7 @@ var data={
 				"Prices": {
 					"Unleaded": 109.4,
 					"Premium Unleaded 95": 121.4,
-					"Premium Unleaded 98": 127.4,
+					"Premium Unleaded 98": 126.9,
 					"e10": 107.4,
 					"Premium Diesel": 117.9
 				}
