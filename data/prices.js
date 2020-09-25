@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 7:31:12 am",
+	"priceTime": "26/09/2020, 7:36:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -7783,15 +7783,15 @@ var data={
 				"Suburb": "Acacia Ridge",
 				"Name": "Metro Petroleum Acacia Ridge",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-25T01:51:39",
+				"LastUpdatedUtc": "2020-09-25T21:33:57",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
+					"Unleaded": 107.5,
 					"Diesel": 112.5,
-					"Premium Unleaded 95": 117.7
+					"Premium Unleaded 95": 117.5
 				}
 			}
 		},
@@ -8119,16 +8119,16 @@ var data={
 				"Suburb": "Wacol",
 				"Name": "Puma Wacol",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-25T09:26:41.573",
+				"LastUpdatedUtc": "2020-09-25T21:32:27.603",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.9,
+					"Unleaded": 107.7,
 					"Diesel": 114.7,
-					"Premium Unleaded 95": 120.9,
-					"Premium Unleaded 98": 128.9
+					"Premium Unleaded 95": 120.7,
+					"Premium Unleaded 98": 128.7
 				}
 			}
 		},
@@ -18967,15 +18967,15 @@ var data={
 				"Suburb": "Miami",
 				"Name": "Metro Petroleum Miami",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-25T02:15:35.963",
+				"LastUpdatedUtc": "2020-09-25T21:32:53.083",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
-					"Premium Unleaded 98": 126.9,
-					"e10": 107.9,
+					"Unleaded": 106.9,
+					"Premium Unleaded 98": 123.9,
+					"e10": 104.9,
 					"Premium Diesel": 109.9
 				}
 			}
