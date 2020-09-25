@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 9:01:14 am",
+	"priceTime": "26/09/2020, 9:06:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2753,15 +2753,15 @@ var data={
 				"Suburb": "Perth",
 				"Name": "Puma Strathpine",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-25T06:33:00",
+				"LastUpdatedUtc": "2020-09-25T22:55:59",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.7,
-					"Premium Unleaded 95": 123.7,
-					"e10": 108.7,
+					"Unleaded": 109.5,
+					"Premium Unleaded 95": 122.5,
+					"e10": 107.5,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -4592,15 +4592,15 @@ var data={
 				"Suburb": "Oxley",
 				"Name": "BP Oxley",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-24T11:56:26",
+				"LastUpdatedUtc": "2020-09-25T22:59:05",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.9,
-					"Premium Unleaded 95": 124.9,
-					"Premium Unleaded 98": 131.9,
+					"Unleaded": 109.9,
+					"Premium Unleaded 95": 123.9,
+					"Premium Unleaded 98": 130.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -5528,16 +5528,16 @@ var data={
 				"Suburb": "Redland Bay",
 				"Name": "BP Redland Bay",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-25T05:03:17.83",
+				"LastUpdatedUtc": "2020-09-25T22:59:51.53",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.9,
-					"Premium Unleaded 95": 128.9,
-					"Premium Unleaded 98": 134.9,
-					"e10": 113.9,
+					"Unleaded": 114.9,
+					"Premium Unleaded 95": 127.9,
+					"Premium Unleaded 98": 133.9,
+					"e10": 112.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -36277,17 +36277,17 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Freedom Fuels Southport",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-25T09:22:22.03",
+				"LastUpdatedUtc": "2020-09-25T23:00:01.817",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 106.7,
+					"Unleaded": 106.5,
 					"Diesel": 115.9,
-					"Premium Unleaded 95": 120.7,
-					"Premium Unleaded 98": 123.7,
-					"e10": 102.7
+					"Premium Unleaded 95": 120.5,
+					"Premium Unleaded 98": 123.5,
+					"e10": 102.5
 				}
 			}
 		},
@@ -36530,16 +36530,16 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "Puma Archerfield (Beaudesert Rd)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-25T02:11:04.937",
+				"LastUpdatedUtc": "2020-09-25T23:00:54.28",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
+					"Unleaded": 107.5,
 					"Diesel": 114.9,
-					"Premium Unleaded 98": 128.7,
-					"e10": 105.7,
+					"Premium Unleaded 98": 128.5,
+					"e10": 105.5,
 					"Premium Diesel": 116.9
 				}
 			}
