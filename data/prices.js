@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 3:01:12 pm",
+	"priceTime": "25/09/2020, 3:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -531,7 +531,7 @@ var data={
 				"Suburb": "Yatala North",
 				"Name": "Coles Express Yatala",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-25T04:59:18.317",
+				"LastUpdatedUtc": "2020-09-25T05:03:10.297",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1473,16 +1473,16 @@ var data={
 				"Suburb": "Bairnsdale",
 				"Name": "Freedom Fuels Seven Hills",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-23T04:39:07.66",
+				"LastUpdatedUtc": "2020-09-25T05:02:27",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 109.9,
 					"Diesel": 118.9,
-					"Premium Unleaded 98": 134.9,
-					"e10": 111.9
+					"Premium Unleaded 98": 130.9,
+					"e10": 107.9
 				}
 			}
 		},
@@ -5528,16 +5528,16 @@ var data={
 				"Suburb": "Redland Bay",
 				"Name": "BP Redland Bay",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-24T19:53:22.65",
+				"LastUpdatedUtc": "2020-09-25T05:03:17.83",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 116.9,
-					"Premium Unleaded 95": 129.9,
-					"Premium Unleaded 98": 135.9,
-					"e10": 114.9,
+					"Unleaded": 115.9,
+					"Premium Unleaded 95": 128.9,
+					"Premium Unleaded 98": 134.9,
+					"e10": 113.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -42284,17 +42284,17 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "Freedom Fuels Noosaville",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-23T20:44:46.113",
+				"LastUpdatedUtc": "2020-09-25T05:03:29.297",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 117.9,
+					"Unleaded": 116.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 95": 130.9,
-					"Premium Unleaded 98": 137.9,
-					"e10": 115.9
+					"Premium Unleaded 95": 129.9,
+					"Premium Unleaded 98": 136.9,
+					"e10": 114.9
 				}
 			}
 		},
