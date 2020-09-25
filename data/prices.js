@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 6:16:12 pm",
+	"priceTime": "25/09/2020, 6:21:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -4191,16 +4191,16 @@ var data={
 				"Suburb": "The Gap",
 				"Name": "7-Eleven The Gap",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-24T23:29:00",
+				"LastUpdatedUtc": "2020-09-25T08:03:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.5,
-					"Premium Unleaded 95": 123.5,
-					"Premium Unleaded 98": 129.5,
-					"e10": 109.5,
+					"Unleaded": 110.9,
+					"Premium Unleaded 95": 122.9,
+					"Premium Unleaded 98": 128.9,
+					"e10": 108.9,
 					"Premium Diesel": 117.9
 				}
 			}
@@ -14606,7 +14606,7 @@ var data={
 				"Prices": {
 					"Unleaded": 105.7,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 118.7,
+					"Premium Unleaded 95": 117.7,
 					"Premium Unleaded 98": 123.7,
 					"e10": 103.7,
 					"Premium Diesel": 116.9
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T07:10:00",
+				"LastUpdatedUtc": "2020-09-25T07:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15419,7 +15419,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-25T07:07:00",
+				"LastUpdatedUtc": "2020-09-25T07:22:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T07:06:00",
+				"LastUpdatedUtc": "2020-09-25T07:33:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15784,15 +15784,15 @@ var data={
 				"Suburb": "Geraldton",
 				"Name": "7-Eleven Bracken Ridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T06:33:00",
+				"LastUpdatedUtc": "2020-09-25T08:03:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.5,
-					"Premium Unleaded 98": 128.5,
-					"e10": 108.5,
+					"Unleaded": 109.9,
+					"Premium Unleaded 98": 127.9,
+					"e10": 107.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -33052,7 +33052,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T06:47:00",
+				"LastUpdatedUtc": "2020-09-25T07:36:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36866,10 +36866,10 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
-					"Premium Unleaded 95": 120.9,
+					"Unleaded": 108.7,
+					"Premium Unleaded 95": 120.7,
 					"Premium Unleaded 98": 126.7,
-					"e10": 106.9,
+					"e10": 106.7,
 					"Premium Diesel": 117.9
 				}
 			}
@@ -38366,10 +38366,10 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
-					"Premium Unleaded 95": 120.9,
+					"Unleaded": 108.7,
+					"Premium Unleaded 95": 120.7,
 					"Premium Unleaded 98": 126.7,
-					"e10": 106.9,
+					"e10": 106.7,
 					"Premium Diesel": 117.7
 				}
 			}
