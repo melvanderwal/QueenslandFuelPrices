@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 10:01:13 am",
+	"priceTime": "25/09/2020, 10:06:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1501,7 +1501,7 @@ var data={
 				"Suburb": "Benalla",
 				"Name": "Coles Express Camp Hill",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T23:58:10.9",
+				"LastUpdatedUtc": "2020-09-24T23:59:13.433",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1993,7 +1993,6 @@ var data={
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 116.9,
-					"Diesel": 119.9,
 					"Premium Unleaded 98": 139.9,
 					"e10": 115.9,
 					"Premium Diesel": 128.9
@@ -2130,15 +2129,15 @@ var data={
 				"Suburb": "Leongatha",
 				"Name": "7-Eleven Fairfield Gardens",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-24T19:23:00",
+				"LastUpdatedUtc": "2020-09-24T23:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 112.7,
-					"Premium Unleaded 98": 130.7,
-					"e10": 110.7,
+					"Unleaded": 109.9,
+					"Premium Unleaded 98": 127.9,
+					"e10": 107.9,
 					"Premium Diesel": 117.7
 				}
 			}
@@ -2753,15 +2752,15 @@ var data={
 				"Suburb": "Perth",
 				"Name": "Puma Strathpine",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T03:34:06",
+				"LastUpdatedUtc": "2020-09-24T23:56:50",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.5,
-					"Premium Unleaded 95": 126.5,
-					"e10": 111.5,
+					"Unleaded": 111.7,
+					"Premium Unleaded 95": 124.7,
+					"e10": 109.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -5386,7 +5385,7 @@ var data={
 				"Suburb": "Slacks Creek",
 				"Name": "Coles Express Springwood",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T23:58:12.18",
+				"LastUpdatedUtc": "2020-09-25T00:04:10.29",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6250,7 +6249,7 @@ var data={
 				"Suburb": "Mount Gravatt East",
 				"Name": "Freedom Fuels Mt Gravatt",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-24T03:42:55.343",
+				"LastUpdatedUtc": "2020-09-25T00:02:56.967",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6259,7 +6258,7 @@ var data={
 					"Unleaded": 111.9,
 					"Diesel": 117.9,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 124.9,
+					"Premium Unleaded 95": 125.9,
 					"e10": 109.9
 				}
 			}
@@ -9125,7 +9124,7 @@ var data={
 				"Suburb": "Albany Creek",
 				"Name": "Coles Express Albany Creek",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T23:58:13.037",
+				"LastUpdatedUtc": "2020-09-25T00:04:11.26",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10690,7 +10689,7 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Coles Express Caboolture",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T23:37:10.573",
+				"LastUpdatedUtc": "2020-09-25T00:02:16.103",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11664,7 +11663,7 @@ var data={
 				"Suburb": "Kyabram",
 				"Name": "Freedom Fuels Indooroopilly",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-24T20:07:35.44",
+				"LastUpdatedUtc": "2020-09-25T00:03:22.943",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14929,7 +14928,7 @@ var data={
 					"LPG": 75.9,
 					"Premium Unleaded 95": 122.5,
 					"Premium Unleaded 98": 128.5,
-					"e10": 109.4,
+					"e10": 108.5,
 					"Premium Diesel": 117.9
 				}
 			}
@@ -21659,7 +21658,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Freedom Fuels Kingaroy",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-16T22:49:31.247",
+				"LastUpdatedUtc": "2020-09-25T00:00:40.87",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21668,7 +21667,7 @@ var data={
 					"Unleaded": 114.9,
 					"Diesel": 116.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 127.9,
+					"Premium Unleaded 95": 128.9,
 					"Premium Unleaded 98": 134.9,
 					"e10": 112.9
 				}
@@ -35477,7 +35476,7 @@ var data={
 				"Suburb": "Deeragun",
 				"Name": "Coles Express Deeragun",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T23:58:11.713",
+				"LastUpdatedUtc": "2020-09-25T00:01:17.933",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37544,7 +37543,7 @@ var data={
 				"Suburb": "Coomera",
 				"Name": "Coles Express Coomera",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T23:58:12.613",
+				"LastUpdatedUtc": "2020-09-25T00:04:10.74",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37661,7 +37660,7 @@ var data={
 				"Suburb": "Silkstone",
 				"Name": "Coles Express Bremer",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-24T23:58:11.297",
+				"LastUpdatedUtc": "2020-09-25T00:01:16.703",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39189,17 +39188,17 @@ var data={
 				"Suburb": "Tenterfield",
 				"Name": "Freedom Fuels Bundall",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-23T22:29:34.507",
+				"LastUpdatedUtc": "2020-09-24T23:59:31.92",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.9,
+					"Unleaded": 109.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 125.9,
-					"Premium Unleaded 98": 132.9,
-					"e10": 109.9
+					"Premium Unleaded 95": 124.9,
+					"Premium Unleaded 98": 131.9,
+					"e10": 108.9
 				}
 			}
 		},
