@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 2:01:12 pm",
+	"priceTime": "25/09/2020, 2:06:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -275,17 +275,17 @@ var data={
 				"Suburb": "Burleigh Waters",
 				"Name": "Freedom Fuels Varsity Lakes",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-25T01:06:43.023",
+				"LastUpdatedUtc": "2020-09-25T04:01:15.767",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 112.9,
+					"Unleaded": 110.9,
 					"Diesel": 120.9,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 126.9,
-					"e10": 110.9
+					"Premium Unleaded 95": 124.9,
+					"e10": 108.9
 				}
 			}
 		},
@@ -2751,15 +2751,15 @@ var data={
 				"Suburb": "Perth",
 				"Name": "Puma Strathpine",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T23:56:50",
+				"LastUpdatedUtc": "2020-09-25T04:00:11",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 111.7,
-					"Premium Unleaded 95": 124.7,
-					"e10": 109.7,
+					"Premium Unleaded 95": 124.5,
+					"e10": 109.5,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -3912,14 +3912,14 @@ var data={
 				"Suburb": "Campbell Town",
 				"Name": "Puma Albion",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T23:08:29",
+				"LastUpdatedUtc": "2020-09-25T04:01:14",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.3,
-					"Premium Unleaded 98": 132.3,
+					"Unleaded": 110.7,
+					"Premium Unleaded 98": 131.7,
 					"Premium Diesel": 119.7
 				}
 			}
@@ -4704,7 +4704,7 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Pacific Petroleum Rocklea",
 				"Brand": "Pacific Petroleum",
-				"LastUpdatedUtc": "2020-09-24T04:30:41.487",
+				"LastUpdatedUtc": "2020-09-25T04:04:19.693",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4712,8 +4712,8 @@ var data={
 				"Prices": {
 					"Unleaded": 109.7,
 					"Diesel": 114.9,
-					"Premium Unleaded 98": 129.7,
-					"e10": 107.7
+					"Premium Unleaded 98": 129.5,
+					"e10": 107.5
 				}
 			}
 		},
@@ -22565,14 +22565,14 @@ var data={
 				"Suburb": "Dayboro",
 				"Name": "Puma Dayboro",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T23:13:30.167",
+				"LastUpdatedUtc": "2020-09-25T04:01:36.277",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.5,
-					"Premium Unleaded 98": 132.5,
+					"Unleaded": 110.9,
+					"Premium Unleaded 98": 131.9,
 					"Premium Diesel": 117.7
 				}
 			}
@@ -41628,16 +41628,16 @@ var data={
 				"Suburb": "Springfield",
 				"Name": "7-Eleven Springfield",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-24T23:01:00",
+				"LastUpdatedUtc": "2020-09-25T03:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 110.9,
-					"Premium Unleaded 95": 122.9,
-					"Premium Unleaded 98": 128.9,
-					"e10": 108.9,
+					"Premium Unleaded 95": 122.7,
+					"Premium Unleaded 98": 128.7,
+					"e10": 108.7,
 					"Premium Diesel": 115.4
 				}
 			}
