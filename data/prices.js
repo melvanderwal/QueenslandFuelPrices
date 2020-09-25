@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 6:31:12 pm",
+	"priceTime": "25/09/2020, 6:36:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -4963,14 +4963,14 @@ var data={
 				"Suburb": "Wishart",
 				"Name": "7-Eleven Wishart",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T05:28:00",
+				"LastUpdatedUtc": "2020-09-25T08:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 114.9,
-					"Premium Unleaded 98": 132.9,
+					"Unleaded": 114.7,
+					"Premium Unleaded 98": 132.7,
 					"Premium Diesel": 115.7
 				}
 			}
@@ -14366,15 +14366,15 @@ var data={
 				"Suburb": "Colac",
 				"Name": "7-Eleven Birkdale",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T06:46:00",
+				"LastUpdatedUtc": "2020-09-25T08:20:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.4,
+					"Unleaded": 109.9,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 129.4,
+					"Premium Unleaded 98": 127.9,
 					"Premium Diesel": 119.9
 				}
 			}
