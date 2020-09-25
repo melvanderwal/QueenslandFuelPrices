@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 6:16:13 am",
+	"priceTime": "26/09/2020, 6:21:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15419,7 +15419,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-25T14:01:00",
+				"LastUpdatedUtc": "2020-09-25T19:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T18:29:00",
+				"LastUpdatedUtc": "2020-09-25T19:33:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33052,7 +33052,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T14:01:00",
+				"LastUpdatedUtc": "2020-09-25T19:43:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
