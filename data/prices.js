@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 1:31:13 pm",
+	"priceTime": "25/09/2020, 1:36:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3376,16 +3376,16 @@ var data={
 				"Suburb": "Karratha",
 				"Name": "Freedom Fuels Nudgee",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-25T01:12:55.26",
+				"LastUpdatedUtc": "2020-09-25T03:32:13.863",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
+					"Unleaded": 110.9,
 					"Diesel": 116.9,
-					"Premium Unleaded 95": 125.9,
-					"e10": 109.9
+					"Premium Unleaded 95": 124.9,
+					"e10": 108.9
 				}
 			}
 		},
@@ -3716,7 +3716,7 @@ var data={
 				"Suburb": "Scottsdale",
 				"Name": "Freedom Fuels Wooloowin",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-24T06:28:15.023",
+				"LastUpdatedUtc": "2020-09-25T03:31:53.993",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3724,7 +3724,7 @@ var data={
 				"Prices": {
 					"Unleaded": 111.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 124.9,
+					"Premium Unleaded 95": 125.9,
 					"e10": 109.9
 				}
 			}
@@ -21547,7 +21547,7 @@ var data={
 				"Suburb": "Tara",
 				"Name": "United Tara Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-25T03:17:07.99",
+				"LastUpdatedUtc": "2020-09-25T03:29:26.133",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28912,7 +28912,7 @@ var data={
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 115.9,
-					"Diesel": 113.9,
+					"Diesel": 113.7,
 					"LPG": 79.9,
 					"Premium Unleaded 98": 136.9,
 					"e10": 113.9,
@@ -34784,7 +34784,7 @@ var data={
 				"Suburb": "Jandowae",
 				"Name": "United Jandowae Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-25T03:16:49.24",
+				"LastUpdatedUtc": "2020-09-25T03:29:20.903",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35129,7 +35129,7 @@ var data={
 				"Suburb": "Wandoan",
 				"Name": "United Wandoan Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-25T03:17:00.92",
+				"LastUpdatedUtc": "2020-09-25T03:29:23.57",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38021,16 +38021,16 @@ var data={
 				"Suburb": "Little Mountain",
 				"Name": "7-Eleven Little Mountain",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-24T20:50:00",
+				"LastUpdatedUtc": "2020-09-25T03:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
-					"Premium Unleaded 95": 123.9,
-					"Premium Unleaded 98": 129.9,
-					"e10": 109.9,
+					"Unleaded": 104.7,
+					"Premium Unleaded 95": 116.7,
+					"Premium Unleaded 98": 122.7,
+					"e10": 102.7,
 					"Premium Diesel": 115.7
 				}
 			}
@@ -39214,14 +39214,14 @@ var data={
 				"Suburb": "Malanda",
 				"Name": "Eacham Fuels",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2020-09-16T01:40:53",
+				"LastUpdatedUtc": "2020-09-25T03:30:41.367",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 117.5,
-					"Diesel": 117.5,
+					"Diesel": 116.5,
 					"Premium Unleaded 95": 131.5
 				}
 			}
@@ -40083,7 +40083,7 @@ var data={
 				"Suburb": "Wondai",
 				"Name": "United Wondai Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-25T03:17:03.893",
+				"LastUpdatedUtc": "2020-09-25T03:29:24.833",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41271,7 +41271,7 @@ var data={
 				"Suburb": "Wellcamp",
 				"Name": "United Toowoomba Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-25T03:16:46.363",
+				"LastUpdatedUtc": "2020-09-25T03:29:19.573",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41754,7 +41754,7 @@ var data={
 				"Suburb": "Moonie",
 				"Name": "United Moonie Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-25T03:16:59.37",
+				"LastUpdatedUtc": "2020-09-25T03:29:22.25",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
