@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 7:46:13 am",
+	"priceTime": "26/09/2020, 7:51:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -3517,15 +3517,15 @@ var data={
 				"Suburb": "Katanning",
 				"Name": "Puma Everton Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-25T06:38:50",
+				"LastUpdatedUtc": "2020-09-25T21:46:30",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
-					"Premium Unleaded 98": 130.9,
-					"e10": 107.9,
+					"Unleaded": 109.7,
+					"Premium Unleaded 98": 130.7,
+					"e10": 107.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T20:21:00",
+				"LastUpdatedUtc": "2020-09-25T20:55:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33052,7 +33052,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T19:43:00",
+				"LastUpdatedUtc": "2020-09-25T20:52:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
