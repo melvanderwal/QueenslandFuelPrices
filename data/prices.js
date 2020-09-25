@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 12:31:13 pm",
+	"priceTime": "25/09/2020, 12:36:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -6701,16 +6701,16 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "Puma Mango Hill",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-24T23:11:46.88",
+				"LastUpdatedUtc": "2020-09-25T02:30:06.02",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.2,
+					"Unleaded": 108.9,
 					"LPG": 81.9,
-					"Premium Unleaded 98": 130.2,
-					"e10": 107.2,
+					"Premium Unleaded 98": 129.9,
+					"e10": 106.9,
 					"Premium Diesel": 117.7
 				}
 			}
@@ -17983,15 +17983,15 @@ var data={
 				"Suburb": "Southport",
 				"Name": "BP Nightowl Southport",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-23T01:10:20",
+				"LastUpdatedUtc": "2020-09-25T02:33:23",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.9,
-					"Premium Unleaded 98": 137.9,
-					"e10": 111.9,
+					"Unleaded": 113.9,
+					"Premium Unleaded 98": 135.9,
+					"e10": 109.9,
 					"Premium Diesel": 119.9
 				}
 			}
