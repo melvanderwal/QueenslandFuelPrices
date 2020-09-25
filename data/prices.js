@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 5:01:13 pm",
+	"priceTime": "25/09/2020, 5:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2130,15 +2130,15 @@ var data={
 				"Suburb": "Leongatha",
 				"Name": "7-Eleven Fairfield Gardens",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T06:03:00",
+				"LastUpdatedUtc": "2020-09-25T06:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
-					"Premium Unleaded 98": 125.7,
-					"e10": 105.7,
+					"Unleaded": 107.5,
+					"Premium Unleaded 98": 125.5,
+					"e10": 105.5,
 					"Premium Diesel": 117.7
 				}
 			}
@@ -3007,7 +3007,7 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "7-Eleven Aspley",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T05:29:00",
+				"LastUpdatedUtc": "2020-09-25T06:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3015,9 +3015,9 @@ var data={
 				"Prices": {
 					"Unleaded": 109.9,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 121.9,
-					"Premium Unleaded 98": 127.9,
-					"e10": 107.9,
+					"Premium Unleaded 95": 121.7,
+					"Premium Unleaded 98": 127.7,
+					"e10": 107.7,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -3148,16 +3148,16 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "7-Eleven Aspley",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T05:29:00",
+				"LastUpdatedUtc": "2020-09-25T06:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
-					"Premium Unleaded 95": 121.9,
-					"Premium Unleaded 98": 127.9,
-					"e10": 107.9,
+					"Unleaded": 109.7,
+					"Premium Unleaded 95": 121.7,
+					"Premium Unleaded 98": 127.7,
+					"e10": 107.7,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -3462,7 +3462,7 @@ var data={
 				"Suburb": "Manjimup",
 				"Name": "Coles Express Arana Hills",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-25T06:57:10.403",
+				"LastUpdatedUtc": "2020-09-25T06:59:15.71",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4446,17 +4446,17 @@ var data={
 				"Suburb": "Mount Gravatt East",
 				"Name": "7-Eleven Mt Gravatt East",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-24T23:15:00",
+				"LastUpdatedUtc": "2020-09-25T06:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
+					"Unleaded": 109.7,
 					"LPG": 80.8,
-					"Premium Unleaded 95": 121.9,
-					"Premium Unleaded 98": 127.9,
-					"e10": 107.9,
+					"Premium Unleaded 95": 121.7,
+					"Premium Unleaded 98": 127.7,
+					"e10": 107.7,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -5415,16 +5415,16 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Woodridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T02:34:00",
+				"LastUpdatedUtc": "2020-09-25T06:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.7,
-					"Premium Unleaded 95": 121.7,
-					"Premium Unleaded 98": 127.7,
-					"e10": 107.7,
+					"Unleaded": 109.5,
+					"Premium Unleaded 95": 121.5,
+					"Premium Unleaded 98": 127.5,
+					"e10": 107.5,
 					"Premium Diesel": 112.9
 				}
 			}
@@ -6193,7 +6193,7 @@ var data={
 				"Suburb": "Tailem Bend",
 				"Name": "7-Eleven Kensington Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T05:00:00",
+				"LastUpdatedUtc": "2020-09-25T06:51:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6201,8 +6201,8 @@ var data={
 				"Prices": {
 					"Unleaded": 110.9,
 					"LPG": 80.8,
-					"Premium Unleaded 98": 128.9,
-					"e10": 108.9,
+					"Premium Unleaded 98": 128.7,
+					"e10": 108.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -7129,17 +7129,17 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Woodridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T02:33:00",
+				"LastUpdatedUtc": "2020-09-25T06:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.7,
+					"Unleaded": 109.5,
 					"LPG": 87.9,
-					"Premium Unleaded 95": 121.7,
-					"Premium Unleaded 98": 127.7,
-					"e10": 107.7,
+					"Premium Unleaded 95": 121.5,
+					"Premium Unleaded 98": 127.5,
+					"e10": 107.5,
 					"Premium Diesel": 112.9
 				}
 			}
@@ -11572,16 +11572,16 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "7-Eleven Albany Creek",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T05:28:00",
+				"LastUpdatedUtc": "2020-09-25T06:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
-					"Premium Unleaded 95": 121.9,
-					"Premium Unleaded 98": 127.9,
-					"e10": 107.9,
+					"Unleaded": 109.7,
+					"Premium Unleaded 95": 121.7,
+					"Premium Unleaded 98": 127.7,
+					"e10": 107.7,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -12364,7 +12364,7 @@ var data={
 				"Suburb": "Robina",
 				"Name": "7-Eleven Robina",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T06:04:00",
+				"LastUpdatedUtc": "2020-09-25T06:13:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14366,15 +14366,15 @@ var data={
 				"Suburb": "Colac",
 				"Name": "7-Eleven Birkdale",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T00:26:00",
+				"LastUpdatedUtc": "2020-09-25T06:46:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
+					"Unleaded": 111.4,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 129.9,
+					"Premium Unleaded 98": 129.4,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -23594,15 +23594,15 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "Caltex Noosaville Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-24T14:01:00",
+				"LastUpdatedUtc": "2020-09-25T06:59:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 117.9,
+					"Unleaded": 116.9,
 					"Diesel": 114.9,
-					"Premium Unleaded 98": 138.9
+					"Premium Unleaded 98": 137.9
 				}
 			}
 		},
@@ -26943,7 +26943,7 @@ var data={
 				"Suburb": "Robina",
 				"Name": "7-Eleven Robina",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T06:04:00",
+				"LastUpdatedUtc": "2020-09-25T06:13:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35727,16 +35727,16 @@ var data={
 				"Suburb": "Taigum",
 				"Name": "7-Eleven Taigum",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T05:28:00",
+				"LastUpdatedUtc": "2020-09-25T06:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
-					"Premium Unleaded 95": 121.9,
-					"Premium Unleaded 98": 127.9,
-					"e10": 107.9,
+					"Unleaded": 109.7,
+					"Premium Unleaded 95": 121.7,
+					"Premium Unleaded 98": 127.7,
+					"e10": 107.7,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -36134,15 +36134,15 @@ var data={
 				"Suburb": "Eagleby",
 				"Name": "7-Eleven Eagleby",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T01:19:00",
+				"LastUpdatedUtc": "2020-09-25T06:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 109.7,
-					"Premium Unleaded 95": 121.7,
-					"Premium Unleaded 98": 127.7,
+					"Premium Unleaded 95": 121.5,
+					"Premium Unleaded 98": 127.5,
 					"e10": 107.7,
 					"Premium Diesel": 116.9
 				}
@@ -36472,14 +36472,14 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "7-Eleven Virginia",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T05:29:00",
+				"LastUpdatedUtc": "2020-09-25T06:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 109.9,
-					"Premium Unleaded 95": 121.9,
+					"Premium Unleaded 95": 121.7,
 					"Premium Unleaded 98": 127.9,
 					"e10": 107.9,
 					"Premium Diesel": 114.7
@@ -36777,15 +36777,15 @@ var data={
 				"Suburb": "Stapylton",
 				"Name": "Gem Bait and Tackle",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2020-09-21T07:15:35.317",
+				"LastUpdatedUtc": "2020-09-25T06:58:13.463",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.9,
+					"Unleaded": 113.9,
 					"Diesel": 117.9,
-					"Premium Unleaded 95": 126.9
+					"Premium Unleaded 95": 124.9
 				}
 			}
 		},
@@ -37511,15 +37511,15 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "7-Eleven Noosaville",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T00:34:00",
+				"LastUpdatedUtc": "2020-09-25T06:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 116.9,
-					"Premium Unleaded 95": 128.9,
-					"Premium Unleaded 98": 134.9,
+					"Premium Unleaded 95": 128.7,
+					"Premium Unleaded 98": 134.7,
 					"e10": 114.9,
 					"Premium Diesel": 114.9
 				}
@@ -42667,7 +42667,7 @@ var data={
 				"Suburb": "Canberra",
 				"Name": "7-Eleven Keperra",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T06:04:00",
+				"LastUpdatedUtc": "2020-09-25T06:13:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
