@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "25/09/2020, 8:56:45 am",
-	"priceTime": "25/09/2020, 9:16:13 pm",
+	"priceTime": "25/09/2020, 9:21:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -5478,9 +5478,9 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.4,
+					"Unleaded": 109.2,
 					"Premium Unleaded 98": 127.2,
-					"e10": 107.4,
+					"e10": 107.2,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T08:29:00",
+				"LastUpdatedUtc": "2020-09-25T10:43:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
