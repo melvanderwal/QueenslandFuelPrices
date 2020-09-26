@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 1:46:13 pm",
+	"priceTime": "26/09/2020, 1:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -33053,7 +33053,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T02:40:00",
+				"LastUpdatedUtc": "2020-09-26T02:59:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
