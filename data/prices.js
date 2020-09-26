@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 5:01:13 pm",
+	"priceTime": "26/09/2020, 5:06:14 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -33979,7 +33979,7 @@ var data={
 					"Unleaded": 109.3,
 					"Diesel": 114.5,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 122.5,
+					"Premium Unleaded 95": 122.3,
 					"Premium Unleaded 98": 130.3,
 					"e10": 107.3,
 					"e85": 169.9
@@ -39485,7 +39485,7 @@ var data={
 					"Unleaded": 104.7,
 					"Diesel": 114.7,
 					"LPG": 78.9,
-					"Premium Unleaded 95": 117.9,
+					"Premium Unleaded 95": 117.7,
 					"Premium Unleaded 98": 125.7,
 					"e10": 100.7,
 					"e85": 169.9
