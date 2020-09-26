@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 5:16:13 pm",
+	"priceTime": "26/09/2020, 5:21:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -15419,7 +15419,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-26T02:17:00",
+				"LastUpdatedUtc": "2020-09-26T06:28:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T05:11:00",
+				"LastUpdatedUtc": "2020-09-26T06:37:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17504,7 +17504,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T05:47:00",
+				"LastUpdatedUtc": "2020-09-26T06:36:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T05:18:00",
+				"LastUpdatedUtc": "2020-09-26T06:25:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26415,17 +26415,17 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "Puma Loganlea",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-25T23:22:38",
+				"LastUpdatedUtc": "2020-09-26T07:07:31",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
+					"Unleaded": 108.7,
 					"LPG": 83.9,
-					"Premium Unleaded 95": 121.9,
-					"Premium Unleaded 98": 129.9,
-					"e10": 106.9,
+					"Premium Unleaded 95": 121.7,
+					"Premium Unleaded 98": 129.7,
+					"e10": 106.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -26950,10 +26950,10 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
+					"Unleaded": 106.9,
 					"Premium Unleaded 95": 118.9,
 					"Premium Unleaded 98": 124.9,
-					"e10": 105.7,
+					"e10": 104.9,
 					"Premium Diesel": 117.9
 				}
 			}
