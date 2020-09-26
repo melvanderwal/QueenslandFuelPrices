@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 6:16:13 am",
+	"priceTime": "27/09/2020, 6:21:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T14:01:00",
+				"LastUpdatedUtc": "2020-09-26T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T18:18:00",
+				"LastUpdatedUtc": "2020-09-26T19:43:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
