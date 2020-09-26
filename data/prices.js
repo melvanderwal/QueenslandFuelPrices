@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 3:46:13 pm",
+	"priceTime": "26/09/2020, 3:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -14394,16 +14394,16 @@ var data={
 				"Suburb": "Meadowbrook",
 				"Name": "Coles Express Loganlea",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-26T05:44:18.587",
+				"LastUpdatedUtc": "2020-09-26T05:48:12.923",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
+					"Unleaded": 108.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 95": 126.9,
-					"Premium Unleaded 98": 132.9,
+					"Premium Unleaded 95": 125.9,
+					"Premium Unleaded 98": 131.9,
 					"e10": 107.9
 				}
 			}
@@ -15031,7 +15031,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T02:12:00",
+				"LastUpdatedUtc": "2020-09-26T05:14:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T04:15:00",
+				"LastUpdatedUtc": "2020-09-26T05:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33053,7 +33053,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T04:16:00",
+				"LastUpdatedUtc": "2020-09-26T04:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
