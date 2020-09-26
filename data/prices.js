@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 10:17:21 am",
+	"priceTime": "26/09/2020, 10:21:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -962,7 +962,7 @@ var data={
 				"Suburb": "Tugun",
 				"Name": "Coles Express Tugun",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-26T00:14:16.977",
+				"LastUpdatedUtc": "2020-09-26T00:19:15.257",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4734,15 +4734,15 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Coles Express Rocklea",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-25T19:33:51.687",
+				"LastUpdatedUtc": "2020-09-26T00:19:16.827",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
+					"Unleaded": 108.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 98": 132.9
+					"Premium Unleaded 98": 131.9
 				}
 			}
 		},
@@ -6077,16 +6077,16 @@ var data={
 				"Suburb": "ROCHEDALE",
 				"Name": "Coles Express Rochedale",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-25T19:33:47.297",
+				"LastUpdatedUtc": "2020-09-26T00:19:18.38",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.9,
+					"Unleaded": 109.9,
 					"Diesel": 120.9,
-					"Premium Unleaded 98": 133.9,
-					"e10": 109.9
+					"Premium Unleaded 98": 132.9,
+					"e10": 108.9
 				}
 			}
 		},
@@ -8896,7 +8896,7 @@ var data={
 				"Suburb": "Colac",
 				"Name": "Coles Express Birkdale",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-26T00:14:15.413",
+				"LastUpdatedUtc": "2020-09-26T00:19:13.87",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10685,7 +10685,7 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Coles Express Caboolture",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-26T00:14:14.877",
+				"LastUpdatedUtc": "2020-09-26T00:19:13.397",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11858,7 +11858,7 @@ var data={
 				"Suburb": "Robina",
 				"Name": "Coles Express Mudgeeraba",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-26T00:14:14.32",
+				"LastUpdatedUtc": "2020-09-26T00:19:12.537",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14394,17 +14394,17 @@ var data={
 				"Suburb": "Meadowbrook",
 				"Name": "Coles Express Loganlea",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-25T19:34:20.7",
+				"LastUpdatedUtc": "2020-09-26T00:19:17.613",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.9,
+					"Unleaded": 109.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 95": 127.9,
-					"Premium Unleaded 98": 133.9,
-					"e10": 109.9
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 132.9,
+					"e10": 108.9
 				}
 			}
 		},
@@ -14569,7 +14569,7 @@ var data={
 				"Suburb": "Victoria Point",
 				"Name": "Coles Express Victoria Point",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-26T00:14:17.807",
+				"LastUpdatedUtc": "2020-09-26T00:19:15.813",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15419,7 +15419,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-25T21:49:00",
+				"LastUpdatedUtc": "2020-09-25T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17504,7 +17504,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T22:02:00",
+				"LastUpdatedUtc": "2020-09-25T23:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T22:50:00",
+				"LastUpdatedUtc": "2020-09-25T23:40:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33052,7 +33052,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T23:02:00",
+				"LastUpdatedUtc": "2020-09-25T23:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36049,7 +36049,7 @@ var data={
 				"Suburb": "Biggera Waters",
 				"Name": "Coles Express Biggera Waters",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-26T00:14:13.843",
+				"LastUpdatedUtc": "2020-09-26T00:19:11.583",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36134,16 +36134,16 @@ var data={
 				"Suburb": "Eagleby",
 				"Name": "7-Eleven Eagleby",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T19:24:00",
+				"LastUpdatedUtc": "2020-09-26T00:06:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.3,
-					"Premium Unleaded 95": 121.3,
-					"Premium Unleaded 98": 127.3,
-					"e10": 107.3,
+					"Unleaded": 108.9,
+					"Premium Unleaded 95": 120.9,
+					"Premium Unleaded 98": 126.9,
+					"e10": 106.9,
 					"Premium Diesel": 116.9
 				}
 			}
@@ -38984,7 +38984,7 @@ var data={
 				"Suburb": "Hobart",
 				"Name": "Coles Express Alderley",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-26T00:14:16.1",
+				"LastUpdatedUtc": "2020-09-26T00:19:14.693",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
