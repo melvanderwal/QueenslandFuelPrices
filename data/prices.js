@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 12:01:13 pm",
+	"priceTime": "26/09/2020, 12:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -1220,7 +1220,7 @@ var data={
 				"Suburb": "Orbost",
 				"Name": "7-Eleven East Brisbane",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T19:24:00",
+				"LastUpdatedUtc": "2020-09-26T01:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1228,8 +1228,8 @@ var data={
 				"Prices": {
 					"Unleaded": 112.7,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 130.7,
-					"e10": 110.7,
+					"Premium Unleaded 98": 129.9,
+					"e10": 109.9,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -5386,17 +5386,17 @@ var data={
 				"Suburb": "Slacks Creek",
 				"Name": "Coles Express Springwood",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-25T19:34:32.237",
+				"LastUpdatedUtc": "2020-09-26T02:03:16.293",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
+					"Unleaded": 108.9,
 					"Diesel": 117.9,
-					"Premium Unleaded 95": 126.9,
-					"Premium Unleaded 98": 132.9,
-					"e10": 108.9
+					"Premium Unleaded 95": 125.9,
+					"Premium Unleaded 98": 131.9,
+					"e10": 107.9
 				}
 			}
 		},
@@ -8259,16 +8259,16 @@ var data={
 				"Suburb": "Springwood",
 				"Name": "Coles Express Chatswood Road",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-25T19:34:10.87",
+				"LastUpdatedUtc": "2020-09-26T02:03:16.787",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
+					"Unleaded": 108.9,
 					"Diesel": 117.9,
-					"Premium Unleaded 95": 126.9,
-					"Premium Unleaded 98": 132.9
+					"Premium Unleaded 95": 125.9,
+					"Premium Unleaded 98": 131.9
 				}
 			}
 		},
@@ -19217,16 +19217,16 @@ var data={
 				"Suburb": "Karratha",
 				"Name": "Coles Express Nudgee",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-25T19:34:34.743",
+				"LastUpdatedUtc": "2020-09-26T02:03:15.803",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 110.9,
+					"Unleaded": 109.9,
 					"Diesel": 116.9,
-					"Premium Unleaded 95": 127.9,
-					"Premium Unleaded 98": 133.9,
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 132.9,
 					"Premium Diesel": 125.9
 				}
 			}
