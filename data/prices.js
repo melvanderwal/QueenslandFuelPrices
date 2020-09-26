@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 5:31:13 pm",
+	"priceTime": "26/09/2020, 5:36:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -33359,15 +33359,15 @@ var data={
 				"Suburb": "Glenden",
 				"Name": "Caltex Glenden",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-06-28T00:47:08",
+				"LastUpdatedUtc": "2020-09-26T07:28:15",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 124.9,
+					"Unleaded": 126.9,
 					"Diesel": 129.9,
-					"Premium Unleaded 98": 143.9
+					"Premium Unleaded 98": 145.9
 				}
 			}
 		},
@@ -36724,7 +36724,7 @@ var data={
 				"Suburb": "Carrara",
 				"Name": "7-Eleven Carrara South",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T22:29:00",
+				"LastUpdatedUtc": "2020-09-26T07:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36732,7 +36732,7 @@ var data={
 				"Prices": {
 					"Unleaded": 107.5,
 					"Premium Unleaded 95": 119.5,
-					"Premium Unleaded 98": 125.5,
+					"Premium Unleaded 98": 124.9,
 					"e10": 105.5,
 					"Premium Diesel": 115.9
 				}
@@ -37802,15 +37802,15 @@ var data={
 				"Suburb": "Pimpama",
 				"Name": "7-Eleven Pimpama",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T19:24:00",
+				"LastUpdatedUtc": "2020-09-26T07:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 104.9,
-					"Premium Unleaded 95": 116.9,
-					"Premium Unleaded 98": 122.9,
+					"Premium Unleaded 95": 116.7,
+					"Premium Unleaded 98": 122.7,
 					"e10": 100.9,
 					"Premium Diesel": 114.7
 				}
@@ -38051,16 +38051,16 @@ var data={
 				"Suburb": "Carrara",
 				"Name": "7-Eleven Carrara North",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-25T22:29:00",
+				"LastUpdatedUtc": "2020-09-26T07:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.5,
-					"Premium Unleaded 95": 119.5,
-					"Premium Unleaded 98": 125.5,
-					"e10": 105.5,
+					"Unleaded": 106.9,
+					"Premium Unleaded 95": 118.9,
+					"Premium Unleaded 98": 124.9,
+					"e10": 104.9,
 					"Premium Diesel": 115.9
 				}
 			}
