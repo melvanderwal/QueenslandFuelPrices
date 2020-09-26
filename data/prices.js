@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 10:16:12 pm",
+	"priceTime": "26/09/2020, 10:21:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2071,7 +2071,7 @@ var data={
 				"Suburb": "Lakes Entrance",
 				"Name": "United Sherwood",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-26T12:00:38.507",
+				"LastUpdatedUtc": "2020-09-26T12:14:07.297",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11972,7 +11972,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "Metro Petroleum Hillcrest",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-26T10:02:54.027",
+				"LastUpdatedUtc": "2020-09-26T12:17:23.103",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11981,8 +11981,8 @@ var data={
 					"Unleaded": 111.9,
 					"Premium Unleaded 95": 121.9,
 					"Premium Unleaded 98": 129.9,
-					"e10": 102.7,
-					"Premium Diesel": 104.9
+					"e10": 107.7,
+					"Premium Diesel": 109.9
 				}
 			}
 		},
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T09:35:00",
+				"LastUpdatedUtc": "2020-09-26T11:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
