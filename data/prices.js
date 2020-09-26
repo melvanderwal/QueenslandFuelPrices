@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 7:31:13 am",
+	"priceTime": "27/09/2020, 7:36:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -12616,18 +12616,18 @@ var data={
 				"Suburb": "Eight Mile Plains",
 				"Name": "Freedom Fuels Eight Mile Plains",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-26T02:18:40",
+				"LastUpdatedUtc": "2020-09-26T21:33:36",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
+					"Unleaded": 108.9,
 					"Diesel": 116.9,
 					"LPG": 78.9,
-					"Premium Unleaded 95": 123.9,
-					"Premium Unleaded 98": 130.9,
-					"e10": 107.9
+					"Premium Unleaded 95": 122.9,
+					"Premium Unleaded 98": 129.9,
+					"e10": 106.9
 				}
 			}
 		},
