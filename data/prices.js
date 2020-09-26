@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 6:31:13 am",
+	"priceTime": "27/09/2020, 6:36:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -473,17 +473,17 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "Metro Nerang",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-25T13:09:14",
+				"LastUpdatedUtc": "2020-09-26T20:29:24",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
+					"Unleaded": 106.7,
 					"Diesel": 103.9,
-					"Premium Unleaded 95": 118.7,
-					"Premium Unleaded 98": 125.7,
-					"e10": 105.7
+					"Premium Unleaded 95": 117.7,
+					"Premium Unleaded 98": 124.7,
+					"e10": 104.7
 				}
 			}
 		},
@@ -11368,7 +11368,7 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "United Bald Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-26T20:24:13.953",
+				"LastUpdatedUtc": "2020-09-26T20:34:58.733",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19246,7 +19246,7 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "United Park Ridge",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-26T20:24:15.493",
+				"LastUpdatedUtc": "2020-09-26T20:35:00.127",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19441,7 +19441,7 @@ var data={
 				"Suburb": "South Rockhampton",
 				"Name": "United South Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-26T20:24:11.26",
+				"LastUpdatedUtc": "2020-09-26T20:34:56",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22826,7 +22826,7 @@ var data={
 				"Suburb": "Tiaro ",
 				"Name": "United Tiaro",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-26T20:24:09.767",
+				"LastUpdatedUtc": "2020-09-26T20:34:54.69",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39388,7 +39388,7 @@ var data={
 				"Suburb": "Archerfield",
 				"Name": "United Archerfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-26T20:24:12.597",
+				"LastUpdatedUtc": "2020-09-26T20:34:57.377",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
