@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 4:16:13 pm",
+	"priceTime": "26/09/2020, 4:21:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T04:00:00",
+				"LastUpdatedUtc": "2020-09-26T05:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33053,7 +33053,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T04:48:00",
+				"LastUpdatedUtc": "2020-09-26T05:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
