@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 3:01:13 pm",
+	"priceTime": "26/09/2020, 3:06:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -12083,16 +12083,16 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "Freedom Fuels Capalaba",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-25T02:13:00.61",
+				"LastUpdatedUtc": "2020-09-26T05:03:34.087",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
+					"Unleaded": 109.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 98": 132.9,
-					"e10": 109.9
+					"Premium Unleaded 98": 130.9,
+					"e10": 107.9
 				}
 			}
 		},
