@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 8:46:13 am",
+	"priceTime": "27/09/2020, 8:51:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15031,7 +15031,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T14:01:00",
+				"LastUpdatedUtc": "2020-09-26T22:13:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-26T20:10:00",
+				"LastUpdatedUtc": "2020-09-26T21:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
