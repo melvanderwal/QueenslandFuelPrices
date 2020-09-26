@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "26/09/2020, 8:56:45 am",
-	"priceTime": "26/09/2020, 10:31:13 am",
+	"priceTime": "26/09/2020, 10:36:14 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -14451,7 +14451,7 @@ var data={
 				"Suburb": "Mandurah",
 				"Name": "Coles Express Deagon",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-26T00:28:14.883",
+				"LastUpdatedUtc": "2020-09-26T00:32:14.23",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -27336,7 +27336,7 @@ var data={
 				"Suburb": "Garbutt",
 				"Name": "Coles Express Garbutt",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-26T00:28:15.59",
+				"LastUpdatedUtc": "2020-09-26T00:33:14.417",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
