@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 6:16:12 am",
+	"priceTime": "28/09/2020, 6:21:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2015,14 +2015,14 @@ var data={
 				"Suburb": "Kyabram",
 				"Name": "BP Indooroopilly",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-21T20:23:20",
+				"LastUpdatedUtc": "2020-09-27T20:18:27.777",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 120.9,
-					"Premium Unleaded 98": 141.9,
+					"Unleaded": 119.9,
+					"Premium Unleaded 98": 140.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T18:07:00",
+				"LastUpdatedUtc": "2020-09-27T19:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15419,7 +15419,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-27T19:11:00",
+				"LastUpdatedUtc": "2020-09-27T19:16:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T18:02:00",
+				"LastUpdatedUtc": "2020-09-27T19:39:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33053,7 +33053,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T19:08:00",
+				"LastUpdatedUtc": "2020-09-27T19:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
