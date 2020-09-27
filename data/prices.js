@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 6:31:12 pm",
+	"priceTime": "27/09/2020, 6:36:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -22605,14 +22605,14 @@ var data={
 				"Suburb": "Dayboro",
 				"Name": "Puma Dayboro",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-25T06:49:48.25",
+				"LastUpdatedUtc": "2020-09-27T08:34:40.85",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 109.9,
-					"Premium Unleaded 98": 130.9,
+					"Premium Unleaded 98": 129.9,
 					"Premium Diesel": 117.7
 				}
 			}
