@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 6:16:13 pm",
+	"priceTime": "27/09/2020, 6:21:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T06:07:00",
+				"LastUpdatedUtc": "2020-09-27T07:43:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33053,7 +33053,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T06:41:00",
+				"LastUpdatedUtc": "2020-09-27T07:34:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
