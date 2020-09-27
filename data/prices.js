@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 2:46:13 pm",
+	"priceTime": "27/09/2020, 2:51:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T03:28:00",
+				"LastUpdatedUtc": "2020-09-27T04:12:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T03:21:00",
+				"LastUpdatedUtc": "2020-09-27T04:12:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33053,7 +33053,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T03:41:00",
+				"LastUpdatedUtc": "2020-09-27T04:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
