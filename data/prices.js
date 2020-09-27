@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 10:46:13 pm",
+	"priceTime": "27/09/2020, 10:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -22826,7 +22826,7 @@ var data={
 				"Suburb": "Tiaro ",
 				"Name": "United Tiaro",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-27T12:36:48.087",
+				"LastUpdatedUtc": "2020-09-27T12:48:59.533",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24008,7 +24008,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T08:26:00",
+				"LastUpdatedUtc": "2020-09-27T12:07:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
