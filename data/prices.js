@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 12:01:12 pm",
+	"priceTime": "27/09/2020, 12:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -6133,7 +6133,7 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "Coles Express Virginia",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-27T01:59:12.557",
+				"LastUpdatedUtc": "2020-09-27T02:03:12.49",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
