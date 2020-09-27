@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 4:01:14 pm",
+	"priceTime": "27/09/2020, 4:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3517,15 +3517,15 @@ var data={
 				"Suburb": "Katanning",
 				"Name": "Puma Everton Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-25T21:46:30",
+				"LastUpdatedUtc": "2020-09-27T06:02:08",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.7,
-					"Premium Unleaded 98": 130.7,
-					"e10": 107.7,
+					"Unleaded": 108.9,
+					"Premium Unleaded 98": 129.9,
+					"e10": 106.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -24841,7 +24841,7 @@ var data={
 				"Suburb": "Sheridan",
 				"Name": "United Cairns North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-27T05:52:36.883",
+				"LastUpdatedUtc": "2020-09-27T06:04:57.533",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25602,7 +25602,7 @@ var data={
 				"Suburb": "Arundel",
 				"Name": "United Arundel",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-27T05:52:35.277",
+				"LastUpdatedUtc": "2020-09-27T06:04:49.373",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
