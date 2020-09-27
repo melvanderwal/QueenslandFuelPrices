@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 11:46:13 am",
+	"priceTime": "27/09/2020, 11:51:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T00:42:00",
+				"LastUpdatedUtc": "2020-09-27T01:05:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T00:41:00",
+				"LastUpdatedUtc": "2020-09-27T00:51:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21873,14 +21873,14 @@ var data={
 				"Suburb": "Stanwell",
 				"Name": "Stanwell Stop",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2020-06-06T02:05:47.753",
+				"LastUpdatedUtc": "2020-09-27T01:46:53.157",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 115.9,
-					"Diesel": 120.9
+					"Unleaded": 114.9,
+					"Diesel": 114.9
 				}
 			}
 		},
@@ -29950,15 +29950,15 @@ var data={
 				"Suburb": "Nanango",
 				"Name": "Caltex Nanango",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-25T12:49:00.173",
+				"LastUpdatedUtc": "2020-09-27T01:46:35.33",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 112.9,
+					"Unleaded": 113.9,
 					"Diesel": 112.9,
-					"Premium Unleaded 98": 127.9
+					"Premium Unleaded 98": 128.9
 				}
 			}
 		},
@@ -33053,7 +33053,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-27T00:38:00",
+				"LastUpdatedUtc": "2020-09-27T01:14:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
