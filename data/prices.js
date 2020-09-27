@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 6:31:13 am",
+	"priceTime": "28/09/2020, 6:36:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -446,7 +446,7 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Puma Southport",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-26T00:59:47",
+				"LastUpdatedUtc": "2020-09-27T20:34:05",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -454,7 +454,7 @@ var data={
 				"Prices": {
 					"Unleaded": 106.5,
 					"Diesel": 114.9,
-					"Premium Unleaded 95": 119.5
+					"Premium Unleaded 95": 117.7
 				}
 			}
 		},
@@ -4620,7 +4620,7 @@ var data={
 				"Suburb": "Inala",
 				"Name": "Freedom Fuels Inala",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-27T04:50:30.813",
+				"LastUpdatedUtc": "2020-09-27T20:33:13.77",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4628,7 +4628,7 @@ var data={
 				"Prices": {
 					"Unleaded": 107.9,
 					"Diesel": 116.9,
-					"Premium Unleaded 95": 120.9,
+					"Premium Unleaded 95": 121.9,
 					"e10": 105.9
 				}
 			}
@@ -20717,14 +20717,14 @@ var data={
 				"Suburb": "Springsure",
 				"Name": "Springsure Roadhouse",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-04-02T20:50:14.213",
+				"LastUpdatedUtc": "2020-09-27T20:33:43.363",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 130,
-					"Diesel": 135,
+					"Unleaded": 128.9,
+					"Diesel": 127.9,
 					"Premium Unleaded 98": 160
 				}
 			}
