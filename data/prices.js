@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 3:31:13 pm",
+	"priceTime": "27/09/2020, 3:36:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -23235,7 +23235,7 @@ var data={
 				"Suburb": "Mudgeeraba",
 				"Name": "United Mudgeeraba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-27T05:15:54.41",
+				"LastUpdatedUtc": "2020-09-27T05:29:02.237",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33773,7 +33773,7 @@ var data={
 				"Suburb": "Hermit Park",
 				"Name": "United Hermit Park",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-27T05:15:55.99",
+				"LastUpdatedUtc": "2020-09-27T05:29:04.1",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
