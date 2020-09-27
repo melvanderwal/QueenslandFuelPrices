@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 2:31:13 pm",
+	"priceTime": "27/09/2020, 2:36:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -8202,16 +8202,16 @@ var data={
 				"Suburb": "Victoria Point",
 				"Name": "Freedom Fuels Victoria Point",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-26T04:57:42.243",
+				"LastUpdatedUtc": "2020-09-27T04:29:39.18",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 113.9,
+					"Unleaded": 112.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 127.9,
-					"e10": 111.9
+					"Premium Unleaded 95": 126.9,
+					"e10": 110.9
 				}
 			}
 		},
