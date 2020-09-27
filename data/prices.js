@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "27/09/2020, 11:31:13 am",
+	"priceTime": "27/09/2020, 11:36:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1759,18 +1759,18 @@ var data={
 				"Suburb": "Cobram",
 				"Name": "Freedom Fuels Thorneside",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-25T04:52:56.263",
+				"LastUpdatedUtc": "2020-09-27T01:32:05.05",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.9,
+					"Unleaded": 109.9,
 					"Diesel": 119.9,
 					"LPG": 78.9,
-					"Premium Unleaded 95": 124.9,
-					"Premium Unleaded 98": 131.9,
-					"e10": 109.9
+					"Premium Unleaded 95": 122.9,
+					"Premium Unleaded 98": 129.9,
+					"e10": 107.9
 				}
 			}
 		},
