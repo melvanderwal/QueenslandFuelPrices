@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 6:46:13 pm",
+	"priceTime": "28/09/2020, 6:51:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -5250,9 +5250,9 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
+					"Unleaded": 108.4,
 					"Premium Unleaded 98": 126.4,
-					"e10": 106.9,
+					"e10": 106.4,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -14720,11 +14720,11 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.9,
+					"Unleaded": 107.4,
 					"LPG": 80.8,
 					"Premium Unleaded 95": 119.4,
 					"Premium Unleaded 98": 125.4,
-					"e10": 105.9,
+					"e10": 105.4,
 					"Premium Diesel": 118.9
 				}
 			}
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T07:37:00",
+				"LastUpdatedUtc": "2020-09-28T07:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16667,16 +16667,16 @@ var data={
 				"Suburb": "Mount Warren Park",
 				"Name": "7-Eleven Windaroo",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-28T05:45:00",
+				"LastUpdatedUtc": "2020-09-28T08:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.3,
+					"Unleaded": 107.9,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 127.3,
-					"e10": 107.3,
+					"Premium Unleaded 98": 125.9,
+					"e10": 105.9,
 					"Premium Diesel": 116.9
 				}
 			}
@@ -27840,14 +27840,14 @@ var data={
 				"Suburb": "Gatton",
 				"Name": "Liberty Gatton",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2020-09-28T06:04:36.527",
+				"LastUpdatedUtc": "2020-09-28T08:47:09.403",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 113.7,
-					"Diesel": 117.7,
+					"Diesel": 119.7,
 					"Premium Unleaded 98": 136.7
 				}
 			}
@@ -33047,14 +33047,14 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T07:24:00",
+				"LastUpdatedUtc": "2020-09-28T07:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 101.5,
-					"Diesel": 112,
+					"Diesel": 111.9,
 					"Premium Unleaded 98": 122.5,
 					"e10": 99.5
 				}
