@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 8:01:13 pm",
+	"priceTime": "28/09/2020, 8:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -11972,7 +11972,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "Metro Petroleum Hillcrest",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-28T06:22:29.03",
+				"LastUpdatedUtc": "2020-09-28T10:03:05.023",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11981,8 +11981,8 @@ var data={
 					"Unleaded": 109.9,
 					"Premium Unleaded 95": 119.9,
 					"Premium Unleaded 98": 127.9,
-					"e10": 105.9,
-					"Premium Diesel": 109.9
+					"e10": 100.9,
+					"Premium Diesel": 104.9
 				}
 			}
 		},
@@ -43054,7 +43054,7 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "Metro Petroleum Greenbank",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2020-09-28T06:33:51",
+				"LastUpdatedUtc": "2020-09-28T10:01:29",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43063,8 +43063,8 @@ var data={
 					"Unleaded": 109.9,
 					"Premium Unleaded 95": 119.9,
 					"Premium Unleaded 98": 127.9,
-					"e10": 105.9,
-					"Premium Diesel": 109.9
+					"e10": 100.9,
+					"Premium Diesel": 104.9
 				}
 			}
 		},
