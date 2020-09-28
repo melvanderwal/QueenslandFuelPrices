@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 12:01:12 pm",
+	"priceTime": "28/09/2020, 12:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -14307,16 +14307,16 @@ var data={
 				"Suburb": "Ararat",
 				"Name": "7-Eleven Murarrie",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T23:28:00",
+				"LastUpdatedUtc": "2020-09-28T01:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
+					"Unleaded": 107.9,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 126.9,
-					"e10": 106.9,
+					"Premium Unleaded 98": 125.9,
+					"e10": 105.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -16184,16 +16184,16 @@ var data={
 				"Suburb": "Gaven",
 				"Name": "7-Eleven Gaven",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T19:24:00",
+				"LastUpdatedUtc": "2020-09-28T01:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 103.9,
+					"Unleaded": 102.9,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 121.9,
-					"e10": 101.9,
+					"Premium Unleaded 98": 120.9,
+					"e10": 100.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -18995,15 +18995,15 @@ var data={
 				"Suburb": "Parkwood",
 				"Name": "7-Eleven Parkwood",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T19:24:00",
+				"LastUpdatedUtc": "2020-09-28T01:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 103.9,
-					"Premium Unleaded 98": 121.9,
-					"e10": 101.9,
+					"Premium Unleaded 98": 120.9,
+					"e10": 100.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -25770,16 +25770,16 @@ var data={
 				"Suburb": "Pacific Pines",
 				"Name": "7-Eleven Pacific Pines",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T19:24:00",
+				"LastUpdatedUtc": "2020-09-28T01:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 103.9,
-					"Premium Unleaded 95": 115.9,
-					"Premium Unleaded 98": 121.9,
-					"e10": 101.9,
+					"Premium Unleaded 95": 114.9,
+					"Premium Unleaded 98": 120.9,
+					"e10": 100.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -27195,7 +27195,7 @@ var data={
 				"Suburb": "Currajong",
 				"Name": "Coles Express Currajong",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-28T01:57:06.52",
+				"LastUpdatedUtc": "2020-09-28T02:01:08.603",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28263,7 +28263,7 @@ var data={
 				"Suburb": "Aitkenvale",
 				"Name": "Coles Express Aitkenvale",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-28T01:57:05.673",
+				"LastUpdatedUtc": "2020-09-28T01:58:05.747",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34422,16 +34422,16 @@ var data={
 				"Suburb": "Oxenford",
 				"Name": "7-Eleven Maudsland",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T19:24:00",
+				"LastUpdatedUtc": "2020-09-28T01:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 103.9,
-					"Premium Unleaded 95": 115.9,
-					"Premium Unleaded 98": 121.9,
-					"e10": 101.9,
+					"Unleaded": 102.9,
+					"Premium Unleaded 95": 114.9,
+					"Premium Unleaded 98": 120.9,
+					"e10": 100.9,
 					"Premium Diesel": 115.9
 				}
 			}
@@ -34480,7 +34480,7 @@ var data={
 				"Suburb": "Kirwan",
 				"Name": "Coles Express Thuringowa",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2020-09-28T01:57:06.093",
+				"LastUpdatedUtc": "2020-09-28T01:58:06.137",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37715,16 +37715,16 @@ var data={
 				"Suburb": "Morwell",
 				"Name": "7-Eleven Tingalpa",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T19:24:00",
+				"LastUpdatedUtc": "2020-09-28T01:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
-					"Premium Unleaded 95": 121.9,
-					"Premium Unleaded 98": 127.9,
-					"e10": 107.9,
+					"Unleaded": 107.9,
+					"Premium Unleaded 95": 119.9,
+					"Premium Unleaded 98": 125.9,
+					"e10": 105.9,
 					"Premium Diesel": 114.9
 				}
 			}
