@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "29/09/2020, 6:16:13 am",
+	"priceTime": "29/09/2020, 6:21:14 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -3290,14 +3290,14 @@ var data={
 				"Suburb": "Collie",
 				"Name": "Puma Nundah",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-26T08:54:46",
+				"LastUpdatedUtc": "2020-09-28T20:05:01",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
-					"Premium Unleaded 98": 129.9,
+					"Unleaded": 107.9,
+					"Premium Unleaded 98": 130.9,
 					"Premium Diesel": 117.7
 				}
 			}
@@ -4907,14 +4907,14 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "Puma Coopers Plains",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-28T00:22:19.737",
+				"LastUpdatedUtc": "2020-09-28T20:16:27.257",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 105.5,
-					"Premium Unleaded 98": 128.5,
+					"Unleaded": 105.3,
+					"Premium Unleaded 98": 128.3,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T19:12:00",
+				"LastUpdatedUtc": "2020-09-28T19:44:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15419,7 +15419,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-28T14:01:00",
+				"LastUpdatedUtc": "2020-09-28T19:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T14:01:00",
+				"LastUpdatedUtc": "2020-09-28T19:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24004,7 +24004,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T18:24:00",
+				"LastUpdatedUtc": "2020-09-28T19:43:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26411,17 +26411,17 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "Puma Loganlea",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-28T04:04:27",
+				"LastUpdatedUtc": "2020-09-28T20:18:59",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
+					"Unleaded": 106.9,
 					"LPG": 83.9,
-					"Premium Unleaded 95": 122.7,
-					"Premium Unleaded 98": 130.7,
-					"e10": 105.7,
+					"Premium Unleaded 95": 121.9,
+					"Premium Unleaded 98": 129.9,
+					"e10": 104.9,
 					"Premium Diesel": 114.9
 				}
 			}
