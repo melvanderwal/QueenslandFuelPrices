@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "29/09/2020, 7:16:13 am",
+	"priceTime": "29/09/2020, 7:21:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -3261,16 +3261,16 @@ var data={
 				"Suburb": "Broome",
 				"Name": "BP Geebung",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-25T21:56:33.187",
+				"LastUpdatedUtc": "2020-09-28T21:17:11.023",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
+					"Unleaded": 108.9,
 					"Diesel": 116.9,
-					"Premium Unleaded 95": 123.9,
-					"Premium Unleaded 98": 130.9,
+					"Premium Unleaded 95": 122.9,
+					"Premium Unleaded 98": 129.9,
 					"Premium Diesel": 118.9
 				}
 			}
@@ -8202,16 +8202,16 @@ var data={
 				"Suburb": "Victoria Point",
 				"Name": "Freedom Fuels Victoria Point",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-27T04:29:39.18",
+				"LastUpdatedUtc": "2020-09-28T21:18:46.697",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 112.9,
+					"Unleaded": 111.9,
 					"Diesel": 119.9,
-					"Premium Unleaded 95": 126.9,
-					"e10": 110.9
+					"Premium Unleaded 95": 125.9,
+					"e10": 109.9
 				}
 			}
 		},
@@ -15031,7 +15031,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T16:07:00",
+				"LastUpdatedUtc": "2020-09-28T20:33:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T20:11:00",
+				"LastUpdatedUtc": "2020-09-28T20:44:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15419,7 +15419,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2020-09-28T19:15:00",
+				"LastUpdatedUtc": "2020-09-28T20:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T20:10:00",
+				"LastUpdatedUtc": "2020-09-28T20:40:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24004,7 +24004,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T20:01:00",
+				"LastUpdatedUtc": "2020-09-28T20:20:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37055,14 +37055,14 @@ var data={
 				"Suburb": "West Ipswich",
 				"Name": "Puma West Ipswich (Brisbane St)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-28T04:22:35.393",
+				"LastUpdatedUtc": "2020-09-28T21:15:37",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 105.7,
-					"Premium Unleaded 98": 128.7,
+					"Unleaded": 104.9,
+					"Premium Unleaded 98": 127.9,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -39324,17 +39324,17 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "Freedom Fuels Underwood",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2020-09-27T05:39:04.473",
+				"LastUpdatedUtc": "2020-09-28T21:16:25.287",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.9,
+					"Unleaded": 107.9,
 					"Diesel": 115.9,
-					"Premium Unleaded 95": 123.9,
-					"Premium Unleaded 98": 130.9,
-					"e10": 108.9
+					"Premium Unleaded 95": 121.9,
+					"Premium Unleaded 98": 128.9,
+					"e10": 106.9
 				}
 			}
 		},
