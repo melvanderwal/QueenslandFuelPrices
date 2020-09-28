@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "29/09/2020, 1:16:13 am",
+	"priceTime": "29/09/2020, 1:21:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15031,7 +15031,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T14:01:00",
+				"LastUpdatedUtc": "2020-09-28T14:16:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
