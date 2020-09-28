@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "29/09/2020, 4:46:32 am",
+	"priceTime": "29/09/2020, 4:51:15 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T15:45:00",
+				"LastUpdatedUtc": "2020-09-28T18:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24004,7 +24004,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T14:58:00",
+				"LastUpdatedUtc": "2020-09-28T17:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
