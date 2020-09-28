@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 6:31:14 pm",
+	"priceTime": "28/09/2020, 6:36:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2106,7 +2106,7 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
+					"Unleaded": 106.9,
 					"LPG": 89.9,
 					"Premium Unleaded 95": 122.9,
 					"Premium Unleaded 98": 131.9,
@@ -5357,16 +5357,16 @@ var data={
 				"Suburb": "Springwood",
 				"Name": "7-Eleven Springwood",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-28T04:19:00",
+				"LastUpdatedUtc": "2020-09-28T08:13:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
+					"Unleaded": 107.2,
 					"LPG": 80.8,
-					"Premium Unleaded 98": 125.7,
-					"e10": 105.7,
+					"Premium Unleaded 98": 125.2,
+					"e10": 105.2,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -7135,11 +7135,11 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.5,
+					"Unleaded": 107.3,
 					"LPG": 87.9,
 					"Premium Unleaded 95": 119.3,
 					"Premium Unleaded 98": 125.3,
-					"e10": 105.5,
+					"e10": 105.3,
 					"Premium Diesel": 112.9
 				}
 			}
@@ -36135,10 +36135,10 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.5,
+					"Unleaded": 107.3,
 					"Premium Unleaded 95": 119.3,
 					"Premium Unleaded 98": 125.3,
-					"e10": 105.5,
+					"e10": 105.3,
 					"Premium Diesel": 114.7
 				}
 			}
@@ -37116,10 +37116,10 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 117.9,
+					"Unleaded": 115.9,
 					"Premium Unleaded 95": 127.9,
-					"Premium Unleaded 98": 135.9,
-					"e10": 115.9,
+					"Premium Unleaded 98": 133.9,
+					"e10": 113.9,
 					"Premium Diesel": 121.9
 				}
 			}
