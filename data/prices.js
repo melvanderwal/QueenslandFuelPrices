@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 11:01:12 am",
+	"priceTime": "28/09/2020, 11:06:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -735,10 +735,10 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 104.7,
+					"Unleaded": 103.7,
 					"Premium Unleaded 95": 115.7,
 					"Premium Unleaded 98": 121.7,
-					"e10": 102.7,
+					"e10": 101.7,
 					"Premium Diesel": 118.9
 				}
 			}
