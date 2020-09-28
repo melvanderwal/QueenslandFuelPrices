@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "29/09/2020, 2:16:12 am",
+	"priceTime": "29/09/2020, 2:21:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15279,7 +15279,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T14:01:00",
+				"LastUpdatedUtc": "2020-09-28T15:43:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
