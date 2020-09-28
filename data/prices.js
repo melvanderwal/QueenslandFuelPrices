@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "29/09/2020, 5:36:13 am",
+	"priceTime": "29/09/2020, 5:41:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2015,14 +2015,14 @@ var data={
 				"Suburb": "Kyabram",
 				"Name": "BP Indooroopilly",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-09-27T20:18:27.777",
+				"LastUpdatedUtc": "2020-09-28T19:34:29",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 119.9,
-					"Premium Unleaded 98": 140.9,
+					"Unleaded": 114.9,
+					"Premium Unleaded 98": 135.9,
 					"Premium Diesel": 119.9
 				}
 			}
