@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 9:16:12 pm",
+	"priceTime": "28/09/2020, 9:21:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -874,14 +874,14 @@ var data={
 				"Suburb": "Ashmore",
 				"Name": "7-Eleven Ashmore",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-28T07:09:00",
+				"LastUpdatedUtc": "2020-09-28T11:08:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 103.7,
-					"Premium Unleaded 95": 115.7,
+					"Premium Unleaded 95": 114.9,
 					"Premium Unleaded 98": 121.7,
 					"e10": 101.7,
 					"Premium Diesel": 114.9
@@ -35638,16 +35638,16 @@ var data={
 				"Suburb": "Clare",
 				"Name": "7-Eleven Deception Bay",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T19:24:00",
+				"LastUpdatedUtc": "2020-09-28T11:07:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
-					"Premium Unleaded 95": 120.9,
-					"Premium Unleaded 98": 126.9,
-					"e10": 106.9,
+					"Unleaded": 108.5,
+					"Premium Unleaded 95": 120.5,
+					"Premium Unleaded 98": 126.5,
+					"e10": 106.5,
 					"Premium Diesel": 119.9
 				}
 			}
