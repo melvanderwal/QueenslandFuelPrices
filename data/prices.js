@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 4:01:12 pm",
+	"priceTime": "28/09/2020, 4:06:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -14718,11 +14718,11 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
+					"Unleaded": 107.9,
 					"LPG": 80.8,
-					"Premium Unleaded 95": 120.9,
+					"Premium Unleaded 95": 119.9,
 					"Premium Unleaded 98": 125.9,
-					"e10": 106.9,
+					"e10": 105.9,
 					"Premium Diesel": 118.9
 				}
 			}
@@ -27834,7 +27834,7 @@ var data={
 				"Suburb": "Gatton",
 				"Name": "Liberty Gatton",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2020-09-19T21:18:42",
+				"LastUpdatedUtc": "2020-09-28T06:04:36.527",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36519,16 +36519,16 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "Puma Archerfield (Beaudesert Rd)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-27T22:34:05.63",
+				"LastUpdatedUtc": "2020-09-28T06:03:13.697",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.3,
+					"Unleaded": 106.9,
 					"Diesel": 114.9,
-					"Premium Unleaded 98": 128.3,
-					"e10": 105.3,
+					"Premium Unleaded 98": 129.9,
+					"e10": 104.9,
 					"Premium Diesel": 116.9
 				}
 			}
