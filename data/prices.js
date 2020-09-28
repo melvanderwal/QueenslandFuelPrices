@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 5:31:13 pm",
+	"priceTime": "28/09/2020, 5:36:15 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -5415,16 +5415,16 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Woodridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-28T01:04:00",
+				"LastUpdatedUtc": "2020-09-28T07:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
-					"Premium Unleaded 95": 119.7,
-					"Premium Unleaded 98": 125.7,
-					"e10": 105.7,
+					"Unleaded": 107.5,
+					"Premium Unleaded 95": 119.5,
+					"Premium Unleaded 98": 125.5,
+					"e10": 105.5,
 					"Premium Diesel": 112.9
 				}
 			}
@@ -6307,16 +6307,16 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Kingston",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-28T01:03:00",
+				"LastUpdatedUtc": "2020-09-28T07:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
+					"Unleaded": 107.5,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 125.7,
-					"e10": 105.7,
+					"Premium Unleaded 98": 125.5,
+					"e10": 105.5,
 					"Premium Diesel": 112.9
 				}
 			}
@@ -7129,17 +7129,17 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Woodridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-28T01:03:00",
+				"LastUpdatedUtc": "2020-09-28T07:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
+					"Unleaded": 107.5,
 					"LPG": 87.9,
-					"Premium Unleaded 95": 119.7,
-					"Premium Unleaded 98": 125.7,
-					"e10": 105.7,
+					"Premium Unleaded 95": 119.5,
+					"Premium Unleaded 98": 125.5,
+					"e10": 105.5,
 					"Premium Diesel": 112.9
 				}
 			}
@@ -19955,7 +19955,7 @@ var data={
 				"Suburb": "Harlin",
 				"Name": "Harlin Roadhouse",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-20T06:19:34",
+				"LastUpdatedUtc": "2020-09-28T07:29:14.687",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41882,16 +41882,16 @@ var data={
 				"Suburb": "Naracoorte",
 				"Name": "7-Eleven Rothwell",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-28T05:13:00",
+				"LastUpdatedUtc": "2020-09-28T07:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.5,
-					"Premium Unleaded 95": 120.5,
-					"Premium Unleaded 98": 126.5,
-					"e10": 106.5,
+					"Unleaded": 108.3,
+					"Premium Unleaded 95": 120.3,
+					"Premium Unleaded 98": 126.3,
+					"e10": 106.3,
 					"Premium Diesel": 117.7
 				}
 			}
