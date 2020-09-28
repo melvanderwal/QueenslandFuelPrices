@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 10:31:14 am",
+	"priceTime": "28/09/2020, 10:36:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -3829,14 +3829,14 @@ var data={
 				"Suburb": "Launceston",
 				"Name": "Puma Grange",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-09-26T07:20:45.9",
+				"LastUpdatedUtc": "2020-09-28T00:31:31.463",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.7,
-					"Premium Unleaded 98": 128.7,
+					"Unleaded": 107.5,
+					"Premium Unleaded 98": 130.5,
 					"Premium Diesel": 115.7
 				}
 			}
@@ -38022,16 +38022,16 @@ var data={
 				"Suburb": "Little Mountain",
 				"Name": "7-Eleven Little Mountain",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T19:24:00",
+				"LastUpdatedUtc": "2020-09-28T00:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 103.5,
-					"Premium Unleaded 95": 115.5,
-					"Premium Unleaded 98": 121.5,
-					"e10": 101.5,
+					"Unleaded": 101.9,
+					"Premium Unleaded 95": 113.9,
+					"Premium Unleaded 98": 119.9,
+					"e10": 99.9,
 					"Premium Diesel": 115.7
 				}
 			}
