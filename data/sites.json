@@ -1,5 +1,5 @@
 {
-	"siteTime": "27/09/2020, 8:56:45 am",
+	"siteTime": "29/09/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -7836,29 +7836,6 @@
 				"Suburb": "Wurtulla",
 				"Name": "7-Eleven Wurtulla",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61401797,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.129395,
-					-26.731692
-				]
-			},
-			"properties": {
-				"Address": "22 Wyanda Dr & Nicklin Wy",
-				"Suburb": "Bokarina",
-				"Name": "BP Kawana",
-				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
