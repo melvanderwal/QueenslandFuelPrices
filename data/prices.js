@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 7:46:14 pm",
+	"priceTime": "28/09/2020, 7:51:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -15533,7 +15533,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2020-09-28T05:50:00",
+				"LastUpdatedUtc": "2020-09-28T09:04:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33020,14 +33020,14 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "Mobil Jimboomba",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2020-09-25T08:20:15.68",
+				"LastUpdatedUtc": "2020-09-28T09:47:56.093",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.7,
-					"Premium Unleaded 98": 129.7,
+					"Unleaded": 109.7,
+					"Premium Unleaded 98": 127.7,
 					"Premium Diesel": 112.7
 				}
 			}
