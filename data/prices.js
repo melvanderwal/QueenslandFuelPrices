@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "29/09/2020, 7:27:40 am",
+	"priceTime": "29/09/2020, 7:31:15 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -4197,7 +4197,7 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.5,
+					"Unleaded": 107.9,
 					"Premium Unleaded 95": 119.9,
 					"Premium Unleaded 98": 125.9,
 					"e10": 105.9,
@@ -9847,7 +9847,7 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.5,
+					"Unleaded": 109.3,
 					"LPG": 79.9,
 					"Premium Unleaded 98": 127.3,
 					"e10": 107.3,
@@ -15225,14 +15225,14 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Shell Golden Harvest Roadhouse Toowoomba",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2020-09-22T02:54:02.917",
+				"LastUpdatedUtc": "2020-09-28T21:26:59.387",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.9,
-					"Premium Unleaded 98": 152.9,
+					"Unleaded": 127.9,
+					"Premium Unleaded 98": 148.9,
 					"Premium Diesel": 121.9
 				}
 			}
@@ -40053,7 +40053,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "United Dalby Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-09-28T21:11:58.067",
+				"LastUpdatedUtc": "2020-09-28T21:25:37.92",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
