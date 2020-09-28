@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 5:01:16 pm",
+	"priceTime": "28/09/2020, 5:06:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -35577,16 +35577,16 @@ var data={
 				"Suburb": "Kingston",
 				"Name": "7-Eleven Kingston South",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-28T02:42:00",
+				"LastUpdatedUtc": "2020-09-28T06:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.9,
-					"Premium Unleaded 95": 119.9,
-					"Premium Unleaded 98": 125.9,
-					"e10": 105.9,
+					"Unleaded": 107.7,
+					"Premium Unleaded 95": 119.7,
+					"Premium Unleaded 98": 125.7,
+					"e10": 105.7,
 					"Premium Diesel": 112.9
 				}
 			}
