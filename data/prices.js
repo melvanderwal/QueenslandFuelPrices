@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "28/09/2020, 2:31:13 pm",
+	"priceTime": "28/09/2020, 2:36:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2781,16 +2781,16 @@ var data={
 				"Suburb": "Kalgoorlie",
 				"Name": "7-Eleven Eatons Hill",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T19:24:00",
+				"LastUpdatedUtc": "2020-09-28T04:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.9,
-					"Premium Unleaded 95": 120.9,
-					"Premium Unleaded 98": 126.9,
-					"e10": 106.9,
+					"Unleaded": 108.7,
+					"Premium Unleaded 95": 120.7,
+					"Premium Unleaded 98": 126.7,
+					"e10": 106.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -3601,17 +3601,17 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "7-Eleven Newmarket",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T19:24:00",
+				"LastUpdatedUtc": "2020-09-28T04:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.7,
+					"Unleaded": 108.7,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 121.7,
-					"Premium Unleaded 98": 127.7,
-					"e10": 107.7,
+					"Premium Unleaded 95": 120.7,
+					"Premium Unleaded 98": 126.7,
+					"e10": 106.7,
 					"Premium Diesel": 115.7
 				}
 			}
@@ -5357,16 +5357,16 @@ var data={
 				"Suburb": "Springwood",
 				"Name": "7-Eleven Springwood",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T22:59:00",
+				"LastUpdatedUtc": "2020-09-28T04:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 107.9,
+					"Unleaded": 107.7,
 					"LPG": 80.8,
-					"Premium Unleaded 98": 125.9,
-					"e10": 105.9,
+					"Premium Unleaded 98": 125.7,
+					"e10": 105.7,
 					"Premium Diesel": 114.9
 				}
 			}
@@ -36124,17 +36124,17 @@ var data={
 				"Suburb": "Eagleby",
 				"Name": "7-Eleven Eagleby",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-28T01:19:00",
+				"LastUpdatedUtc": "2020-09-28T04:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 108.3,
-					"Premium Unleaded 95": 120.3,
-					"Premium Unleaded 98": 126.3,
-					"e10": 106.3,
-					"Premium Diesel": 115.7
+					"Unleaded": 107.9,
+					"Premium Unleaded 95": 119.9,
+					"Premium Unleaded 98": 125.9,
+					"e10": 105.9,
+					"Premium Diesel": 114.7
 				}
 			}
 		},
@@ -38945,16 +38945,16 @@ var data={
 				"Suburb": "Gaythorne",
 				"Name": "7-Eleven Gaythorne",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-09-27T19:24:00",
+				"LastUpdatedUtc": "2020-09-28T04:20:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.7,
-					"Premium Unleaded 95": 121.7,
-					"Premium Unleaded 98": 127.7,
-					"e10": 107.7,
+					"Unleaded": 108.7,
+					"Premium Unleaded 95": 120.7,
+					"Premium Unleaded 98": 126.7,
+					"e10": 106.7,
 					"Premium Diesel": 115.7
 				}
 			}
