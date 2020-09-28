@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "27/09/2020, 8:56:45 am",
-	"priceTime": "29/09/2020, 8:31:13 am",
+	"priceTime": "29/09/2020, 8:36:14 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -21117,14 +21117,14 @@ var data={
 				"Suburb": "Gargett",
 				"Name": "Gargett Store",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-06-27T23:59:49.047",
+				"LastUpdatedUtc": "2020-09-28T22:32:14.967",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 119.9,
-					"Diesel": 119.9
+					"Unleaded": 116.9,
+					"Diesel": 114.9
 				}
 			}
 		},
