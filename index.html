@@ -2,16 +2,17 @@
 <html>
 
 <head>
-  <title>Queensland Fuel Prices</title>  
+  <title>Queensland Fuel Prices</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
   <meta name="mobile-web-app-capable" content="yes">
   <meta charset="utf-8" />
 
-  <link rel="shortcut icon" href="res/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="res/favicon.png" type="image/x-icon" />
 
   <!-- External Javascript -->
   <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js"></script> <!-- Mapbox -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.10.2/Sortable.min.js"></script> <!-- SortableJS -->
+  <script src="https://kit.fontawesome.com/0ce0c19af1.js" crossorigin="anonymous"></script> 
 
   <!-- CSS -->
   <link href="css/mapbox.css" rel="stylesheet" />
@@ -20,7 +21,6 @@
 
   <!-- External CSS -->
   <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css" rel="stylesheet" />
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" rel="stylesheet" />
   <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet" />
 </head>
 
@@ -31,9 +31,7 @@
   <!-- Transparent fading border around edge, turned on by url parameter: fade=true -->
   <div id="borderFade"></div>
 
-  <div id="titleBar">
-    <span id="pageTitle">Queensland Fuel Prices</span>
-  </div>
+  <div id="titleBar"><span id="pageTitle">Queensland Fuel Prices</span> </div>
 
   <!-- Startup Spinner -->
   <div id="kickstart">
