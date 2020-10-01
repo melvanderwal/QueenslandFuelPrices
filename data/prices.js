@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "01/10/2020, 8:56:45 am",
-	"priceTime": "01/10/2020, 7:30:05 pm",
+	"priceTime": "01/10/2020, 7:30:43 pm",
 	"features": [
 		{
 			"type": "Feature",
