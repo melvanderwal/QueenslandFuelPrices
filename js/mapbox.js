@@ -3,8 +3,7 @@ var urlParams = new URLSearchParams(window.location.search);
 if (urlParams.has("title"))
     if (urlParams.get("title") == "false") document.getElementById("titleBar").style.display = "none";
 
-mapboxgl.accessToken =
-    "pk.eyJ1IjoibWVsdmFuZGVyd2FsIiwiYSI6ImNrZGt5NnZzbTA1MWQyc2tiMmdjOHdzamoifQ.ygz_QyPDlrstuvm-iI-W1Q";
+mapboxgl.accessToken = "pk.eyJ1IjoibWVsdmFuZGVyd2FsIiwiYSI6ImNrZGt5NnZzbTA1MWQyc2tiMmdjOHdzamoifQ.ygz_QyPDlrstuvm-iI-W1Q";
 
 // Get startup map location from cookie; use defaults if there is no cookie
 var startLocation = cookie.getMapLocation();
@@ -47,12 +46,13 @@ class fuelPriceData {
 
         // Get fuel types from the document cookie, or create them with default values if necessary
         this.fuelTypes = cookie.getFuelTypes();
-        if (this.fuelTypes == null) {
+        if (!this.fuelTypes || !this.fuelTypes.compared || !this.fuelTypes.displayed || !this.fuelTypes.hidden) {
             this.fuelTypes = {
                 'compared': ['Unleaded', 'e10/Unleaded', 'e10'],
                 'displayed': ['Premium Unleaded 98', 'Premium Unleaded 95', 'Diesel/Premium Diesel', 'Premium Diesel', 'Diesel'],
                 'hidden': ['LPG', 'Premium e5', 'Bio-Diesel 20', 'e85', 'ULSD', 'LRP', 'OPAL', 'Compressed natural gas', 'Liquefied natural gas']
             }
+            cookie.setFuelTypes();
         }
     }   // End constructor
 
