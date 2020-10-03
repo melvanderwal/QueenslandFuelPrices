@@ -46,14 +46,14 @@ class fuelPriceData {
 
         // Get fuel types from the document cookie, or create them with default values if necessary
         this.fuelTypes = cookie.getFuelTypes();
-        //if (!this.fuelTypes || !this.fuelTypes.compared || !this.fuelTypes.displayed || !this.fuelTypes.hidden) {
+        if (this.fuelTypes == null) {
             this.fuelTypes = {
                 'compared': ['Unleaded', 'e10/Unleaded', 'e10'],
                 'displayed': ['Premium Unleaded 98', 'Premium Unleaded 95', 'Diesel/Premium Diesel', 'Premium Diesel', 'Diesel'],
                 'hidden': ['LPG', 'Premium e5', 'Bio-Diesel 20', 'e85', 'ULSD', 'LRP', 'OPAL', 'Compressed natural gas', 'Liquefied natural gas']
             }
             cookie.setFuelTypes();
-        //}
+        }
     }   // End constructor
 
     // Create a subset of the data only containing the features currently in view.
