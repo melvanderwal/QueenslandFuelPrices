@@ -1,7 +1,6 @@
 // The title can be hidden when embedded in the MelStuff page
 var urlParams = new URLSearchParams(window.location.search);
-if (urlParams.has("title"))
-    if (urlParams.get("title") == "false") document.getElementById("titleBar").style.display = "none";
+document.getElementById("titleBar").style.display = urlParams.get("title") == "false" ? "none" : "block";
 
 mapboxgl.accessToken = "pk.eyJ1IjoibWVsdmFuZGVyd2FsIiwiYSI6ImNrZGt5NnZzbTA1MWQyc2tiMmdjOHdzamoifQ.ygz_QyPDlrstuvm-iI-W1Q";
 
