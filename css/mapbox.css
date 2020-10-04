@@ -7,14 +7,14 @@ body {
 
 #map {
   position: absolute;
-  margin-top: 50px;
+  margin-top: 45px;
   top: 0;
   bottom: 0;
   width: 100%;
 }
 
 #titleBar {
-  display: block;
+  display: none;
   position: absolute;
   pointer-events: none;
   top: 0;
