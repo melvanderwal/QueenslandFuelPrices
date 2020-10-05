@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "05/10/2020, 8:56:45 am",
-	"priceTime": "05/10/2020, 3:29:13 pm",
+	"priceTime": "05/10/2020, 3:44:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -502,7 +502,7 @@ var data={
 				"Suburb": "Helensvale",
 				"Name": "BP Shop Helensvale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -701,7 +701,7 @@ var data={
 				"Suburb": "Benowa",
 				"Name": "BP Benowa",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1076,7 +1076,7 @@ var data={
 				"Suburb": "Oxenford",
 				"Name": "BP Connect Oxenford",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1105,7 +1105,7 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "BP Connect Labrador",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1134,7 +1134,7 @@ var data={
 				"Suburb": "Wodonga",
 				"Name": "BP Newstead",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1162,7 +1162,7 @@ var data={
 				"Suburb": "Blacksoil",
 				"Name": "BP Connect Blacksoil",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1249,7 +1249,7 @@ var data={
 				"Suburb": "Orbost",
 				"Name": "BP East Brisbane",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1673,7 +1673,7 @@ var data={
 				"Suburb": "Morwell",
 				"Name": "BP Tingalpa",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1701,7 +1701,7 @@ var data={
 				"Suburb": "Castlemaine",
 				"Name": "BP Express Carindale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1817,7 +1817,7 @@ var data={
 				"Suburb": "Daylesford",
 				"Name": "BP Wellington Point",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1872,7 +1872,7 @@ var data={
 				"Suburb": "Korumburra",
 				"Name": "BP Connect Plaza",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1957,7 +1957,7 @@ var data={
 				"Suburb": "Kyabram",
 				"Name": "BP Moggill Road",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2069,7 +2069,7 @@ var data={
 				"Suburb": "Lakes Entrance",
 				"Name": "United Sherwood",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:11.72",
+				"LastUpdatedUtc": "2020-10-05T05:34:28.603",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2441,7 +2441,7 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "BP Kallangur",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3064,7 +3064,7 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "BP Aspley",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3175,7 +3175,7 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "BP Connect Virginia",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3402,7 +3402,7 @@ var data={
 				"Suburb": "Waroona",
 				"Name": "BP Northgate",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3487,7 +3487,7 @@ var data={
 				"Suburb": "Bridgetown",
 				"Name": "BP Ferny Grove",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3570,7 +3570,7 @@ var data={
 				"Suburb": "Ulverstone",
 				"Name": "BP Express Ashgrove",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3658,7 +3658,7 @@ var data={
 				"Suburb": "Busselton",
 				"Name": "BP Edinburgh Castle",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3854,7 +3854,7 @@ var data={
 				"Suburb": "Burnie",
 				"Name": "BP Windsor",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3939,7 +3939,7 @@ var data={
 				"Suburb": "Huonville",
 				"Name": "BP Connect Hamilton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4161,7 +4161,7 @@ var data={
 				"Suburb": "Alice Springs",
 				"Name": "BP Manly",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4218,7 +4218,7 @@ var data={
 				"Suburb": "The Gap",
 				"Name": "BP The Gap",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4474,16 +4474,16 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "BP Capalaba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"LPG": 79.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 122.9,
+					"Premium Unleaded 98": 130.9,
+					"e10": 107.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -4503,7 +4503,7 @@ var data={
 				"Suburb": "Thornlands",
 				"Name": "BP Thornlands",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6212,7 +6212,7 @@ var data={
 				"Suburb": "Herston",
 				"Name": "BP Connect Bowen Bridge",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6269,7 +6269,7 @@ var data={
 				"Suburb": "Springwood",
 				"Name": "BP Connect Springwood",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6326,7 +6326,7 @@ var data={
 				"Suburb": "Rochedale South",
 				"Name": "BP Centrepoint Rochedale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6438,7 +6438,7 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "BP Nerang",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -7938,7 +7938,7 @@ var data={
 				"Suburb": "Blacksoil",
 				"Name": "BP Warrego Highway",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -7997,7 +7997,7 @@ var data={
 				"Suburb": "Waterford West",
 				"Name": "BP Waterford",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8366,7 +8366,7 @@ var data={
 				"Suburb": "Albany Creek",
 				"Name": "BP Connect Albany Forest",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8857,7 +8857,7 @@ var data={
 				"Suburb": "Ashmore",
 				"Name": "BP Ashmore",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8972,7 +8972,7 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "BP Highland Park",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9000,16 +9000,16 @@ var data={
 				"Suburb": "Mount Warren Park",
 				"Name": "BP Connect Mt Warren Park",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"LPG": 79.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 120.9,
+					"Premium Unleaded 98": 128.9,
+					"e10": 105.9,
 					"Premium Diesel": 116.9
 				}
 			}
@@ -9029,7 +9029,7 @@ var data={
 				"Suburb": "Wacol",
 				"Name": "BP Wacol Truck Stop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9203,7 +9203,7 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "United Loganlea",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:26.657",
+				"LastUpdatedUtc": "2020-10-05T05:32:42.09",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9436,12 +9436,17 @@ var data={
 				"Suburb": "Glass House Mountains",
 				"Name": "Coles Express Glasshouse Mountains Outbound",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:47.373",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 147.9,
+					"Diesel": 117.9,
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 170.9
+				}
 			}
 		},
 		{
@@ -9459,12 +9464,18 @@ var data={
 				"Suburb": "Glass House Mountains",
 				"Name": "Coles Express Glasshouse Mountain Inbound",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:48.337",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 147.9,
+					"Diesel": 117.9,
+					"LPG": 79.9,
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 170.9
+				}
 			}
 		},
 		{
@@ -9622,12 +9633,19 @@ var data={
 				"Suburb": "Caloundra",
 				"Name": "Coles Express Caloundra",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:00.937",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 103.9,
+					"Diesel": 121.9,
+					"LPG": 79.9,
+					"Premium Unleaded 95": 120.9,
+					"Premium Unleaded 98": 126.9,
+					"e10": 102.9
+				}
 			}
 		},
 		{
@@ -9702,12 +9720,18 @@ var data={
 				"Suburb": "Buddina",
 				"Name": "Coles Express Kawana",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:56.56",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 105.9,
+					"Diesel": 123.9,
+					"Premium Unleaded 98": 128.9,
+					"e10": 104.9,
+					"Premium Diesel": 132.9
+				}
 			}
 		},
 		{
@@ -9725,7 +9749,7 @@ var data={
 				"Suburb": "Maroochydore",
 				"Name": "BP Connect Maroochy Plaza",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9813,12 +9837,17 @@ var data={
 				"Suburb": "Mooloolaba",
 				"Name": "Coles Express Mooloolaba",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:16.047",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 107.9,
+					"Diesel": 125.9,
+					"Premium Unleaded 95": 124.9,
+					"Premium Unleaded 98": 130.9
+				}
 			}
 		},
 		{
@@ -9836,7 +9865,7 @@ var data={
 				"Suburb": "Mooloolaba",
 				"Name": "BP Mooloolaba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9970,7 +9999,7 @@ var data={
 				"Suburb": "Bli Bli",
 				"Name": "United Bli Bli",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:58.257",
+				"LastUpdatedUtc": "2020-10-05T05:33:23.8",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10028,7 +10057,7 @@ var data={
 				"Suburb": "Coolum Beach",
 				"Name": "United Coolum Beach",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:21.07",
+				"LastUpdatedUtc": "2020-10-05T05:33:57.62",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10085,12 +10114,17 @@ var data={
 				"Suburb": "Noosa Heads",
 				"Name": "Coles Express Noosa",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T23:38:02.633",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 109.9,
+					"Diesel": 116.9,
+					"Premium Unleaded 98": 132.9,
+					"e10": 108.9
+				}
 			}
 		},
 		{
@@ -10136,12 +10170,18 @@ var data={
 				"Suburb": "Tewantin",
 				"Name": "Coles Express Tewantin",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T22:55:03.2",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 109.9,
+					"Diesel": 115.9,
+					"Premium Unleaded 95": 126.9,
+					"Premium Unleaded 98": 132.9,
+					"e10": 108.9
+				}
 			}
 		},
 		{
@@ -10188,7 +10228,7 @@ var data={
 				"Suburb": "Doonan",
 				"Name": "United Doonan",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:22.703",
+				"LastUpdatedUtc": "2020-10-05T05:33:59",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10274,12 +10314,18 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Coles Express Nambour Panorama Dr",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:15.34",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 114.9,
+					"LPG": 89.9,
+					"Premium Unleaded 95": 131.9,
+					"Premium Unleaded 98": 137.9,
+					"e10": 113.9
+				}
 			}
 		},
 		{
@@ -10297,7 +10343,7 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "BP Connect Palms Corner",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10514,7 +10560,7 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "United Caboolture",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:00.473",
+				"LastUpdatedUtc": "2020-10-05T05:34:18.067",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10657,7 +10703,7 @@ var data={
 				"Suburb": "Morayfield",
 				"Name": "BP Morayfield",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10743,7 +10789,7 @@ var data={
 				"Suburb": "Forest Glen",
 				"Name": "BP Forest Glen",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11254,7 +11300,7 @@ var data={
 				"Suburb": "Eight Mile Plains",
 				"Name": "BP Express Eight Mile Plains",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11283,7 +11329,7 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "United Bald Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:43.18",
+				"LastUpdatedUtc": "2020-10-05T05:32:02.957",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12026,15 +12072,15 @@ var data={
 				"Suburb": "Goodna",
 				"Name": "BP Express Goodna",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Unleaded": 106.9,
+					"Premium Unleaded 98": 127.9,
+					"e10": 104.9,
 					"Premium Diesel": 117.9
 				}
 			}
@@ -12054,7 +12100,7 @@ var data={
 				"Suburb": "Port Augusta",
 				"Name": "BP Connect Loganholme",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12387,7 +12433,7 @@ var data={
 				"Suburb": "Booval",
 				"Name": "United Booval",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:13.657",
+				"LastUpdatedUtc": "2020-10-05T05:33:49.863",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12696,7 +12742,7 @@ var data={
 				"Suburb": "Gordonvale",
 				"Name": "United Gordonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:18:33.817",
+				"LastUpdatedUtc": "2020-10-05T05:34:10.757",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13916,7 +13962,7 @@ var data={
 				"Suburb": "Gayndah",
 				"Name": "United Gayndah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:04.763",
+				"LastUpdatedUtc": "2020-10-05T05:33:30.037",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14424,7 +14470,7 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "United Virginia",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:19.023",
+				"LastUpdatedUtc": "2020-10-05T05:34:30.407",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14687,7 +14733,7 @@ var data={
 				"Suburb": "Merrimac",
 				"Name": "BP Connect Merrimac",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14916,7 +14962,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "United Bundaberg",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:29.543",
+				"LastUpdatedUtc": "2020-10-05T05:32:45.31",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15082,7 +15128,7 @@ var data={
 				"Suburb": "Newtown",
 				"Name": "BP Newtown",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15249,7 +15295,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "BP Northend",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15361,12 +15407,17 @@ var data={
 				"Suburb": "Mackay North",
 				"Name": "Coles Express Mackay North",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:22.147",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 116.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 95": 133.9,
+					"Premium Unleaded 98": 139.9
+				}
 			}
 		},
 		{
@@ -15384,7 +15435,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "United Warwick (Oasis)",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:37.12",
+				"LastUpdatedUtc": "2020-10-05T05:32:58.937",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15496,7 +15547,7 @@ var data={
 				"Suburb": "Andergrove",
 				"Name": "BP Oak Street",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15552,7 +15603,7 @@ var data={
 				"Suburb": "Ilbilbie",
 				"Name": "United Ilbilbie",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:18.933",
+				"LastUpdatedUtc": "2020-10-05T05:32:32.97",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15579,7 +15630,7 @@ var data={
 				"Suburb": "Archerfield",
 				"Name": "BP Archerfield",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15897,7 +15948,7 @@ var data={
 				"Suburb": "Ceduna",
 				"Name": "BP Narangba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15925,7 +15976,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "BP Hillcrest",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16065,7 +16116,7 @@ var data={
 				"Suburb": "Bribie Island",
 				"Name": "BP Connect Bribie Island",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16208,7 +16259,7 @@ var data={
 				"Suburb": "Parkwood",
 				"Name": "United Parkwood",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:04.583",
+				"LastUpdatedUtc": "2020-10-05T05:32:19.223",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16434,16 +16485,16 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "BP Capalaba South",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 109.9,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 98": 130.9,
+					"e10": 107.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -16548,7 +16599,7 @@ var data={
 				"Suburb": "Stapylton",
 				"Name": "BP Connect Stapylton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16717,7 +16768,7 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "BP Connect Coomera North",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16747,7 +16798,7 @@ var data={
 				"Suburb": "Townsville",
 				"Name": "BP Townsville Truckstop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17160,7 +17211,7 @@ var data={
 				"Suburb": "Maryborough",
 				"Name": "United Tinana",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:53.46",
+				"LastUpdatedUtc": "2020-10-05T05:32:09.283",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17495,7 +17546,7 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "United Ingham",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:59.803",
+				"LastUpdatedUtc": "2020-10-05T05:33:25.453",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17525,12 +17576,15 @@ var data={
 				"Suburb": "Mount Isa",
 				"Name": "Coles Express Mount Isa Truckport",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:25.993",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 142.9,
+					"Diesel": 125.9
+				}
 			}
 		},
 		{
@@ -17575,7 +17629,7 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "BP Connect Caboolture South",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17605,7 +17659,7 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "BP Connect Caboolture North",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17915,7 +17969,7 @@ var data={
 				"Suburb": "Kilcoy",
 				"Name": "United Kilcoy",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:16.657",
+				"LastUpdatedUtc": "2020-10-05T05:33:53.137",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18169,7 +18223,7 @@ var data={
 				"Suburb": "Curra",
 				"Name": "United Gunalda",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:15.683",
+				"LastUpdatedUtc": "2020-10-05T05:32:29.483",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18623,7 +18677,7 @@ var data={
 				"Suburb": "Forestdale",
 				"Name": "United Forestdale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:08.57",
+				"LastUpdatedUtc": "2020-10-05T05:34:26.723",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19157,7 +19211,7 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "United Park Ridge",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:48.437",
+				"LastUpdatedUtc": "2020-10-05T05:32:05.583",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19296,7 +19350,7 @@ var data={
 				"Suburb": "Salisbury",
 				"Name": "BP Connect Riawena Road",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19352,7 +19406,7 @@ var data={
 				"Suburb": "South Rockhampton",
 				"Name": "United South Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:37.757",
+				"LastUpdatedUtc": "2020-10-05T05:31:58.043",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19677,7 +19731,7 @@ var data={
 				"Suburb": "Hervey Bay",
 				"Name": "United Hervey Bay",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:17.31",
+				"LastUpdatedUtc": "2020-10-05T05:32:31.183",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19843,7 +19897,7 @@ var data={
 				"Suburb": "Colinton",
 				"Name": "United Colinton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:30.997",
+				"LastUpdatedUtc": "2020-10-05T05:32:47.723",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -20030,7 +20084,7 @@ var data={
 				"Suburb": "Millmerran",
 				"Name": "Captain'S Mountain Roadhouse",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -20599,7 +20653,7 @@ var data={
 				"Suburb": "Marmor",
 				"Name": "BP Marmor",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -20682,7 +20736,7 @@ var data={
 				"Suburb": "Charters Towers",
 				"Name": "BP Charters Towers",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21081,7 +21135,7 @@ var data={
 				"Suburb": "Innisfail",
 				"Name": "BP Innisfail",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21458,7 +21512,7 @@ var data={
 				"Suburb": "Tara",
 				"Name": "United Tara Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:56.673",
+				"LastUpdatedUtc": "2020-10-05T05:33:22.44",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21618,7 +21672,7 @@ var data={
 				"Suburb": "Nanango",
 				"Name": "United Nanango",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:50.777",
+				"LastUpdatedUtc": "2020-10-05T05:32:07.7",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21757,7 +21811,7 @@ var data={
 				"Suburb": "Bouldercombe",
 				"Name": "United Bouldercombe",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:28.08",
+				"LastUpdatedUtc": "2020-10-05T05:32:43.703",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22106,7 +22160,7 @@ var data={
 				"Suburb": "Southbrook",
 				"Name": "United Southbrook",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:32.59",
+				"LastUpdatedUtc": "2020-10-05T05:32:50.973",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22655,7 +22709,7 @@ var data={
 				"Suburb": "Charleville",
 				"Name": "United Charleville",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:07.743",
+				"LastUpdatedUtc": "2020-10-05T05:33:43.167",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22737,7 +22791,7 @@ var data={
 				"Suburb": "Tiaro ",
 				"Name": "United Tiaro",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:35.28",
+				"LastUpdatedUtc": "2020-10-05T05:31:56.103",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23146,7 +23200,7 @@ var data={
 				"Suburb": "Mudgeeraba",
 				"Name": "United Mudgeeraba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:49.723",
+				"LastUpdatedUtc": "2020-10-05T05:33:40.007",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23864,7 +23918,7 @@ var data={
 				"Suburb": "Koah",
 				"Name": "United Koah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:18:28.603",
+				"LastUpdatedUtc": "2020-10-05T05:34:09.323",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24090,7 +24144,7 @@ var data={
 				"Suburb": "Cannonvale",
 				"Name": "United Cannonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:23.653",
+				"LastUpdatedUtc": "2020-10-05T05:32:38.56",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24118,7 +24172,7 @@ var data={
 				"Suburb": "Highfields",
 				"Name": "BP Highfields",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24279,7 +24333,7 @@ var data={
 				"Suburb": "Yeppoon",
 				"Name": "BP Travel Centre Yeppoon",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24499,7 +24553,7 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "BP Connect North Lakes",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24556,12 +24610,18 @@ var data={
 				"Suburb": "Pialba",
 				"Name": "Coles Express Hervey Bay",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:26.48",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 115.9,
+					"Diesel": 117.9,
+					"Premium Unleaded 95": 132.9,
+					"Premium Unleaded 98": 138.9,
+					"e10": 114.9
+				}
 			}
 		},
 		{
@@ -24663,7 +24723,7 @@ var data={
 				"Suburb": "Idalia",
 				"Name": "BP Fairfield Waters",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24746,7 +24806,7 @@ var data={
 				"Suburb": "Sheridan",
 				"Name": "United Cairns North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:10.567",
+				"LastUpdatedUtc": "2020-10-05T05:33:46.203",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24775,7 +24835,7 @@ var data={
 				"Suburb": "Woree",
 				"Name": "United Woree",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:47.947",
+				"LastUpdatedUtc": "2020-10-05T05:33:38.597",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25507,7 +25567,7 @@ var data={
 				"Suburb": "Arundel",
 				"Name": "United Arundel",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:09.14",
+				"LastUpdatedUtc": "2020-10-05T05:33:44.647",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25647,7 +25707,7 @@ var data={
 				"Suburb": "CAMBOOYA",
 				"Name": "United Etonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:18.25",
+				"LastUpdatedUtc": "2020-10-05T05:33:54.703",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25704,7 +25764,7 @@ var data={
 				"Suburb": "Gordonvale",
 				"Name": "United Gordonvale Cairns Road",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:46.083",
+				"LastUpdatedUtc": "2020-10-05T05:33:37.043",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26238,12 +26298,16 @@ var data={
 				"Suburb": "Edmonton",
 				"Name": "Coles Express Edmonton",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:32.203",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 118.9,
+					"Diesel": 119.9,
+					"e10": 117.9
+				}
 			}
 		},
 		{
@@ -26261,12 +26325,18 @@ var data={
 				"Suburb": "Gympie",
 				"Name": "Coles Express Gympie",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:32.993",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 119.9,
+					"Diesel": 115.9,
+					"Premium Unleaded 95": 136.9,
+					"Premium Unleaded 98": 142.9,
+					"e10": 118.9
+				}
 			}
 		},
 		{
@@ -26592,7 +26662,7 @@ var data={
 				"Suburb": "South Gladstone",
 				"Name": "United South Gladstone",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:25.193",
+				"LastUpdatedUtc": "2020-10-05T05:32:40.327",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -27062,12 +27132,17 @@ var data={
 				"Suburb": "Mareeba",
 				"Name": "Coles Express Mareeba",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:02.583",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 124.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 95": 141.9,
+					"Premium Unleaded 98": 147.9
+				}
 			}
 		},
 		{
@@ -27085,12 +27160,17 @@ var data={
 				"Suburb": "Currajong",
 				"Name": "Coles Express Currajong",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:05.237",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 112.9,
+					"Diesel": 115.9,
+					"Premium Unleaded 95": 129.9,
+					"Premium Unleaded 98": 135.9
+				}
 			}
 		},
 		{
@@ -27108,12 +27188,16 @@ var data={
 				"Suburb": "Cairns",
 				"Name": "Coles Express Reservoir (Qld)",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:04.287",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 119.9,
+					"Diesel": 122.9,
+					"Premium Unleaded 98": 142.9
+				}
 			}
 		},
 		{
@@ -27131,12 +27215,18 @@ var data={
 				"Suburb": "Cairns North",
 				"Name": "Coles Express Cairns Sheridan St",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:03.667",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 116.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 95": 133.9,
+					"Premium Unleaded 98": 139.9,
+					"e10": 115.9
+				}
 			}
 		},
 		{
@@ -27154,12 +27244,19 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "Coles Express Mackay Broadsound Rd",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:10.1",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 116.9,
+					"Diesel": 119.9,
+					"LPG": 89.9,
+					"Premium Unleaded 95": 133.9,
+					"Premium Unleaded 98": 139.9,
+					"e10": 115.9
+				}
 			}
 		},
 		{
@@ -27177,12 +27274,18 @@ var data={
 				"Suburb": "Wulguru",
 				"Name": "Coles Express Wulguru",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:09.537",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 113.9,
+					"Diesel": 117.9,
+					"Premium Unleaded 95": 130.9,
+					"Premium Unleaded 98": 136.9,
+					"e10": 112.9
+				}
 			}
 		},
 		{
@@ -27200,12 +27303,18 @@ var data={
 				"Suburb": "Garbutt",
 				"Name": "Coles Express Garbutt",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:06.823",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 112.9,
+					"Diesel": 115.9,
+					"Premium Unleaded 95": 129.9,
+					"Premium Unleaded 98": 135.9,
+					"e10": 111.9
+				}
 			}
 		},
 		{
@@ -27223,12 +27332,17 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "Coles Express Ingham",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:08.173",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 121.9,
+					"Diesel": 124.9,
+					"Premium Unleaded 98": 144.9,
+					"e10": 120.9
+				}
 			}
 		},
 		{
@@ -27246,12 +27360,18 @@ var data={
 				"Suburb": "Smithfield",
 				"Name": "Coles Express Smithfield",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:03.1",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 121.9,
+					"Diesel": 123.9,
+					"Premium Unleaded 95": 138.9,
+					"Premium Unleaded 98": 144.9,
+					"e10": 120.9
+				}
 			}
 		},
 		{
@@ -27296,12 +27416,15 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Coles Express Rockhampton North",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:12.917",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 113.9,
+					"Premium Unleaded 98": 136.9
+				}
 			}
 		},
 		{
@@ -27319,12 +27442,17 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "Coles Express Mackay Nebo Rd",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:11.587",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 116.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 95": 133.9,
+					"Premium Unleaded 98": 139.9
+				}
 			}
 		},
 		{
@@ -27342,12 +27470,17 @@ var data={
 				"Suburb": "Bowen",
 				"Name": "Coles Express Delta Bruce Hwy",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:12.06",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 115.9,
+					"Diesel": 117.9,
+					"Premium Unleaded 95": 132.9,
+					"Premium Unleaded 98": 138.9
+				}
 			}
 		},
 		{
@@ -27365,12 +27498,17 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "Coles Express Rockhampton Fitzroy St",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:13.48",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 114.9,
+					"Diesel": 117.9,
+					"Premium Unleaded 95": 131.9,
+					"Premium Unleaded 98": 137.9
+				}
 			}
 		},
 		{
@@ -27473,12 +27611,16 @@ var data={
 				"Suburb": "Childers",
 				"Name": "Coles Express Childers",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:13.88",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 118.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 98": 141.9
+				}
 			}
 		},
 		{
@@ -27496,12 +27638,16 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Coles Express Kingaroy",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:16.443",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 114.9,
+					"Diesel": 115.9,
+					"Premium Unleaded 98": 137.9
+				}
 			}
 		},
 		{
@@ -27519,12 +27665,18 @@ var data={
 				"Suburb": "Goondiwindi",
 				"Name": "Coles Express Goondiwindi",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:24.813",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 111.9,
+					"Diesel": 115.9,
+					"Premium Unleaded 95": 128.9,
+					"Premium Unleaded 98": 134.9,
+					"e10": 110.9
+				}
 			}
 		},
 		{
@@ -27571,12 +27723,17 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "Coles Express Dalby",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:28.823",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 119.9,
+					"Diesel": 121.9,
+					"Premium Unleaded 98": 142.9,
+					"e10": 118.9
+				}
 			}
 		},
 		{
@@ -27594,12 +27751,18 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Coles Express Toowoomba Ruthven St",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-05T00:23:03.21",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 125.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 98": 148.9,
+					"e10": 124.9,
+					"Premium Diesel": 128.9
+				}
 			}
 		},
 		{
@@ -27617,12 +27780,18 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Coles Express Toowoomba Margaret St",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:27.607",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 127.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 95": 144.9,
+					"Premium Unleaded 98": 150.9,
+					"e10": 126.9
+				}
 			}
 		},
 		{
@@ -27667,12 +27836,17 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Coles Express Toowoomba Bridge St",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-05T00:26:09.777",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 125.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 98": 148.9,
+					"e10": 124.9
+				}
 			}
 		},
 		{
@@ -27690,12 +27864,17 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "Coles Express Warwick (Qld)",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:24.447",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 119.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 95": 136.9,
+					"Premium Unleaded 98": 142.9
+				}
 			}
 		},
 		{
@@ -27740,12 +27919,18 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "Coles Express Emerald (Qld)",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:45.197",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 133.9,
+					"Diesel": 130.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 131.9
+				}
 			}
 		},
 		{
@@ -27763,12 +27948,16 @@ var data={
 				"Suburb": "Blackwater",
 				"Name": "Coles Express Blackwater",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:53.043",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 119.9,
+					"Diesel": 122.9,
+					"Premium Unleaded 98": 142.9
+				}
 			}
 		},
 		{
@@ -27786,12 +27975,18 @@ var data={
 				"Suburb": "Mount Isa",
 				"Name": "Coles Express Mount Isa Grace Street",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:24.833",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 142.9,
+					"Diesel": 125.9,
+					"LPG": 89.9,
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 165.9
+				}
 			}
 		},
 		{
@@ -27809,12 +28004,17 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "Coles Express Rockhampton Gladstone Rd",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:22:54.627",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 114.9,
+					"Diesel": 115.9,
+					"Premium Unleaded 95": 131.9,
+					"Premium Unleaded 98": 137.9
+				}
 			}
 		},
 		{
@@ -27859,12 +28059,18 @@ var data={
 				"Suburb": "Kirwan",
 				"Name": "Coles Express Kirwan",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-05T00:40:04.493",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 111.9,
+					"Diesel": 123.9,
+					"Premium Unleaded 95": 128.9,
+					"Premium Unleaded 98": 134.9,
+					"e10": 110.9
+				}
 			}
 		},
 		{
@@ -27968,12 +28174,17 @@ var data={
 				"Suburb": "Highfields",
 				"Name": "Coles Express Highfields",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-05T00:42:02.887",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 125.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 98": 148.9,
+					"e10": 124.9
+				}
 			}
 		},
 		{
@@ -28018,12 +28229,18 @@ var data={
 				"Suburb": "Aitkenvale",
 				"Name": "Coles Express Aitkenvale",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:17.333",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 112.9,
+					"Diesel": 117.9,
+					"Premium Unleaded 95": 129.9,
+					"Premium Unleaded 98": 135.9,
+					"e10": 111.9
+				}
 			}
 		},
 		{
@@ -28428,12 +28645,17 @@ var data={
 				"Suburb": "Craiglie",
 				"Name": "Coles Express Port Douglas",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:23.2",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 119.9,
+					"Diesel": 123.9,
+					"Premium Unleaded 95": 136.9,
+					"Premium Unleaded 98": 142.9
+				}
 			}
 		},
 		{
@@ -28562,7 +28784,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "United Dalby",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:39.84",
+				"LastUpdatedUtc": "2020-10-05T05:33:32.883",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28592,7 +28814,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "UnitedToowoomba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:34.037",
+				"LastUpdatedUtc": "2020-10-05T05:32:54.847",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28651,7 +28873,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "United Warwick Fast Food.",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:35.553",
+				"LastUpdatedUtc": "2020-10-05T05:32:57.317",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -29417,7 +29639,7 @@ var data={
 				"Suburb": "Chinchilla",
 				"Name": "BP Chinchilla",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -29501,7 +29723,7 @@ var data={
 				"Suburb": "South Rockhampton",
 				"Name": "BP On Albert",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30158,7 +30380,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "BP Kookas Central",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30185,7 +30407,7 @@ var data={
 				"Suburb": "Ayr",
 				"Name": "United Ayr",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:24.257",
+				"LastUpdatedUtc": "2020-10-05T05:34:00.383",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30267,7 +30489,7 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "BP Ingham",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30436,7 +30658,7 @@ var data={
 				"Suburb": "Mareeba",
 				"Name": "BP Mareeba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30599,7 +30821,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "BP Kearney Springs",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30707,7 +30929,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "BP North Rockhampton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30759,7 +30981,7 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "BP Emerald",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30925,7 +31147,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "BP Albion",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30979,7 +31201,7 @@ var data={
 				"Suburb": "St George",
 				"Name": "BP St George",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31035,7 +31257,7 @@ var data={
 				"Suburb": "Gatton",
 				"Name": "BP College View",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31089,7 +31311,7 @@ var data={
 				"Suburb": "Manunda",
 				"Name": "BP Manunda",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31198,7 +31420,7 @@ var data={
 				"Suburb": "Giru",
 				"Name": "United Giru",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:36.78",
+				"LastUpdatedUtc": "2020-10-05T05:34:03.46",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31284,7 +31506,7 @@ var data={
 				"Suburb": "Westcourt",
 				"Name": "BP Earlville",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31372,7 +31594,7 @@ var data={
 				"Suburb": "Aitkenvale",
 				"Name": "BP Express Aitkenvale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31458,7 +31680,7 @@ var data={
 				"Suburb": "Cranbrook",
 				"Name": "United Cranbrook",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:26.393",
+				"LastUpdatedUtc": "2020-10-05T05:34:02.017",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31515,7 +31737,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "BP Dalby",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31543,7 +31765,7 @@ var data={
 				"Suburb": "Goondiwindi",
 				"Name": "BP Bridge Garage",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31729,7 +31951,7 @@ var data={
 				"Suburb": "West End",
 				"Name": "United West End",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:18:21.783",
+				"LastUpdatedUtc": "2020-10-05T05:34:06.327",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31840,7 +32062,7 @@ var data={
 				"Suburb": "Kirwan",
 				"Name": "BP Kirwan",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32006,7 +32228,7 @@ var data={
 				"Suburb": "Garbutt",
 				"Name": "BP Dalrymple",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32087,7 +32309,7 @@ var data={
 				"Suburb": "Deeragun",
 				"Name": "BP Woodlands",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32302,7 +32524,7 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "BP Mackay",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32469,7 +32691,7 @@ var data={
 				"Suburb": "Coolum Beach",
 				"Name": "BP Coolum Beach",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32850,7 +33072,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "BP Gladstone (Dawson Hwy)",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32933,7 +33155,7 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah Mills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:56.313",
+				"LastUpdatedUtc": "2020-10-05T05:32:12.643",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33290,7 +33512,7 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:54.863",
+				"LastUpdatedUtc": "2020-10-05T05:32:10.933",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33403,7 +33625,7 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "United Mackay",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:20.54",
+				"LastUpdatedUtc": "2020-10-05T05:32:35.52",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33514,7 +33736,7 @@ var data={
 				"Suburb": "Hermit Park",
 				"Name": "United Hermit Park",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:51.477",
+				"LastUpdatedUtc": "2020-10-05T05:33:41.687",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33573,7 +33795,7 @@ var data={
 				"Suburb": "Smithfield",
 				"Name": "BP Smithfield Cairns",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33654,7 +33876,7 @@ var data={
 				"Suburb": "Common Loop",
 				"Name": "United Innisfail Roadhouse",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:18:36.76",
+				"LastUpdatedUtc": "2020-10-05T05:34:12.247",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33711,7 +33933,7 @@ var data={
 				"Suburb": "Springfield",
 				"Name": "United Springfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:10.707",
+				"LastUpdatedUtc": "2020-10-05T05:32:24.38",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33742,7 +33964,7 @@ var data={
 				"Suburb": "Slacks Creek",
 				"Name": "BP Slacks Creek",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33855,12 +34077,18 @@ var data={
 				"Suburb": "Ayr",
 				"Name": "Coles Express Ayr",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:41.737",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 110.9,
+					"Diesel": 115.9,
+					"Premium Unleaded 95": 127.9,
+					"Premium Unleaded 98": 133.9,
+					"e10": 109.9
+				}
 			}
 		},
 		{
@@ -33905,7 +34133,7 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "BP Jimboomba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34017,7 +34245,7 @@ var data={
 				"Suburb": "Creastmead",
 				"Name": "United Crestmead",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:15.133",
+				"LastUpdatedUtc": "2020-10-05T05:33:51.637",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34129,12 +34357,17 @@ var data={
 				"Suburb": "Cannonvale",
 				"Name": "Coles Express Cannonvale",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:33.393",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 109.9,
+					"Diesel": 115.9,
+					"Premium Unleaded 98": 132.9,
+					"e10": 108.9
+				}
 			}
 		},
 		{
@@ -34181,7 +34414,7 @@ var data={
 				"Suburb": "Lytton",
 				"Name": "BP Port of Brisbane",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34210,12 +34443,17 @@ var data={
 				"Suburb": "Kirwan",
 				"Name": "Coles Express Thuringowa",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:36.517",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 111.9,
+					"Diesel": 123.9,
+					"Premium Unleaded 98": 134.9,
+					"e10": 110.9
+				}
 			}
 		},
 		{
@@ -34318,12 +34556,17 @@ var data={
 				"Suburb": "Redlynch",
 				"Name": "Coles Express Redlynch",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:42.57",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 121.9,
+					"Diesel": 122.9,
+					"Premium Unleaded 98": 144.9,
+					"e10": 120.9
+				}
 			}
 		},
 		{
@@ -34341,7 +34584,7 @@ var data={
 				"Suburb": "Windaroo",
 				"Name": "United Windaroo",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:14.177",
+				"LastUpdatedUtc": "2020-10-05T05:32:27.783",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34424,7 +34667,7 @@ var data={
 				"Suburb": "Beachmere",
 				"Name": "Beachmere Service Station",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:18:46.673",
+				"LastUpdatedUtc": "2020-10-05T05:34:15.147",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34505,7 +34748,7 @@ var data={
 				"Suburb": "Jandowae",
 				"Name": "United Jandowae Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:43.757",
+				"LastUpdatedUtc": "2020-10-05T05:33:05.073",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35194,12 +35437,18 @@ var data={
 				"Suburb": "Deeragun",
 				"Name": "Coles Express Deeragun",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:34.947",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 121.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 95": 138.9,
+					"Premium Unleaded 98": 144.9,
+					"e10": 120.9
+				}
 			}
 		},
 		{
@@ -35272,7 +35521,7 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "United Labrador",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:18:39.547",
+				"LastUpdatedUtc": "2020-10-05T05:34:13.687",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35707,12 +35956,17 @@ var data={
 				"Suburb": "Maroochydore",
 				"Name": "Coles Express Maroochydore",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:24:01.183",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 107.9,
+					"Diesel": 123.9,
+					"Premium Unleaded 98": 130.9,
+					"Premium Diesel": 132.9
+				}
 			}
 		},
 		{
@@ -35787,7 +36041,7 @@ var data={
 				"Suburb": "Larapinta",
 				"Name": "BP Logan Motorway East",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36041,7 +36295,7 @@ var data={
 				"Suburb": "Charlton",
 				"Name": "BP Toowoomba Truckstop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36129,12 +36383,17 @@ var data={
 				"Suburb": "Gatton",
 				"Name": "Coles Express Gatton",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:52.127",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 112.9,
+					"Diesel": 119.9,
+					"Premium Unleaded 98": 135.9,
+					"e10": 111.9
+				}
 			}
 		},
 		{
@@ -36850,7 +37109,7 @@ var data={
 				"Suburb": "Mt Louisa",
 				"Name": "United Mount Louisa",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:38.287",
+				"LastUpdatedUtc": "2020-10-05T05:34:04.897",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37159,12 +37418,17 @@ var data={
 				"Suburb": "Tannum Sands",
 				"Name": "Coles Express Tannum Sands",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:56.463",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 109.9,
+					"Diesel": 117.9,
+					"Premium Unleaded 98": 132.9,
+					"e10": 108.9
+				}
 			}
 		},
 		{
@@ -37182,7 +37446,7 @@ var data={
 				"Suburb": "Brendale",
 				"Name": "United Brendale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:18:57.64",
+				"LastUpdatedUtc": "2020-10-05T05:34:16.63",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37444,12 +37708,18 @@ var data={
 				"Suburb": "Parramatta Park",
 				"Name": "Coles Express Cairns Mulgrave Rd",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2020-10-04T18:23:57.657",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 118.9,
+					"Diesel": 122.9,
+					"Premium Unleaded 95": 135.9,
+					"Premium Unleaded 98": 141.9,
+					"e10": 117.9
+				}
 			}
 		},
 		{
@@ -37554,7 +37824,7 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "United Coopers Plains",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:05.803",
+				"LastUpdatedUtc": "2020-10-05T05:34:25.153",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37803,7 +38073,7 @@ var data={
 				"Suburb": "Miles",
 				"Name": "United Miles Central",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:00.683",
+				"LastUpdatedUtc": "2020-10-05T05:32:17.52",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38459,7 +38729,7 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "BP Coopers Plains",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-10-05T05:20:00",
+				"LastUpdatedUtc": "2020-10-05T05:35:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38766,7 +39036,7 @@ var data={
 				"Suburb": "Southport",
 				"Name": "United Southport",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:08.803",
+				"LastUpdatedUtc": "2020-10-05T05:32:22.66",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39082,7 +39352,7 @@ var data={
 				"Suburb": "Archerfield",
 				"Name": "United Archerfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:40.363",
+				"LastUpdatedUtc": "2020-10-05T05:31:59.987",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39170,7 +39440,7 @@ var data={
 				"Suburb": "Pimpama",
 				"Name": "United Pimpama",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:06.6",
+				"LastUpdatedUtc": "2020-10-05T05:32:20.867",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39201,7 +39471,7 @@ var data={
 				"Suburb": "Carrara",
 				"Name": "United Carrara",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:12.077",
+				"LastUpdatedUtc": "2020-10-05T05:33:48.01",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39289,7 +39559,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "United Roma",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:57.66",
+				"LastUpdatedUtc": "2020-10-05T05:32:14.227",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39753,7 +40023,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "United Dalby Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:18:25.253",
+				"LastUpdatedUtc": "2020-10-05T05:34:07.887",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39778,7 +40048,7 @@ var data={
 				"Suburb": "Wondai",
 				"Name": "United Wondai Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:53.37",
+				"LastUpdatedUtc": "2020-10-05T05:33:20.903",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -40966,7 +41236,7 @@ var data={
 				"Suburb": "Wellcamp",
 				"Name": "United Toowoomba Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:41.883",
+				"LastUpdatedUtc": "2020-10-05T05:33:03.657",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41449,7 +41719,7 @@ var data={
 				"Suburb": "Moonie",
 				"Name": "United Moonie Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:45.493",
+				"LastUpdatedUtc": "2020-10-05T05:33:06.483",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41670,7 +41940,7 @@ var data={
 				"Suburb": "Bowen",
 				"Name": "United Bowen",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:38.727",
+				"LastUpdatedUtc": "2020-10-05T05:33:00.537",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42242,7 +42512,7 @@ var data={
 				"Suburb": "Merrimac",
 				"Name": "United Merrimac",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:01.277",
+				"LastUpdatedUtc": "2020-10-05T05:33:26.963",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42302,7 +42572,7 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "United Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:22.123",
+				"LastUpdatedUtc": "2020-10-05T05:32:37.007",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42332,7 +42602,7 @@ var data={
 				"Suburb": "Goondiwindi",
 				"Name": "United Goondiwindi",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:19.697",
+				"LastUpdatedUtc": "2020-10-05T05:33:56.167",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42419,7 +42689,7 @@ var data={
 				"Suburb": "Portland",
 				"Name": "United Woolloongabba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:19:21.803",
+				"LastUpdatedUtc": "2020-10-05T05:34:32.05",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42502,7 +42772,7 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "United Sunnybank Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:20:12.583",
+				"LastUpdatedUtc": "2020-10-05T05:32:26.103",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43563,7 +43833,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "United Gladstone North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:06.18",
+				"LastUpdatedUtc": "2020-10-05T05:33:31.477",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43791,7 +44061,7 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "United Petroleum Upper Coomera",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:03.23",
+				"LastUpdatedUtc": "2020-10-05T05:33:28.527",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44084,7 +44354,7 @@ var data={
 				"Suburb": "Highfields",
 				"Name": "United Highfields",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-10-05T05:21:41.433",
+				"LastUpdatedUtc": "2020-10-05T05:33:34.283",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
