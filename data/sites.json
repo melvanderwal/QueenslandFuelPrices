@@ -1,5 +1,5 @@
 {
-	"siteTime": "06/10/2020, 8:56:45 am",
+	"siteTime": "07/10/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -36632,6 +36632,29 @@
 				"Suburb": "Rasmussen",
 				"Name": "Fresh Trading Co. Mobil Rasmussen",
 				"Brand": "Mobil",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478009,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.275197,
+					-27.562267
+				]
+			},
+			"properties": {
+				"Address": "98 Railway Street",
+				"Suburb": "Gatton",
+				"Name": "United Gatton",
+				"Brand": "United",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
