@@ -1,5 +1,5 @@
 {
-	"siteTime": "07/10/2020, 8:56:45 am",
+	"siteTime": "08/10/2020, 8:56:46 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -10840,14 +10840,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.543992,
-					-23.366561
+					150.544072,
+					-23.366491
 				]
 			},
 			"properties": {
 				"Address": "161 Thozet Rd",
 				"Suburb": "Rockhampton",
-				"Name": "Puma Thozet Road",
+				"Name": "Puma Koongal",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -32253,14 +32253,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.310093,
-					-27.855204
+					153.310003,
+					-27.855224
 				]
 			},
 			"properties": {
 				"Address": "487 Old Pacific Highway",
 				"Suburb": "Coomera",
-				"Name": "Coles Express Coomera Pacific Hwy",
+				"Name": "Coles Express Coomera Truck Stop",
 				"Brand": "Coles Express",
 				"LastUpdatedUtc": null,
 				"Price": null,
