@@ -1,5 +1,5 @@
 {
-	"siteTime": "08/10/2020, 8:56:46 am",
+	"siteTime": "09/10/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -21360,29 +21360,6 @@
 				"Suburb": "Evans Landing",
 				"Name": "Weipa Servicentre",
 				"Brand": "Shell",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402884,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.299248,
-					-27.853517
-				]
-			},
-			"properties": {
-				"Address": "195 Old Coach Road Road",
-				"Suburb": "Upper Coomera",
-				"Name": "BP Upper Coomera",
-				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
