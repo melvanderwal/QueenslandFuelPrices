@@ -1,5 +1,5 @@
 {
-	"siteTime": "13/10/2020, 8:56:45 am",
+	"siteTime": "14/10/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -9813,29 +9813,6 @@
 				"Address": "99 Tingal Rd & Edith Rd",
 				"Suburb": "Tennant Creek",
 				"Name": "7-Eleven Wynnum",
-				"Brand": "7 Eleven",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61401942,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.365531,
-					-27.984737
-				]
-			},
-			"properties": {
-				"Address": "579 Ashmore Rd & Nerang Rd",
-				"Suburb": "Ashmore",
-				"Name": "7-Eleven Ashmore",
 				"Brand": "7 Eleven",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -36573,6 +36550,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61478005,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.966875,
+					-27.816387
+				]
+			},
+			"properties": {
+				"Address": "1 Bushmans Drive",
+				"Suburb": "Jimboomba",
+				"Name": "Caltex Woolworths Flagstone",
+				"Brand": "Caltex/Woolworths",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61478006,
 			"geometry": {
 				"type": "Point",
@@ -36631,6 +36631,29 @@
 				"Address": "98 Railway Street",
 				"Suburb": "Gatton",
 				"Name": "United Gatton",
+				"Brand": "United",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478011,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.079034,
+					-27.676056
+				]
+			},
+			"properties": {
+				"Address": "188-202 Wayne Goss Drive",
+				"Suburb": "Berrinba",
+				"Name": "United Berrinba",
 				"Brand": "United",
 				"LastUpdatedUtc": null,
 				"Price": null,
