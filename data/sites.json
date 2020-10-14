@@ -1,5 +1,5 @@
 {
-	"siteTime": "14/10/2020, 8:56:45 am",
+	"siteTime": "15/10/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -10564,15 +10564,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.025403,
-					-27.553678
+					152.025533,
+					-27.553538
 				]
 			},
 			"properties": {
 				"Address": "8581-8583 Warrego Hwy",
 				"Suburb": "Withcott",
-				"Name": "Caltex Withcott",
-				"Brand": "Caltex",
+				"Name": "Metro Withcott",
+				"Brand": "Metro Fuel",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -16268,15 +16268,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.411468,
-					-27.790198
+					151.411388,
+					-27.790218
 				]
 			},
 			"properties": {
 				"Address": "6164 Gore Highway",
 				"Suburb": "Pampas",
-				"Name": "Caltex Pampas Roadhouse",
-				"Brand": "Caltex",
+				"Name": "Pampas Fuels",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
