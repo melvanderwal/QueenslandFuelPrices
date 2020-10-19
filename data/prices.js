@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "19/10/2020, 8:56:45 am",
-	"priceTime": "19/10/2020, 8:29:13 pm",
+	"priceTime": "19/10/2020, 8:44:12 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2470,7 +2470,7 @@ var data={
 				"Suburb": "Naracoorte",
 				"Name": "Caltex Woolworths Rothwell",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2020-10-19T10:15:00",
+				"LastUpdatedUtc": "2020-10-19T10:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11394,7 +11394,7 @@ var data={
 				"Suburb": "Hope Island",
 				"Name": "Caltex/Woolworths Hope Island",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2020-10-19T10:15:00",
+				"LastUpdatedUtc": "2020-10-19T10:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25018,7 +25018,7 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "Caltex/Woolworths Greenbank",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2020-10-19T10:15:00",
+				"LastUpdatedUtc": "2020-10-19T10:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
