@@ -1,5 +1,5 @@
 {
-	"siteTime": "21/10/2020, 8:56:45 am",
+	"siteTime": "22/10/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -17027,15 +17027,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.915244,
-					-17.222218
+					145.915444,
+					-17.222538
 				]
 			},
 			"properties": {
-				"Address": "Bruce Hwy",
+				"Address": "68929 Bruce Highway",
 				"Suburb": "Deeral",
-				"Name": "BP Twin Rivers",
-				"Brand": "BP",
+				"Name": "Astron Twinrivers",
+				"Brand": "United",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
