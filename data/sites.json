@@ -1,5 +1,5 @@
 {
-	"siteTime": "30/10/2020, 8:56:45 am",
+	"siteTime": "31/10/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -5375,29 +5375,6 @@
 				"Suburb": "Victoria Point",
 				"Name": "7-Eleven Victoria Point",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61401590,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.015066,
-					-27.435947
-				]
-			},
-			"properties": {
-				"Address": "282 Newmarket Rd",
-				"Suburb": "George Town",
-				"Name": "Puma Wilston",
-				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
