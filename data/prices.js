@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "02/11/2020, 8:56:45 am",
-	"priceTime": "03/11/2020, 6:59:13 am",
+	"priceTime": "03/11/2020, 7:14:16 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -10063,14 +10063,14 @@ var data={
 				"Suburb": "Peregian Beach",
 				"Name": "Puma Peregian",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2020-11-01T22:42:52.813",
+				"LastUpdatedUtc": "2020-11-02T20:57:39.973",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 121.9,
-					"Premium Unleaded 98": 142.9,
+					"Unleaded": 121.7,
+					"Premium Unleaded 98": 142.7,
 					"Premium Diesel": 116.7
 				}
 			}
@@ -12140,7 +12140,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "Caltex/Woolworths Browns Plains West",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2020-11-02T20:30:00",
+				"LastUpdatedUtc": "2020-11-02T20:45:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14974,7 +14974,7 @@ var data={
 				"Suburb": "Clare",
 				"Name": "Caltex/Woolworths Deception Bay",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2020-11-02T20:30:00",
+				"LastUpdatedUtc": "2020-11-02T20:45:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25353,7 +25353,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex/Woolworths Bundaberg Sugarland",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2020-11-02T20:30:00",
+				"LastUpdatedUtc": "2020-11-02T20:45:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
