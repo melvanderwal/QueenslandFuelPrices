@@ -1,5 +1,5 @@
 {
-	"siteTime": "02/11/2020, 8:56:45 am",
+	"siteTime": "03/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -26825,15 +26825,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.265971,
-					-23.850417
+					151.265821,
+					-23.850517
 				]
 			},
 			"properties": {
 				"Address": "40 Toolooa St",
 				"Suburb": "Gladstone",
-				"Name": "Freedom Fuels Gladstone",
-				"Brand": "Freedom Fuels",
+				"Name": "Power Fuel",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
