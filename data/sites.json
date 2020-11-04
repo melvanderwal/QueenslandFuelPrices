@@ -1,5 +1,5 @@
 {
-	"siteTime": "04/11/2020, 8:56:45 am",
+	"siteTime": "05/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -36632,6 +36632,28 @@
 				"Suburb": "Berrinba",
 				"Name": "United Berrinba",
 				"Brand": "United",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478012,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.673517,
+					-26.343716
+				]
+			},
+			"properties": {
+				"Address": "4 Busby Street",
+				"Name": "Amamoor General Store & Post Office",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
