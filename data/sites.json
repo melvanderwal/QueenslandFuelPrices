@@ -1,5 +1,5 @@
 {
-	"siteTime": "06/11/2020, 8:56:45 am",
+	"siteTime": "07/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -17786,14 +17786,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.324873,
-					-23.485198
+					150.324923,
+					-23.485148
 				]
 			},
 			"properties": {
 				"Address": "5 Main Street",
 				"Suburb": "Stanwell",
-				"Name": "Stanwell Stop",
+				"Name": "Stanwell Store",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -24962,15 +24962,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					143.138229,
-					-20.734137
+					143.138289,
+					-20.734317
 				]
 			},
 			"properties": {
 				"Address": "Lot 2 Flinders Hwy",
 				"Suburb": "Richmond",
-				"Name": "Carpentaria Fuels",
-				"Brand": "Independent",
+				"Name": "Liberty Richmond (Unmanned)",
+				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -31471,15 +31471,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.778613,
-					-27.657074
+					152.778463,
+					-27.657314
 				]
 			},
 			"properties": {
 				"Address": "332 Ripley Road",
 				"Suburb": "Ripley",
-				"Name": "Caltex Ripley",
-				"Brand": "Caltex",
+				"Name": "Ampol Foodary Ripley",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -31655,15 +31655,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.200257,
-					-27.701133
+					153.200577,
+					-27.701063
 				]
 			},
 			"properties": {
 				"Address": "19-29 Riverhills Road",
 				"Suburb": "Eagleby",
-				"Name": "Caltex Foodary Eagleby",
-				"Brand": "Caltex",
+				"Name": "Ampol Foodary Eagleby",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -32000,15 +32000,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.848526,
-					-27.641329
+					152.848796,
+					-27.640959
 				]
 			},
 			"properties": {
 				"Address": "588 Redbank Plains Road",
 				"Suburb": "Redbank Plains",
-				"Name": "Caltex The Foodary Redbank Plains",
-				"Brand": "Caltex",
+				"Name": "Ampol Foodary Redbank Plains",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36646,14 +36646,60 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.673517,
-					-26.343716
+					152.673227,
+					-26.343676
 				]
 			},
 			"properties": {
 				"Address": "4 Busby Street",
+				"Suburb": "Amamoor",
 				"Name": "Amamoor General Store & Post Office",
 				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478013,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.677439,
+					-26.387852
+				]
+			},
+			"properties": {
+				"Address": "50 Main Street",
+				"Name": "Kandanga Snack Bar",
+				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478014,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.727992,
+					-19.318877
+				]
+			},
+			"properties": {
+				"Address": "731 Railway Drive",
+				"Suburb": "Thuringowa",
+				"Name": "Liberty Thuringowa",
+				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
