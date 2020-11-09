@@ -1,5 +1,5 @@
 {
-	"siteTime": "09/11/2020, 8:56:46 am",
+	"siteTime": "10/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -36669,12 +36669,13 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.677439,
-					-26.387852
+					152.677539,
+					-26.387812
 				]
 			},
 			"properties": {
 				"Address": "50 Main Street",
+				"Suburb": "Kandanga",
 				"Name": "Kandanga Snack Bar",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
