@@ -1,5 +1,5 @@
 {
-	"siteTime": "11/11/2020, 8:56:45 am",
+	"siteTime": "12/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -14138,6 +14138,29 @@
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402333,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.514185,
+					-28.163976
+				]
+			},
+			"properties": {
+				"Address": "1 Eastern Avenue",
+				"Suburb": "Bilinga",
+				"Name": "Hope Energy Coolangatta",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
