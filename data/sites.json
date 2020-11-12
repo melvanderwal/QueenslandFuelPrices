@@ -1,5 +1,5 @@
 {
-	"siteTime": "12/11/2020, 8:56:45 am",
+	"siteTime": "13/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -21347,6 +21347,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402884,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.299418,
+					-27.853537
+				]
+			},
+			"properties": {
+				"Address": "195 Old Coach Road Road",
+				"Suburb": "Upper Coomera",
+				"Name": "United Upper Coomera",
+				"Brand": "United",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402885,
 			"geometry": {
 				"type": "Point",
@@ -36596,6 +36619,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61478007,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.100957,
+					-27.779781
+				]
+			},
+			"properties": {
+				"Address": "1322-1346 Waterford-Tamborine Road",
+				"Suburb": "Logan Village",
+				"Name": "Coles Express Yarrabilba",
+				"Brand": "Coles Express",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61478008,
 			"geometry": {
 				"type": "Point",
@@ -36746,6 +36792,52 @@
 				"Address": "3 Imbil-Island Road",
 				"Suburb": "Imbil",
 				"Name": "Imbil Garage",
+				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478016,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.379904,
+					-22.840385
+				]
+			},
+			"properties": {
+				"Address": " Canal Creek Road",
+				"Suburb": "Canal Creek",
+				"Name": "Caltex Canal Creek Quarry Unmanned",
+				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478017,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.871379,
+					-26.318425
+				]
+			},
+			"properties": {
+				"Address": "81 Haly Street",
+				"Suburb": "Wondai",
+				"Name": "Wondai Servo",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
