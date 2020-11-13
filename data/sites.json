@@ -1,5 +1,5 @@
 {
-	"siteTime": "13/11/2020, 8:56:45 am",
+	"siteTime": "14/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -9790,6 +9790,29 @@
 				"Address": "99 Tingal Rd & Edith Rd",
 				"Suburb": "Tennant Creek",
 				"Name": "7-Eleven Wynnum",
+				"Brand": "7 Eleven",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61401942,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.365621,
+					-27.984867
+				]
+			},
+			"properties": {
+				"Address": "579 Ashmore Rd & Nerang Rd",
+				"Suburb": "Ashmore",
+				"Name": "7-Eleven Ashmore",
 				"Brand": "7 Eleven",
 				"LastUpdatedUtc": null,
 				"Price": null,
