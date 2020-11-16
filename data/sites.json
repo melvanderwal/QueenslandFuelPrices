@@ -1,5 +1,5 @@
 {
-	"siteTime": "16/11/2020, 8:56:45 am",
+	"siteTime": "17/11/2020, 8:56:46 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -23352,14 +23352,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					147.399227,
-					-19.583116
+					147.399025,
+					-19.582798
 				]
 			},
 			"properties": {
-				"Address": "243 Queen St",
+				"Address": "245 Queen Street",
 				"Suburb": "Ayr",
-				"Name": "Shell Ayr",
+				"Name": "NightOwl Shell Ayr",
 				"Brand": "Shell",
 				"LastUpdatedUtc": null,
 				"Price": null,
