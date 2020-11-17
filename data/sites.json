@@ -1,5 +1,5 @@
 {
-	"siteTime": "17/11/2020, 8:56:46 am",
+	"siteTime": "18/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -19810,15 +19810,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.006578,
-					-25.912599
+					153.006448,
+					-25.912529
 				]
 			},
 			"properties": {
 				"Address": "23 Gympie Road",
 				"Suburb": "Tin Can Bay",
-				"Name": "Liberty Tin Can Bay",
-				"Brand": "Liberty",
+				"Name": "Tin Can Bay Travelstop",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
