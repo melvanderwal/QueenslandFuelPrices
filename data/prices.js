@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "18/11/2020, 8:56:45 am",
-	"priceTime": "19/11/2020, 7:44:39 am",
+	"priceTime": "19/11/2020, 7:45:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -9176,7 +9176,7 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "United Loganlea",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-11-18T21:29:46.913",
+				"LastUpdatedUtc": "2020-11-18T21:43:01.037",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21811,7 +21811,7 @@ var data={
 				"Suburb": "Bouldercombe",
 				"Name": "United Bouldercombe",
 				"Brand": "United",
-				"LastUpdatedUtc": "2020-11-18T21:29:48.413",
+				"LastUpdatedUtc": "2020-11-18T21:43:03.243",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
