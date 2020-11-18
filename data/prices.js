@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "18/11/2020, 8:56:45 am",
-	"priceTime": "18/11/2020, 6:29:13 pm",
+	"priceTime": "18/11/2020, 6:29:45 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3002,7 +3002,7 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "7-Eleven Aspley",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2020-11-18T03:30:00",
+				"LastUpdatedUtc": "2020-11-18T08:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3010,9 +3010,9 @@ var data={
 				"Prices": {
 					"Unleaded": 144.9,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 156.9,
-					"Premium Unleaded 98": 162.9,
-					"e10": 142.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
 					"Premium Diesel": 115.7
 				}
 			}
@@ -3150,9 +3150,9 @@ var data={
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 143.9,
-					"Premium Unleaded 95": 156.9,
-					"Premium Unleaded 98": 162.9,
-					"e10": 142.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
 					"Premium Diesel": 115.7
 				}
 			}
