@@ -1,5 +1,5 @@
 {
-	"siteTime": "19/11/2020, 8:56:45 am",
+	"siteTime": "20/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -36862,6 +36862,51 @@
 				"Suburb": "Wondai",
 				"Name": "Wondai Servo",
 				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478019,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.067164,
+					-23.581847
+				]
+			},
+			"properties": {
+				"Address": "20 Main Street",
+				"Name": "Independent Bluff Servo",
+				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478020,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.763085,
+					-19.272538
+				]
+			},
+			"properties": {
+				"Address": "339-343 Bayswater Road",
+				"Suburb": "Garbutt",
+				"Name": "Liberty Garbutt",
+				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
