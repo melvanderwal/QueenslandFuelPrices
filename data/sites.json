@@ -1,5 +1,5 @@
 {
-	"siteTime": "20/11/2020, 8:56:45 am",
+	"siteTime": "21/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -453,29 +453,6 @@
 				"Suburb": "Southport",
 				"Name": "BP Johnston Street",
 				"Brand": "BP",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61401038,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.402773,
-					-27.974229
-				]
-			},
-			"properties": {
-				"Address": "174 Nerang Street",
-				"Suburb": "Southport",
-				"Name": "Freedom Fuels St Clairs",
-				"Brand": "Freedom Fuels",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -19304,14 +19281,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.930924,
-					-27.566481
+					151.930894,
+					-27.566101
 				]
 			},
 			"properties": {
-				"Address": "328 James St",
-				"Suburb": "Toowoomba",
-				"Name": "Metro Petroleum Toowoomba",
+				"Address": "328 James Street",
+				"Suburb": "Harristown",
+				"Name": "Metro Petroleum Harristown",
 				"Brand": "Metro Fuel",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -24916,14 +24893,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.788773,
-					-26.573755
+					148.788877,
+					-26.573851
 				]
 			},
 			"properties": {
-				"Address": "22 Bowen St & Arthur St",
+				"Address": "22 Bowen Street",
 				"Suburb": "Roma",
-				"Name": "BP Kookas Central",
+				"Name": "BP Kookas",
 				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
