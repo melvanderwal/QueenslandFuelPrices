@@ -1,5 +1,5 @@
 {
-	"siteTime": "23/11/2020, 8:56:45 am",
+	"siteTime": "24/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -16300,29 +16300,6 @@
 				"Suburb": "Pittsworth",
 				"Name": "Freedom Fuels Pittsworth",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402485,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.169263,
-					-27.930508
-				]
-			},
-			"properties": {
-				"Address": "Gore Hwy",
-				"Suburb": "Millmerran",
-				"Name": "Captain'S Mountain Roadhouse",
-				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36884,6 +36861,29 @@
 				"Suburb": "Garbutt",
 				"Name": "Liberty Garbutt",
 				"Brand": "Liberty",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478021,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.730354,
+					-26.342517
+				]
+			},
+			"properties": {
+				"Address": "2028 Old Bruce Highway",
+				"Suburb": "Kybong",
+				"Name": "Puma Traveston",
+				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
