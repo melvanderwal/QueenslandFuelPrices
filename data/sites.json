@@ -1,5 +1,5 @@
 {
-	"siteTime": "24/11/2020, 8:56:45 am",
+	"siteTime": "25/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1728,29 +1728,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61401189,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.023597,
-					-27.523974
-				]
-			},
-			"properties": {
-				"Address": "841 Ipswich Rd & Black St",
-				"Suburb": "Adelaide",
-				"Name": "7-Eleven Moorvale",
-				"Brand": "7 Eleven",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61401195,
 			"geometry": {
 				"type": "Point",
@@ -3304,29 +3281,6 @@
 				"Address": "1955 Wynnum Rd & Plz St",
 				"Suburb": "Wynnum West",
 				"Name": "Puma Wynnum West",
-				"Brand": "Puma Energy",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61401371,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.166578,
-					-27.454619
-				]
-			},
-			"properties": {
-				"Address": "Wondall Rd & Preston Rd",
-				"Suburb": "Tennant Creek",
-				"Name": "Puma Wynnum (Preston Rd)",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -8007,29 +7961,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61401815,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.039325,
-					-26.635904
-				]
-			},
-			"properties": {
-				"Address": "148 David Low Way",
-				"Suburb": "Bli Bli",
-				"Name": "Puma Bli Bli",
-				"Brand": "Puma Energy",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61401816,
 			"geometry": {
 				"type": "Point",
@@ -10468,29 +10399,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61401997,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					146.731449,
-					-19.363581
-				]
-			},
-			"properties": {
-				"Address": "1231 Riverway Drive",
-				"Suburb": "Kelso",
-				"Name": "Puma Riverway",
-				"Brand": "Puma Energy",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61401998,
 			"geometry": {
 				"type": "Point",
@@ -10550,29 +10458,6 @@
 				"Suburb": "Withcott",
 				"Name": "Metro Withcott",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402006,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.119153,
-					-24.865147
-				]
-			},
-			"properties": {
-				"Address": "1 Flinders St",
-				"Suburb": "Monto",
-				"Name": "Puma Monto",
-				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -19553,6 +19438,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402770,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					145.423271,
+					-16.999455
+				]
+			},
+			"properties": {
+				"Address": "1 Herberton St",
+				"Suburb": "Mareeba",
+				"Name": "Mobil Mareeba",
+				"Brand": "Mobil",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402775,
 			"geometry": {
 				"type": "Point",
@@ -25109,29 +25017,6 @@
 				"Suburb": "Mareeba",
 				"Name": "BP Mareeba",
 				"Brand": "BP",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61470308,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					152.699537,
-					-25.530849
-				]
-			},
-			"properties": {
-				"Address": "Walker St & Ferry St",
-				"Suburb": "Maryborough",
-				"Name": "Puma Maryborough Central",
-				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -32690,15 +32575,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.609346,
-					-25.619745
+					151.609286,
+					-25.619574
 				]
 			},
 			"properties": {
-				"Address": "11-15 Dalgangal Road",
+				"Address": "11 Dalgangal Road",
 				"Suburb": "Gayndah",
-				"Name": "Riverside Motel and Service Station Gayndah",
-				"Brand": "Independent",
+				"Name": "Liberty Gayndah",
+				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36540,6 +36425,29 @@
 				"Suburb": "Plainland",
 				"Name": "Mobil Plainland",
 				"Brand": "Mobil",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478004,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.106696,
+					-27.242848
+				]
+			},
+			"properties": {
+				"Address": "291 Oxley Avenue",
+				"Suburb": "Waikerie",
+				"Name": "Liberty Margate",
+				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
