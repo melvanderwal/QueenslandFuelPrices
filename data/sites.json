@@ -1,5 +1,5 @@
 {
-	"siteTime": "25/11/2020, 8:56:45 am",
+	"siteTime": "26/11/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -18311,29 +18311,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61402680,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					152.720663,
-					-26.306064
-				]
-			},
-			"properties": {
-				"Address": "Bruce Hwy",
-				"Suburb": "Kybong",
-				"Name": "Puma Kybong Travel Centre",
-				"Brand": "Puma Energy",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61402681,
 			"geometry": {
 				"type": "Point",
@@ -24778,15 +24755,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.788877,
-					-26.573851
+					148.788937,
+					-26.573971
 				]
 			},
 			"properties": {
 				"Address": "22 Bowen Street",
 				"Suburb": "Roma",
 				"Name": "BP Kookas",
-				"Brand": "BP",
+				"Brand": "Lowes",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
