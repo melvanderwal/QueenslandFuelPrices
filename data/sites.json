@@ -1,5 +1,5 @@
 {
-	"siteTime": "01/12/2020, 8:56:45 am",
+	"siteTime": "02/12/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -25868,29 +25868,6 @@
 				"Suburb": "Cardwell",
 				"Name": "BP Seaview Cardwell",
 				"Brand": "Independent",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61470644,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.260351,
-					-27.179983
-				]
-			},
-			"properties": {
-				"Address": "15 Drayton St & Pratten St",
-				"Suburb": "Dalby",
-				"Name": "BP Dalby",
-				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
