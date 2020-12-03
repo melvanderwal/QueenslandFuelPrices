@@ -1,5 +1,5 @@
 {
-	"siteTime": "03/12/2020, 8:56:45 am",
+	"siteTime": "04/12/2020, 8:56:47 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1740,6 +1740,29 @@
 				"Address": "563 Fairfield Rd & Nelson St",
 				"Suburb": "Whyalla",
 				"Name": "7-Eleven Yeronga",
+				"Brand": "7 Eleven",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61401189,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.023598,
+					-27.523873
+				]
+			},
+			"properties": {
+				"Address": "841 Ipswich Rd & Black St",
+				"Suburb": "Adelaide",
+				"Name": "7-Eleven Moorvale",
 				"Brand": "7 Eleven",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -10491,6 +10514,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402006,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.118923,
+					-24.865377
+				]
+			},
+			"properties": {
+				"Address": "1 Flinders St",
+				"Suburb": "Monto",
+				"Name": "Puma Monto",
+				"Brand": "Puma Energy",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402007,
 			"geometry": {
 				"type": "Point",
@@ -14654,29 +14700,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61402380,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.237978,
-					-27.183707
-				]
-			},
-			"properties": {
-				"Address": "Moonie Hwy & Loudoun Rd",
-				"Suburb": "Dalby",
-				"Name": "Caltex Dalby Depot Front",
-				"Brand": "Caltex",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61402383,
 			"geometry": {
 				"type": "Point",
@@ -17427,29 +17450,6 @@
 				"Suburb": "Tara",
 				"Name": "United Tara Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402598,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					148.581372,
-					-28.036268
-				]
-			},
-			"properties": {
-				"Address": "102-106 Victoria Street",
-				"Suburb": "St George",
-				"Name": "Caltex St George",
-				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -25868,6 +25868,29 @@
 				"Suburb": "Cardwell",
 				"Name": "BP Seaview Cardwell",
 				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61470644,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.260141,
+					-27.180153
+				]
+			},
+			"properties": {
+				"Address": "15 Drayton St & Pratten St",
+				"Suburb": "Dalby",
+				"Name": "BP Dalby",
+				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
