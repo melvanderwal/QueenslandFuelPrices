@@ -1,5 +1,5 @@
 {
-	"siteTime": "05/12/2020, 8:56:45 am",
+	"siteTime": "06/12/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -10656,8 +10656,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.673247,
-					-16.771401
+					145.673037,
+					-16.771601
 				]
 			},
 			"properties": {
@@ -25169,8 +25169,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.512275,
-					-24.404028
+					150.512175,
+					-24.403738
 				]
 			},
 			"properties": {
@@ -26181,8 +26181,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.879492,
-					-23.583011
+					148.879422,
+					-23.583181
 				]
 			},
 			"properties": {
