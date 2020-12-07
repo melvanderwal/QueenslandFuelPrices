@@ -1,5 +1,5 @@
 {
-	"siteTime": "07/12/2020, 8:56:45 am",
+	"siteTime": "08/12/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -15693,15 +15693,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.335138,
-					-23.650784
+					149.335058,
+					-23.650684
 				]
 			},
 			"properties": {
 				"Address": "Capricorn Hwy",
 				"Suburb": "Dingo",
-				"Name": "Caltex Dingo Roadhouse",
-				"Brand": "Caltex",
+				"Name": "Dingo Roadhouse",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36738,12 +36738,13 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.067164,
-					-23.581847
+					149.066994,
+					-23.581977
 				]
 			},
 			"properties": {
 				"Address": "20 Main Street",
+				"Suburb": "Bluff",
 				"Name": "Independent Bluff Servo",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
