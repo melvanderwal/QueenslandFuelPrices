@@ -1,5 +1,5 @@
 {
-	"siteTime": "08/12/2020, 8:56:45 am",
+	"siteTime": "09/12/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -25239,14 +25239,14 @@
 				"type": "Point",
 				"coordinates": [
 					146.241664,
-					-26.403966
+					-26.403976
 				]
 			},
 			"properties": {
-				"Address": "Wills Street",
+				"Address": "50-52 Wills Street",
 				"Suburb": "Charleville",
-				"Name": "Puma Charleville",
-				"Brand": "Puma Energy",
+				"Name": "United Charleville North",
+				"Brand": "United",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36734,6 +36734,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61478018,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.967497,
+					-27.109229
+				]
+			},
+			"properties": {
+				"Address": "195 Graham Road",
+				"Suburb": "Morayfield",
+				"Name": "7-Eleven Morayfield East",
+				"Brand": "7 Eleven",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61478019,
 			"geometry": {
 				"type": "Point",
@@ -36793,6 +36816,29 @@
 				"Suburb": "Kybong",
 				"Name": "Puma Traveston",
 				"Brand": "Puma Energy",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478022,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.158225,
+					-27.701523
+				]
+			},
+			"properties": {
+				"Address": "412 Logan River Road",
+				"Suburb": "Bethania",
+				"Name": "United Bethania",
+				"Brand": "United",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
