@@ -1,5 +1,5 @@
 {
-	"siteTime": "09/12/2020, 8:56:45 am",
+	"siteTime": "10/12/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -29640,6 +29640,29 @@
 				"Suburb": "Yarrabilba",
 				"Name": "Caltex Yarrabilba",
 				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61477661,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.078213,
+					-28.416705
+				]
+			},
+			"properties": {
+				"Address": "100 Albert Street",
+				"Suburb": "Inglewood",
+				"Name": "Inglewood Fuel",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
