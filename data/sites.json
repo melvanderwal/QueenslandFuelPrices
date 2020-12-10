@@ -1,5 +1,5 @@
 {
-	"siteTime": "10/12/2020, 8:56:45 am",
+	"siteTime": "11/12/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2845,29 +2845,6 @@
 				"Suburb": "Katanning",
 				"Name": "Puma Everton Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61401316,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.007794,
-					-27.409196
-				]
-			},
-			"properties": {
-				"Address": "475 Stafford Road",
-				"Suburb": "Queanbeyan",
-				"Name": "BP Stafford",
-				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36862,6 +36839,29 @@
 				"Suburb": "Bethania",
 				"Name": "United Bethania",
 				"Brand": "United",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478023,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					145.746342,
+					-17.019026
+				]
+			},
+			"properties": {
+				"Address": "69-70 Thomson Road",
+				"Suburb": "Edmonton",
+				"Name": "Marano?s Fuel Edmonton",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
