@@ -1,5 +1,5 @@
 {
-	"siteTime": "11/12/2020, 8:56:45 am",
+	"siteTime": "12/12/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -17418,15 +17418,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.451527,
-					-27.276426
+					150.451467,
+					-27.276346
 				]
 			},
 			"properties": {
 				"Address": "87 Day St",
 				"Suburb": "Tara",
-				"Name": "United Tara Ufill",
-				"Brand": "United",
+				"Name": "Amber Fuel",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -18853,6 +18853,29 @@
 				"Suburb": "Hope Island",
 				"Name": "Freedom Fuels Hope Island",
 				"Brand": "Freedom Fuels",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402739,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.078521,
+					-27.573528
+				]
+			},
+			"properties": {
+				"Address": "42 Padstow Road",
+				"Suburb": "Eight Mile Plains",
+				"Name": "Liberty Eight Mile Plains",
+				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36862,6 +36885,29 @@
 				"Suburb": "Edmonton",
 				"Name": "Marano?s Fuel Edmonton",
 				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478024,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.512104,
+					-24.404289
+				]
+			},
+			"properties": {
+				"Address": "7-13 Burnett Highway",
+				"Suburb": "Biloela",
+				"Name": "Liberty Biloela",
+				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
