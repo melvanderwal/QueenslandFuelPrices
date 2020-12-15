@@ -1,5 +1,5 @@
 {
-	"siteTime": "15/12/2020, 8:56:45 am",
+	"siteTime": "16/12/2020, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -3304,6 +3304,29 @@
 				"Address": "1955 Wynnum Rd & Plz St",
 				"Suburb": "Wynnum West",
 				"Name": "Puma Wynnum West",
+				"Brand": "Puma Energy",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61401371,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.166548,
+					-27.454499
+				]
+			},
+			"properties": {
+				"Address": "Wondall Rd & Preston Rd",
+				"Suburb": "Tennant Creek",
+				"Name": "Puma Wynnum (Preston Rd)",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -21705,29 +21728,6 @@
 				"Suburb": "South Gladstone",
 				"Name": "United South Gladstone",
 				"Brand": "United",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402907,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.079189,
-					-27.435811
-				]
-			},
-			"properties": {
-				"Address": "Theodore Street",
-				"Suburb": "Unallocated",
-				"Name": "Puma Eagle Farm Terminal",
-				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
