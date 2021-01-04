@@ -1,5 +1,5 @@
 {
-	"siteTime": "04/01/2021, 8:56:45 am",
+	"siteTime": "05/01/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -25063,6 +25063,29 @@
 				"Suburb": "Mareeba",
 				"Name": "BP Mareeba",
 				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61470308,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.699257,
+					-25.530759
+				]
+			},
+			"properties": {
+				"Address": "Walker St & Ferry St",
+				"Suburb": "Maryborough",
+				"Name": "Puma Maryborough Central",
+				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
