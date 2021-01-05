@@ -1,5 +1,5 @@
 {
-	"siteTime": "05/01/2021, 8:56:45 am",
+	"siteTime": "06/01/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1088,15 +1088,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.059612,
-					-27.472358
+					153.059332,
+					-27.472468
 				]
 			},
 			"properties": {
 				"Address": "1 Hawthorne Road",
 				"Suburb": "Hawthorne",
-				"Name": "Pacific Fuel Galloway Hills",
-				"Brand": "Pacific Petroleum",
+				"Name": "Shell Galloway Hills",
+				"Brand": "Shell",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
