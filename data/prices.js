@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "11/01/2021, 8:56:45 am",
-	"priceTime": "11/01/2021, 5:14:42 pm",
+	"priceTime": "11/01/2021, 5:15:20 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2891,14 +2891,14 @@ var data={
 				"Suburb": "Port Hedland",
 				"Name": "7-Eleven Sandgate",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-01-11T02:02:00",
+				"LastUpdatedUtc": "2021-01-11T07:02:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 116.3,
-					"Premium Unleaded 98": 134.3,
+					"Premium Unleaded 98": 133.3,
 					"Premium Diesel": 118.9
 				}
 			}
@@ -4441,7 +4441,7 @@ var data={
 				"Suburb": "Mount Gravatt East",
 				"Name": "7-Eleven Mt Gravatt East",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-01-11T04:47:00",
+				"LastUpdatedUtc": "2021-01-11T07:02:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4449,7 +4449,7 @@ var data={
 				"Prices": {
 					"Unleaded": 117.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 129.9,
+					"Premium Unleaded 95": 129.4,
 					"Premium Unleaded 98": 135.9,
 					"e10": 115.9,
 					"Premium Diesel": 119.9
@@ -5410,15 +5410,15 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Woodridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-01-11T01:03:00",
+				"LastUpdatedUtc": "2021-01-11T07:03:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.5,
-					"Premium Unleaded 95": 123.5,
-					"Premium Unleaded 98": 129.5,
+					"Unleaded": 111.3,
+					"Premium Unleaded 95": 123.3,
+					"Premium Unleaded 98": 129.3,
 					"e10": 109.5,
 					"Premium Diesel": 119.9
 				}
@@ -7124,17 +7124,17 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Woodridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-01-11T01:01:00",
+				"LastUpdatedUtc": "2021-01-11T07:02:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 111.5,
+					"Unleaded": 111.3,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 123.5,
-					"Premium Unleaded 98": 129.5,
-					"e10": 109.5,
+					"Premium Unleaded 95": 123.3,
+					"Premium Unleaded 98": 129.3,
+					"e10": 109.3,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -14636,17 +14636,17 @@ var data={
 				"Suburb": "Cohuna",
 				"Name": "7-Eleven Carina",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-01-11T04:47:00",
+				"LastUpdatedUtc": "2021-01-11T07:02:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 117.9,
+					"Unleaded": 117.4,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 129.9,
-					"Premium Unleaded 98": 135.9,
-					"e10": 115.9,
+					"Premium Unleaded 95": 129.4,
+					"Premium Unleaded 98": 135.4,
+					"e10": 115.4,
 					"Premium Diesel": 120.9
 				}
 			}
@@ -17876,15 +17876,15 @@ var data={
 				"Suburb": "Jindalee",
 				"Name": "7-Eleven Jindalee",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-01-11T04:47:00",
+				"LastUpdatedUtc": "2021-01-11T07:02:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 109.4,
-					"Premium Unleaded 98": 127.4,
-					"e10": 107.4,
+					"Unleaded": 108.9,
+					"Premium Unleaded 98": 126.9,
+					"e10": 106.9,
 					"Premium Diesel": 119.9
 				}
 			}
@@ -18613,14 +18613,14 @@ var data={
 				"Suburb": "Kadina",
 				"Name": "7-Eleven Clontarf",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-01-11T05:02:00",
+				"LastUpdatedUtc": "2021-01-11T07:02:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 112.9,
-					"Premium Unleaded 98": 130.9,
+					"Premium Unleaded 98": 129.9,
 					"e10": 110.9,
 					"Premium Diesel": 119.9
 				}
@@ -35606,15 +35606,15 @@ var data={
 				"Suburb": "Taigum",
 				"Name": "7-Eleven Taigum",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-01-11T05:47:00",
+				"LastUpdatedUtc": "2021-01-11T07:02:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 115.9,
-					"Premium Unleaded 95": 127.9,
-					"Premium Unleaded 98": 133.9,
+					"Premium Unleaded 95": 127.3,
+					"Premium Unleaded 98": 133.3,
 					"e10": 113.9,
 					"Premium Diesel": 119.7
 				}
