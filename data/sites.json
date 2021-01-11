@@ -1,5 +1,5 @@
 {
-	"siteTime": "11/01/2021, 8:56:45 am",
+	"siteTime": "12/01/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -11480,29 +11480,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61402086,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.133093,
-					-27.640035
-				]
-			},
-			"properties": {
-				"Address": "124 Paradise Rd",
-				"Suburb": "Slacks Creek",
-				"Name": "Caltex/Woolworths Slacks Creek",
-				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61402089,
 			"geometry": {
 				"type": "Point",
@@ -19359,29 +19336,6 @@
 				"Suburb": "Karalee",
 				"Name": "Caltex/Woolworths Karalee",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402763,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					152.370927,
-					-24.855633
-				]
-			},
-			"properties": {
-				"Address": "5 Whittred St",
-				"Suburb": "Bundaberg",
-				"Name": "Wessel Petroleum Eastside",
-				"Brand": "Mobil",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
