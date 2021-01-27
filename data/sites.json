@@ -1,5 +1,5 @@
 {
-	"siteTime": "27/01/2021, 8:56:45 am",
+	"siteTime": "28/01/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1833,29 +1833,6 @@
 				"Suburb": "Renmark",
 				"Name": "BP Stones Corner",
 				"Brand": "BP",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61401200,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.040139,
-					-27.504282
-				]
-			},
-			"properties": {
-				"Address": "99 Juliette St & Earl St",
-				"Suburb": "Renmark",
-				"Name": "7-Eleven Greenslopes",
-				"Brand": "7 Eleven",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -28040,29 +28017,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61477085,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					144.259078,
-					-26.617509
-				]
-			},
-			"properties": {
-				"Address": "Lot 59 Sommerfield Road",
-				"Suburb": "Quilpie",
-				"Name": "Puma Quilpie Unmanned",
-				"Brand": "Puma Energy",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61477086,
 			"geometry": {
 				"type": "Point",
@@ -28973,29 +28927,6 @@
 				"Suburb": "Meadowbrook",
 				"Name": "Caltex/Woolworths Meadowbrook",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61477130,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.727019,
-					-27.462514
-				]
-			},
-			"properties": {
-				"Address": " Cnr Warrego Highway and Oakey Bidderston Road,",
-				"Suburb": "Oakey",
-				"Name": "Puma Oakey OPT",
-				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
