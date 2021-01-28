@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "28/01/2021, 8:56:45 am",
-	"priceTime": "29/01/2021, 5:29:13 am",
+	"priceTime": "29/01/2021, 5:29:42 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -11125,7 +11125,7 @@ var data={
 				"Suburb": "Goodna",
 				"Name": "Caltex/Woolworths Goodna",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-01-28T19:00:00",
+				"LastUpdatedUtc": "2021-01-28T19:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25131,7 +25131,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex/Woolworths Roma",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-01-28T19:00:00",
+				"LastUpdatedUtc": "2021-01-28T19:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26226,7 +26226,7 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "Caltex/Woolworths Kallangur",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-01-28T19:00:00",
+				"LastUpdatedUtc": "2021-01-28T19:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
