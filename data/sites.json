@@ -1,5 +1,5 @@
 {
-	"siteTime": "01/02/2021, 8:56:45 am",
+	"siteTime": "02/02/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -10629,29 +10629,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61402011,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					144.264028,
-					-23.441533
-				]
-			},
-			"properties": {
-				"Address": "Cnr Thrush St & Ilfracombe Rd",
-				"Suburb": "Longreach",
-				"Name": "Caltex Longreach Roadhouse",
-				"Brand": "Caltex",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61402014,
 			"geometry": {
 				"type": "Point",
@@ -20026,29 +20003,6 @@
 				"Suburb": "Pialba",
 				"Name": "Coles Express Hervey Bay",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402816,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					152.904253,
-					-27.678856
-				]
-			},
-			"properties": {
-				"Address": "Cnr Centenary Hwy & Springfield Greenbank Arterial",
-				"Suburb": "Springfield",
-				"Name": "Caltex/Woolworths Springfield",
-				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36899,12 +36853,13 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.919535,
-					-26.930343
+					150.919545,
+					-26.930483
 				]
 			},
 			"properties": {
 				"Address": "20 Thorn Street",
+				"Suburb": "Warra",
 				"Name": "Liberty Warra",
 				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
