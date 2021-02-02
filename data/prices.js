@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "02/02/2021, 8:56:45 am",
-	"priceTime": "02/02/2021, 10:00:21 am",
+	"priceTime": "02/02/2021, 10:00:40 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -17152,7 +17152,7 @@ var data={
 				"Suburb": "Nikenbah",
 				"Name": "Caltex Nikenbah",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-01-11T23:49:39.18",
+				"LastUpdatedUtc": "2021-02-01T23:59:28.973",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
