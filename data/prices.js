@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "04/02/2021, 8:56:45 am",
-	"priceTime": "04/02/2021, 5:29:15 pm",
+	"priceTime": "04/02/2021, 5:29:43 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -10690,7 +10690,7 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 130.9,
+					"Unleaded": 128.9,
 					"Premium Unleaded 95": 140.9,
 					"Premium Unleaded 98": 148.9,
 					"e10": 124.9,
@@ -11490,7 +11490,7 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 128.7,
+					"Unleaded": 128.5,
 					"Premium Unleaded 95": 140.5,
 					"Premium Unleaded 98": 146.7,
 					"e10": 126.7,
@@ -35413,7 +35413,7 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 128.7,
+					"Unleaded": 128.5,
 					"Premium Unleaded 95": 140.5,
 					"Premium Unleaded 98": 146.7,
 					"e10": 126.7,
@@ -44530,7 +44530,7 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 130.9,
+					"Unleaded": 128.9,
 					"Premium Unleaded 95": 140.9,
 					"Premium Unleaded 98": 146.9,
 					"e10": 128.9,
