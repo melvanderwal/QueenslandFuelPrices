@@ -1,5 +1,5 @@
 {
-	"siteTime": "09/02/2021, 8:56:46 am",
+	"siteTime": "10/02/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -9138,14 +9138,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.064023,
-					-27.383685
+					153.064363,
+					-27.383395
 				]
 			},
 			"properties": {
 				"Address": "17-25 Toombul Rd & St Vincents Rd",
 				"Suburb": "Bunbury",
-				"Name": "Caltex/Woolworths Northgate (Virginia)",
+				"Name": "Caltex/Woolworths Virginia",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -11438,14 +11438,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.143909,
-					-27.475017
+					153.143809,
+					-27.474957
 				]
 			},
 			"properties": {
 				"Address": "869 Manly Rd",
 				"Suburb": "Morwell",
-				"Name": "Caltex/Woolworths Manly (Tingalpa)",
+				"Name": "Caltex/Woolworths Tingalpa",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -14750,14 +14750,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.038023,
-					-27.349455
+					153.037943,
+					-27.349825
 				]
 			},
 			"properties": {
 				"Address": "385 Beams Rd",
 				"Suburb": "Derby",
-				"Name": "Caltex/Woolworths Taigum",
+				"Name": "Caltex/Woolworths Zillmere",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -14980,14 +14980,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.676807,
-					-19.245967
+					146.676637,
+					-19.246057
 				]
 			},
 			"properties": {
 				"Address": "Palm Drive",
 				"Suburb": "Deeragun",
-				"Name": "Caltex/Woolworths Woodlands (Deeragun)",
+				"Name": "Caltex/Woolworths Deeragun",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -15302,14 +15302,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.050146,
-					-26.718368
+					153.050186,
+					-26.718518
 				]
 			},
 			"properties": {
 				"Address": "University Way",
 				"Suburb": "Sippy Downs",
-				"Name": "Caltex/Woolworths Chancellor Park",
+				"Name": "Caltex/Woolworths Sippy Downs",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -15900,14 +15900,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.524241,
-					-23.358826
+					150.524221,
+					-23.358896
 				]
 			},
 			"properties": {
 				"Address": "222-236 Musgrave Road",
 				"Suburb": "Rockhampton North",
-				"Name": "Caltex/Woolworths Northside Plaza (Rockhampton)",
+				"Name": "Caltex/Woolworths Berserker",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -15946,14 +15946,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.789661,
-					-19.271065
+					146.789551,
+					-19.271255
 				]
 			},
 			"properties": {
 				"Address": "Kings Rd",
 				"Suburb": "Pimlico",
-				"Name": "Caltex/Woolworths Castletown (Pimlco)",
+				"Name": "Caltex/Woolworths Pimlico",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -19580,14 +19580,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.048015,
-					-26.414893
+					153.048105,
+					-26.414983
 				]
 			},
 			"properties": {
 				"Address": "28 Eenie Creek Rd",
 				"Suburb": "Noosaville",
-				"Name": "Caltex/Woolworths Noosa Heads",
+				"Name": "Caltex/Woolworths Noosaville",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -20385,14 +20385,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.735179,
-					-19.301206
+					146.735089,
+					-19.301176
 				]
 			},
 			"properties": {
 				"Address": "172 Thuringowa Dr & Carlton St",
 				"Suburb": "Kirwan",
-				"Name": "Caltex/Woolworths Willows",
+				"Name": "Caltex/Woolworths Kirwan",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -20707,14 +20707,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.819511,
-					-19.314487
+					146.819681,
+					-19.314607
 				]
 			},
 			"properties": {
 				"Address": "30 Lakeside Dr",
 				"Suburb": "Idalia",
-				"Name": "Caltex/Woolworths Fairfield Waters",
+				"Name": "Caltex/Woolworths Idalia",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -21236,14 +21236,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.824835,
-					-25.285798
+					152.825155,
+					-25.285908
 				]
 			},
 			"properties": {
 				"Address": "56 Boat Harbour Dr",
 				"Suburb": "Pialba",
-				"Name": "Caltex/Woolworths Eli Waters",
+				"Name": "Caltex/Woolworths Pialba",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -21949,14 +21949,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.931624,
-					-27.566683
+					151.931604,
+					-27.566633
 				]
 			},
 			"properties": {
 				"Address": "320 James Street",
 				"Suburb": "Harristown",
-				"Name": "Caltex/Woolworths Clifford Gardens",
+				"Name": "Caltex/Woolworths Harristown",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -27883,14 +27883,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.129307,
-					-26.721443
+					153.129157,
+					-26.721503
 				]
 			},
 			"properties": {
 				"Address": "196-198 Nicklin Way",
 				"Suburb": "Kawana Waters",
-				"Name": "Caltex/Woolworths Kawana Waters",
+				"Name": "Caltex/Woolworths Warana",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -27929,14 +27929,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.953104,
-					-27.290917
+					152.953144,
+					-27.291087
 				]
 			},
 			"properties": {
 				"Address": "1 Young Crossing Road (Cnr Samsonvale Road)",
 				"Suburb": "Warner Lakes",
-				"Name": "Caltex/Woolworths Warner",
+				"Name": "Caltex/Woolworths Joyner",
 				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
