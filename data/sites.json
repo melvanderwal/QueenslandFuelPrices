@@ -1,5 +1,5 @@
 {
-	"siteTime": "11/02/2021, 8:56:45 am",
+	"siteTime": "12/02/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -6286,14 +6286,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.959082,
+					152.959362,
 					-27.588266
 				]
 			},
 			"properties": {
 				"Address": "332 Archerfield Rd & Littleton Rd",
 				"Suburb": "Inala",
-				"Name": "Puma Inala",
+				"Name": "Puma Richlands",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -14911,14 +14911,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.743555,
-					-17.004183
+					145.743495,
+					-17.004203
 				]
 			},
 			"properties": {
 				"Address": "28 Supply Rd",
 				"Suburb": "Edmonton",
-				"Name": "Puma Fuel Edmonton",
+				"Name": "Puma Bentley Park",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -18315,14 +18315,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.654788,
-					-25.576793
+					152.654828,
+					-25.576953
 				]
 			},
 			"properties": {
 				"Address": "Bruce Hwy",
 				"Suburb": "Maryborough South",
-				"Name": "Puma Maryborough South",
+				"Name": "Puma Tinana South",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -19350,14 +19350,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.253495,
-					-20.096862
+					146.253255,
+					-20.096782
 				]
 			},
 			"properties": {
 				"Address": "Flinders Hwy",
 				"Suburb": "Charters Towers",
-				"Name": "Puma Charters Towers",
+				"Name": "Puma Mosman Park",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -20799,14 +20799,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					147.843639,
-					-19.923724
+					147.843409,
+					-19.923764
 				]
 			},
 			"properties": {
 				"Address": "4 Coventry Rd",
 				"Suburb": "Guthalungra",
-				"Name": "Choice Oasis Roadhouse",
+				"Name": "Choice Guthalungra",
 				"Brand": "Choice",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -21581,14 +21581,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.670691,
-					-20.299685
+					148.670651,
+					-20.299425
 				]
 			},
 			"properties": {
 				"Address": "1678 Shute Harbour Road",
 				"Suburb": "Airlie Beach",
-				"Name": "Puma Airlie Beach",
+				"Name": "Puma Cannon Valley",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -23490,14 +23490,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.243957,
-					-23.870577
+					151.243857,
+					-23.870387
 				]
 			},
 			"properties": {
 				"Address": "193 Philip St",
 				"Suburb": "Gladstone",
-				"Name": "Puma Kin Kora",
+				"Name": "Puma Gladstone West",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -23651,14 +23651,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.504958,
-					-23.379524
+					150.504888,
+					-23.379494
 				]
 			},
 			"properties": {
 				"Address": "91-101 George St",
 				"Suburb": "Rockhampton",
-				"Name": "Puma Coach",
+				"Name": "Puma Rockhampton",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -23743,14 +23743,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.144434,
-					-21.274998
+					149.144454,
+					-21.274648
 				]
 			},
 			"properties": {
 				"Address": "Bruce Hwy",
 				"Suburb": "Sandy Creek",
-				"Name": "Puma Sandy Creek",
+				"Name": "Puma Balberra",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -23928,13 +23928,13 @@
 				"type": "Point",
 				"coordinates": [
 					149.071448,
-					-21.093179
+					-21.093199
 				]
 			},
 			"properties": {
 				"Address": "Bruce Hwy",
 				"Suburb": "Coningsby",
-				"Name": "Puma Coningsby",
+				"Name": "Puma Farleigh",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -23973,14 +23973,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.188259,
-					-21.125029
+					149.188419,
+					-21.124859
 				]
 			},
 			"properties": {
 				"Address": "Evans Av",
 				"Suburb": "Mackay North",
-				"Name": "Puma Northways",
+				"Name": "Puma Mackay North",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -24065,14 +24065,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.840131,
-					-19.698235
+					146.840241,
+					-19.698175
 				]
 			},
 			"properties": {
 				"Address": "4545 Flinders Highway",
 				"Suburb": "Calcium",
-				"Name": "Puma Calcium",
+				"Name": "Puma Reid River",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -24916,14 +24916,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.523628,
-					-23.350325
+					150.523378,
+					-23.350155
 				]
 			},
 			"properties": {
 				"Address": "351 Yamba Rd",
 				"Suburb": "Rockhampton",
-				"Name": "Puma Tourist",
+				"Name": "Puma Park Avenue",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -26250,14 +26250,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.336198,
+					152.336418,
 					-24.870666
 				]
 			},
 			"properties": {
 				"Address": "10 Takalvan St & Woongara St",
 				"Suburb": "Bundaberg",
-				"Name": "Puma Takalvan Street",
+				"Name": "Puma Bundaberg West",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -29493,14 +29493,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.821562,
-					-27.588734
+					152.821552,
+					-27.588714
 				]
 			},
 			"properties": {
 				"Address": " Cnr Ashburn Rd & Hawkins Crescent",
 				"Suburb": "Bundamba",
-				"Name": "Puma Citiswich",
+				"Name": "Puma Bundamba",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -29539,14 +29539,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.805831,
-					-19.268324
+					146.805901,
+					-19.268404
 				]
 			},
 			"properties": {
 				"Address": "19 Ingham Road",
 				"Suburb": "West End",
-				"Name": "Puma Midtown (Townsville)",
+				"Name": "Puma West End",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -30552,13 +30552,13 @@
 				"type": "Point",
 				"coordinates": [
 					152.928043,
-					-27.076178
+					-27.076138
 				]
 			},
 			"properties": {
 				"Address": "286-290 King Street",
 				"Suburb": "Caboolture",
-				"Name": "Puma Caboolture (King St)",
+				"Name": "Puma Caboolture West",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
