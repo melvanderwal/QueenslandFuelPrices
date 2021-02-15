@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "15/02/2021, 8:56:45 am",
-	"priceTime": "15/02/2021, 2:29:14 pm",
+	"priceTime": "15/02/2021, 2:29:41 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2835,7 +2835,7 @@ var data={
 				"Suburb": "Mandurah",
 				"Name": "Pacific Petroleum Deagon",
 				"Brand": "Pacific Petroleum",
-				"LastUpdatedUtc": "2021-02-10T06:04:20",
+				"LastUpdatedUtc": "2021-02-15T04:28:44",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2844,7 +2844,7 @@ var data={
 					"Unleaded": 118.7,
 					"Premium Unleaded 98": 138.7,
 					"e10": 117.7,
-					"Premium Diesel": 123.9
+					"Premium Diesel": 125.9
 				}
 			}
 		},
@@ -31987,7 +31987,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Puma Bundaberg West",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-02-15T04:27:27",
+				"LastUpdatedUtc": "2021-02-15T04:28:14",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
