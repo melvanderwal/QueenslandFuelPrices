@@ -1,5 +1,5 @@
 {
-	"siteTime": "17/02/2021, 8:56:45 am",
+	"siteTime": "18/02/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -16138,29 +16138,6 @@
 				"Address": "25 Fulham St",
 				"Suburb": "Toogoolawah",
 				"Name": "BP Seymours Toyota",
-				"Brand": "BP",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402481,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.294691,
-					-28.397689
-				]
-			},
-			"properties": {
-				"Address": "Lot 2 Cunningham Highway",
-				"Suburb": "Oman Ama",
-				"Name": "BP Oman Ama Store",
 				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
