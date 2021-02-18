@@ -203,74 +203,88 @@ function priceColor(percentage) {
 // Add data sources and layers to the map
 map.on("load", function () {
 
-        priceData = new fuelPriceData(data);
+    // Add hillshade
+    map.addSource('dem', {
+        'type': 'raster-dem',
+        'url': 'mapbox://mapbox.terrain-rgb'
+    });
+    map.addLayer(
+        {
+            'id': 'hillshading',
+            'source': 'dem',
+            'type': 'hillshade'
+        },
+        'waterway-shadow'
+    );
 
-        var priceSource = {
-            "type": "geojson",
-            "data": priceData.filteredPrices
-        };
-        map.addSource('priceSource', priceSource);
+    priceData = new fuelPriceData(data);
 
-        var allPricesSource = {
-            "type": "geojson",
-            "data": priceData.sourcePrices
-        };
-        map.addSource('allPricesSource', allPricesSource);
+    var priceSource = {
+        "type": "geojson",
+        "data": priceData.filteredPrices
+    };
+    map.addSource('priceSource', priceSource);
 
-        const layers = map.getStyle().layers;
-        var firstSymbolId;
-        for (let i = 0; i < layers.length; i++) {
-            if (layers[i].type === 'symbol') {
-                firstSymbolId = layers[i].id;
-                break;
-            }
+    var allPricesSource = {
+        "type": "geojson",
+        "data": priceData.sourcePrices
+    };
+    map.addSource('allPricesSource', allPricesSource);
+
+    const layers = map.getStyle().layers;
+    var firstSymbolId;
+    for (let i = 0; i < layers.length; i++) {
+        if (layers[i].type === 'symbol') {
+            firstSymbolId = layers[i].id;
+            break;
         }
+    }
 
-        map.addLayer({
-            'id': 'priceHeatLayer',
-            'source': 'allPricesSource',
-            'type': 'heatmap',
-            'paint': { 'heatmap-opacity': 0.1 }
-        }, firstSymbolId)
+    map.addLayer({
+        'id': 'priceHeatLayer',
+        'source': 'allPricesSource',
+        'type': 'heatmap',
+        'paint': { 'heatmap-opacity': 0.1 }
+    }, firstSymbolId)
 
-        // The price points layer isn't used visually, but is used when the user clicks on a marker to get
-        // the data for that petrol station.
-        map.addLayer({
-            'id': 'pricePointLayer',
-            'source': 'priceSource',
-            'minzoom': 11,
-            'type': 'circle',
-            'paint': { "circle-opacity": 0, "circle-radius": 15 }
-        })
+    // The price points layer isn't used visually, but is used when the user clicks on a marker to get
+    // the data for that petrol station.
+    map.addLayer({
+        'id': 'pricePointLayer',
+        'source': 'priceSource',
+        'minzoom': 11,
+        'type': 'circle',
+        'paint': { "circle-opacity": 0, "circle-radius": 15 }
+    })
 
-        map.on('click', 'pricePointLayer', function (e) {
-            // Fix null values - e.features changes null to a string "null"
-            let props = e.features[0].properties;
+    map.on('click', 'pricePointLayer', function (e) {
+        // Fix null values - e.features changes null to a string "null"
+        let props = e.features[0].properties;
 
-            let keys = Object.keys(props);
-            let vals = Object.values(props);
-            vals.forEach(function (item, i) { if (item == "null") props[keys[i]] = null; });
+        let keys = Object.keys(props);
+        let vals = Object.values(props);
+        vals.forEach(function (item, i) { if (item == "null") props[keys[i]] = null; });
 
-            // Update the price range control
-            let data = controls.priceRange.rangeData;
+        // Update the price range control
+        let data = controls.priceRange.rangeData;
 
-            data.current = props.Price;
-            data.currentSite = props.Name;
-            data.currentSiteLastUpdated = props.LastUpdatedUtc;
+        data.current = props.Price;
+        data.currentSite = props.Name;
+        data.currentSiteLastUpdated = props.LastUpdatedUtc;
 
-            let prices = JSON.parse(props.Prices);
-            data.currentSitePrices = new Map();
-            keys = Object.keys(prices);
-            vals = Object.values(prices);
-            vals.forEach(function (item, i) { data.currentSitePrices.set(keys[i], vals[i]) });
+        let prices = JSON.parse(props.Prices);
+        data.currentSitePrices = new Map();
+        keys = Object.keys(prices);
+        vals = Object.values(prices);
+        vals.forEach(function (item, i) { data.currentSitePrices.set(keys[i], vals[i]) });
 
-            controls.priceRange.update();
-        });
+        controls.priceRange.update();
+    });
 
-        updateMarkers();
+    updateMarkers();
 
-        // Hide the startup spinner
-        document.getElementById("kickstart").style.display = "none";
+    // Hide the startup spinner
+    document.getElementById("kickstart").style.display = "none";
 
 })  // End Map on load
 
