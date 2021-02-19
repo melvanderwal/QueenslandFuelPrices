@@ -1,5 +1,5 @@
 {
-	"siteTime": "19/02/2021, 8:56:46 am",
+	"siteTime": "20/02/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2652,15 +2652,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.059482,
-					-27.398453
+					153.059282,
+					-27.398383
 				]
 			},
 			"properties": {
 				"Address": "1401 Sandgate Rd & Henchman St",
 				"Suburb": "Collie",
-				"Name": "Caltex Starmart Nundah",
-				"Brand": "Caltex",
+				"Name": "Ampol Nundah",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -5826,15 +5826,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.886251,
-					-27.373418
+					152.886441,
+					-27.373488
 				]
 			},
 			"properties": {
 				"Address": "Lot 1 Mt Glorious Rd",
 				"Suburb": "Samford Village",
-				"Name": "Caltex Samford",
-				"Brand": "Caltex",
+				"Name": "Ampol Samford Village",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -9667,14 +9667,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.987203,
-					-27.322443
+					152.987103,
+					-27.322263
 				]
 			},
 			"properties": {
 				"Address": "125 South Pine Road",
 				"Suburb": "Brendale",
-				"Name": "Liberty Stathpine",
+				"Name": "Liberty Strathpine",
 				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -11078,29 +11078,6 @@
 				"Address": "Bruce Hwy",
 				"Suburb": "Appletree Creek",
 				"Name": "Caltex Apple Tree Creek",
-				"Brand": "Caltex",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402054,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.336035,
-					-24.004838
-				]
-			},
-			"properties": {
-				"Address": "48818 Bruce Highway",
-				"Suburb": "Benaraby",
-				"Name": "Caltex Boyne River Benaraby",
 				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -20026,6 +20003,29 @@
 				"Suburb": "Pialba",
 				"Name": "Coles Express Hervey Bay",
 				"Brand": "Coles Express",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402816,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.904213,
+					-27.678606
+				]
+			},
+			"properties": {
+				"Address": "Cnr Centenary Hwy & Springfield Greenbank Arterial",
+				"Suburb": "Springfield",
+				"Name": "Caltex/Woolworths Springfield",
+				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -35174,15 +35174,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.072129,
-					-27.410445
+					153.072019,
+					-27.410335
 				]
 			},
 			"properties": {
 				"Address": "132A East West Arterial Road",
 				"Suburb": "Sorell",
-				"Name": "Caltex Hendra",
-				"Brand": "Caltex",
+				"Name": "Ampol Hendra",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -35542,15 +35542,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.121802,
-					-27.474148
+					153.121592,
+					-27.474288
 				]
 			},
 			"properties": {
 				"Address": "1466-1472 Wynnum Road",
 				"Suburb": "Morwell",
-				"Name": "Caltex Tingalpa",
-				"Brand": "Caltex",
+				"Name": "Ampol Tingalpa",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
