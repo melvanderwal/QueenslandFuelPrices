@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "19/02/2021, 8:56:46 am",
-	"priceTime": "20/02/2021, 6:16:36 am",
+	"priceTime": "20/02/2021, 6:18:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -14864,7 +14864,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-02-19T14:01:00",
+				"LastUpdatedUtc": "2021-02-19T19:25:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23314,7 +23314,7 @@ var data={
 				"Suburb": "Kawana Waters",
 				"Name": "Caltex Kawana Waters Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-02-19T14:01:00",
+				"LastUpdatedUtc": "2021-02-19T19:34:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
