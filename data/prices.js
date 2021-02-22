@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "22/02/2021, 8:56:45 am",
-	"priceTime": "22/02/2021, 6:29:13 pm",
+	"priceTime": "22/02/2021, 6:29:42 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -2900,7 +2900,7 @@ var data={
 					"Unleaded": 155.9,
 					"LPG": 85.9,
 					"Premium Unleaded 95": 165.9,
-					"Premium Unleaded 98": 175.9,
+					"Premium Unleaded 98": 174.9,
 					"Premium Diesel": 129.9
 				}
 			}
