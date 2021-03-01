@@ -1,5 +1,5 @@
 {
-	"siteTime": "01/03/2021, 8:56:45 am",
+	"siteTime": "02/03/2021, 8:56:46 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -5642,15 +5642,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.266517,
-					-27.532566
+					153.266237,
+					-27.532706
 				]
 			},
 			"properties": {
-				"Address": "209 Bloomfield St & Ross Ctr",
+				"Address": " 209 Bloomfield St Cnr Ross Ctr",
 				"Suburb": "Euroa",
-				"Name": "Caltex Cleveland",
-				"Brand": "Caltex",
+				"Name": "Ampol Cleveland",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -9207,15 +9207,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.981103,
-					-27.570206
+					152.981113,
+					-27.570276
 				]
 			},
 			"properties": {
 				"Address": "94 Blunder Road",
 				"Suburb": "Oxley",
-				"Name": "Caltex Oxley",
-				"Brand": "Caltex",
+				"Name": "Ampol Oxley",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -9506,15 +9506,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.128197,
-					-27.547257
+					153.128307,
+					-27.547307
 				]
 			},
 			"properties": {
 				"Address": "1015 Mt Gravatt-Capalaba Rd",
 				"Suburb": "Mackenzie",
-				"Name": "Caltex Mackenzie",
-				"Brand": "Caltex",
+				"Name": "Ampol Mackenzie",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -32069,15 +32069,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.010672,
+					153.010752,
 					-27.202421
 				]
 			},
 			"properties": {
 				"Address": "2 Steel Street",
 				"Suburb": "Ceduna",
-				"Name": "Caltex Narangba",
-				"Brand": "Caltex",
+				"Name": "Ampol Narangba",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
