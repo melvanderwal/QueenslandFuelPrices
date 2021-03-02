@@ -1,5 +1,5 @@
 {
-	"siteTime": "02/03/2021, 8:56:46 am",
+	"siteTime": "03/03/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -16644,29 +16644,6 @@
 				"Address": "Cnr Bruce Hwy & Tynan St",
 				"Suburb": "Marmor",
 				"Name": "BP Marmor",
-				"Brand": "BP",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402531,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					148.097657,
-					-24.124757
-				]
-			},
-			"properties": {
-				"Address": "86 William Street",
-				"Suburb": "Springsure",
-				"Name": "Springsure Roadhouse",
 				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -34630,6 +34607,29 @@
 				"Address": "211 Patrick Street",
 				"Suburb": "Laidley",
 				"Name": "Laidley North Service Station",
+				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61477906,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					148.581992,
+					-28.037836
+				]
+			},
+			"properties": {
+				"Address": "41 Grey Street",
+				"Suburb": "St George",
+				"Name": "Halpin Motors",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
