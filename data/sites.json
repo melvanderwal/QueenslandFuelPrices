@@ -1,5 +1,5 @@
 {
-	"siteTime": "05/03/2021, 8:56:45 am",
+	"siteTime": "06/03/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1387,15 +1387,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.099776,
-					-27.505815
+					153.099946,
+					-27.505535
 				]
 			},
 			"properties": {
-				"Address": "1055 Creek Rd & Winstanley St",
+				"Address": " 1055 Creek Rd Cnr Winstanley St",
 				"Suburb": "Castlemaine",
-				"Name": "Caltex Star Mart Carindale",
-				"Brand": "Caltex",
+				"Name": "Ampol Carindale",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -6516,15 +6516,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.197813,
-					-27.531522
+					153.197753,
+					-27.531272
 				]
 			},
 			"properties": {
 				"Address": "129-131 Redland Bay Rd",
 				"Suburb": "Capalaba",
-				"Name": "Caltex Capalaba",
-				"Brand": "Caltex",
+				"Name": "Ampol Capalaba",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -8862,15 +8862,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.253785,
-					-27.524248
+					153.253695,
+					-27.524338
 				]
 			},
 			"properties": {
 				"Address": "19-23 Shore St & 2 Grant St",
 				"Suburb": "Euroa",
-				"Name": "Caltex Starmart Cleveland (Shore St)",
-				"Brand": "Caltex",
+				"Name": "Ampol Cleveland",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -35864,15 +35864,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.973568,
-					-26.616684
+					152.973438,
+					-26.616784
 				]
 			},
 			"properties": {
 				"Address": "668 Bli Bli Road",
 				"Suburb": "Nambour",
-				"Name": "FTC Caltex Nambour",
-				"Brand": "Independent",
+				"Name": "Ampol Nambour",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
