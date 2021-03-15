@@ -1,5 +1,5 @@
 {
-	"siteTime": "15/03/2021, 8:56:45 am",
+	"siteTime": "16/03/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -5412,15 +5412,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.461384,
-					-28.122684
+					153.461264,
+					-28.122864
 				]
 			},
 			"properties": {
 				"Address": "196 Kp Mcgrath Dr",
 				"Suburb": "Elanora",
-				"Name": "Caltex Star Mart Elanora",
-				"Brand": "Caltex",
+				"Name": "Ampol Elanora",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -6723,15 +6723,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.088107,
-					-27.679716
+					153.088167,
+					-27.680066
 				]
 			},
 			"properties": {
 				"Address": "10 Third Av & Browns Plains Rd",
 				"Suburb": "Marsden",
-				"Name": "Caltex Marsden",
-				"Brand": "Caltex",
+				"Name": "Ampol Marsden",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -9345,15 +9345,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.100429,
-					-27.642938
+					153.100539,
+					-27.643088
 				]
 			},
 			"properties": {
 				"Address": "153 Wembley Rd",
 				"Suburb": "Woodridge",
-				"Name": "Caltex Woodridge West",
-				"Brand": "Caltex",
+				"Name": "Ampol Woodridge West",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -11055,29 +11055,6 @@
 				"Address": "Bruce Hwy",
 				"Suburb": "Appletree Creek",
 				"Name": "Caltex Apple Tree Creek",
-				"Brand": "Caltex",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402054,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.335695,
-					-24.004968
-				]
-			},
-			"properties": {
-				"Address": "48818 Bruce Highway",
-				"Suburb": "Benaraby",
-				"Name": "Caltex Boyne River Benaraby",
 				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
